@@ -1,0 +1,1933 @@
+0	09:19:44.965	Custom Moving Averages USDJPY,H4: uninit reason 3
+0	09:19:44.974	Gambit USDJPY,H4: uninit reason 3
+0	09:19:44.975	Parabolic USDJPY,H4: uninit reason 3
+0	09:19:44.975	ifibonacci USDJPY,H4: uninit reason 3
+1	09:19:44.975	ifibonacci USDJPY,H4: array out of range in 'ifibonacci.mq4' (205,28)
+0	09:19:44.988	1fractal USDJPY,H4: uninit reason 3
+0	09:19:44.988	Stochastic USDJPY,H4: uninit reason 3
+0	09:19:45.021	Custom Moving Averages USDJPY,H1: initialized
+0	09:19:45.021	Gambit USDJPY,H1: initialized
+0	09:19:45.021	Parabolic USDJPY,H1: initialized
+0	09:19:45.022	ifibonacci USDJPY,H1: initialized
+0	09:19:45.022	1fractal USDJPY,H1: initialized
+0	09:19:45.024	Stochastic USDJPY,H1: initialized
+0	09:20:03.735	ifibonacci USDJPY,H1: uninit reason 1
+1	09:20:03.735	ifibonacci USDJPY,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	09:20:03.760	Custom indicator ifibonacci USDJPY,H1: removed
+0	09:20:09.421	Custom Moving Averages USDJPY,H1: uninit reason 3
+0	09:20:09.422	Gambit USDJPY,H1: uninit reason 3
+0	09:20:09.422	Parabolic USDJPY,H1: uninit reason 3
+0	09:20:09.422	1fractal USDJPY,H1: uninit reason 3
+0	09:20:09.422	Stochastic USDJPY,H1: uninit reason 3
+0	09:20:09.422	Custom Moving Averages USDJPY,H4: initialized
+0	09:20:09.422	Gambit USDJPY,H4: initialized
+0	09:20:09.422	Parabolic USDJPY,H4: initialized
+0	09:20:09.422	1fractal USDJPY,H4: initialized
+0	09:20:09.422	Stochastic USDJPY,H4: initialized
+0	09:20:23.170	Custom Moving Averages ETHUSD,H1: uninit reason 4
+0	09:20:23.171	Gambit ETHUSD,H1: uninit reason 4
+0	09:20:23.171	Parabolic ETHUSD,H1: uninit reason 4
+0	09:20:23.172	1fractal ETHUSD,H1: uninit reason 4
+0	09:20:23.172	Stochastic ETHUSD,H1: uninit reason 4
+0	09:20:23.172	RSI ETHUSD,H1: uninit reason 4
+0	09:20:23.188	Custom indicator Custom Moving Averages ETHUSD,H1: removed
+0	09:20:23.197	Custom indicator Gambit ETHUSD,H1: removed
+0	09:20:23.208	Custom indicator Parabolic ETHUSD,H1: removed
+0	09:20:23.216	Custom indicator 1fractal ETHUSD,H1: removed
+0	09:20:23.224	Custom indicator Stochastic ETHUSD,H1: removed
+0	09:20:23.230	Custom indicator RSI ETHUSD,H1: removed
+0	09:20:29.707	Custom Moving Averages LTCUSD,Weekly: uninit reason 4
+0	09:20:29.707	Gambit LTCUSD,Weekly: uninit reason 4
+0	09:20:29.708	Parabolic LTCUSD,Weekly: uninit reason 4
+0	09:20:29.708	1fractal LTCUSD,Weekly: uninit reason 4
+0	09:20:29.708	come LTCUSD,Weekly: uninit reason 4
+0	09:20:29.719	Stochastic LTCUSD,Weekly: uninit reason 4
+0	09:20:29.719	RSI LTCUSD,Weekly: uninit reason 4
+0	09:20:29.733	Custom indicator Custom Moving Averages LTCUSD,Weekly: removed
+0	09:20:29.743	Custom indicator Gambit LTCUSD,Weekly: removed
+0	09:20:29.752	Custom indicator Parabolic LTCUSD,Weekly: removed
+0	09:20:29.760	Custom indicator 1fractal LTCUSD,Weekly: removed
+0	09:20:29.768	Custom indicator come LTCUSD,Weekly: removed
+0	09:20:29.776	Custom indicator Stochastic LTCUSD,Weekly: removed
+0	09:20:29.785	Custom indicator RSI LTCUSD,Weekly: removed
+0	09:20:37.985	Custom Moving Averages EURUSD,M30: uninit reason 3
+0	09:20:37.985	Gambit EURUSD,M30: uninit reason 3
+0	09:20:37.985	Parabolic EURUSD,M30: uninit reason 3
+0	09:20:37.985	1fractal EURUSD,M30: uninit reason 3
+0	09:20:38.046	Stochastic EURUSD,M30: uninit reason 3
+0	09:20:38.046	RSI EURUSD,M30: uninit reason 3
+0	09:20:38.083	Custom Moving Averages EURUSD,H4: initialized
+0	09:20:38.084	Gambit EURUSD,H4: initialized
+0	09:20:38.087	Parabolic EURUSD,H4: initialized
+0	09:20:38.088	1fractal EURUSD,H4: initialized
+0	09:20:38.092	Stochastic EURUSD,H4: initialized
+0	09:20:38.095	RSI EURUSD,H4: initialized
+0	09:23:08.769	ZigZag happy XAUUSD,H1: uninit reason 9
+0	09:23:08.769	ifibonacci XAUUSD,H1: uninit reason 9
+1	09:23:08.769	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	09:23:08.779	Custom Moving Averages USDJPY,H4: uninit reason 9
+0	09:23:08.779	Gambit USDJPY,H4: uninit reason 9
+0	09:23:08.779	Parabolic USDJPY,H4: uninit reason 9
+0	09:23:08.779	1fractal USDJPY,H4: uninit reason 9
+0	09:23:08.779	ZigZag happy USDJPY,H4: uninit reason 9
+0	09:23:08.779	Stochastic USDJPY,H4: uninit reason 9
+0	09:23:08.779	Custom Moving Averages USDJPY,H4: uninit reason 9
+0	09:23:08.779	Gambit USDJPY,H4: uninit reason 9
+0	09:23:08.779	Parabolic USDJPY,H4: uninit reason 9
+0	09:23:08.779	1fractal USDJPY,H4: uninit reason 9
+0	09:23:08.779	Stochastic USDJPY,H4: uninit reason 9
+0	09:23:08.779	Custom Moving Averages USDX,H4: uninit reason 9
+0	09:23:08.779	Gambit USDX,H4: uninit reason 9
+0	09:23:08.779	Parabolic USDX,H4: uninit reason 9
+0	09:23:08.779	1fractal USDX,H4: uninit reason 9
+0	09:23:08.780	Stochastic USDX,H4: uninit reason 9
+0	09:23:08.780	RSI USDX,H4: uninit reason 9
+0	09:23:08.780	Custom Moving Averages XAUUSD,H1: uninit reason 9
+0	09:23:08.780	Gambit XAUUSD,H1: uninit reason 9
+0	09:23:08.780	Parabolic XAUUSD,H1: uninit reason 9
+0	09:23:08.780	1fractal XAUUSD,H1: uninit reason 9
+0	09:23:08.782	Stochastic XAUUSD,H1: uninit reason 9
+0	09:23:08.782	Custom Moving Averages EURUSD,H4: uninit reason 9
+0	09:23:08.782	Gambit EURUSD,H4: uninit reason 9
+0	09:23:08.782	Parabolic EURUSD,H4: uninit reason 9
+0	09:23:08.782	1fractal EURUSD,H4: uninit reason 9
+0	09:23:08.782	Stochastic EURUSD,H4: uninit reason 9
+0	09:23:08.782	RSI EURUSD,H4: uninit reason 9
+0	09:23:09.136	Custom indicator ZigZag happy XAUUSD,H1: removed
+0	09:23:09.147	Custom indicator ifibonacci XAUUSD,H1: removed
+0	09:23:09.165	Custom indicator Custom Moving Averages USDJPY,H4: removed
+0	09:23:09.174	Custom indicator Gambit USDJPY,H4: removed
+0	09:23:09.188	Custom indicator Parabolic USDJPY,H4: removed
+0	09:23:09.196	Custom indicator 1fractal USDJPY,H4: removed
+0	09:23:09.197	Custom indicator ZigZag happy USDJPY,H4: removed
+0	09:23:09.206	Custom indicator Stochastic USDJPY,H4: removed
+0	09:23:09.255	Custom indicator Custom Moving Averages USDJPY,H4: removed
+0	09:23:09.266	Custom indicator Gambit USDJPY,H4: removed
+0	09:23:09.279	Custom indicator Parabolic USDJPY,H4: removed
+0	09:23:09.292	Custom indicator 1fractal USDJPY,H4: removed
+0	09:23:09.307	Custom indicator Stochastic USDJPY,H4: removed
+0	09:23:09.344	Custom indicator Custom Moving Averages USDX,H4: removed
+0	09:23:09.348	Custom indicator Gambit USDX,H4: removed
+0	09:23:09.354	Custom indicator Parabolic USDX,H4: removed
+0	09:23:09.359	Custom indicator 1fractal USDX,H4: removed
+0	09:23:09.363	Custom indicator Stochastic USDX,H4: removed
+0	09:23:09.367	Custom indicator RSI USDX,H4: removed
+0	09:23:09.378	Custom indicator Custom Moving Averages XAUUSD,H1: removed
+0	09:23:09.382	Custom indicator Gambit XAUUSD,H1: removed
+0	09:23:09.388	Custom indicator Parabolic XAUUSD,H1: removed
+0	09:23:09.392	Custom indicator 1fractal XAUUSD,H1: removed
+0	09:23:09.396	Custom indicator Stochastic XAUUSD,H1: removed
+0	09:23:09.411	Custom indicator Custom Moving Averages EURUSD,H4: removed
+0	09:23:09.416	Custom indicator Gambit EURUSD,H4: removed
+0	09:23:09.424	Custom indicator Parabolic EURUSD,H4: removed
+0	09:23:09.428	Custom indicator 1fractal EURUSD,H4: removed
+0	09:23:09.432	Custom indicator Stochastic EURUSD,H4: removed
+0	09:23:09.438	Custom indicator RSI EURUSD,H4: removed
+0	09:23:38.858	Custom indicator ZigZag happy XAUUSD,H1: loaded successfully
+0	09:23:38.887	Custom indicator ifibonacci XAUUSD,H1: loaded successfully
+0	09:23:38.892	ZigZag happy XAUUSD,H1: initialized
+0	09:23:38.981	ifibonacci XAUUSD,H1: One of Fibo ARC Methods is requires DLL, Remember to allow DLL imports if you like to use it.
+0	09:23:38.981	ifibonacci XAUUSD,H1: initialized
+0	09:23:39.183	Custom indicator Custom Moving Averages USDJPY,H4: loaded successfully
+0	09:23:39.216	Custom indicator Gambit USDJPY,H4: loaded successfully
+0	09:23:39.235	Custom indicator Parabolic USDJPY,H4: loaded successfully
+0	09:23:39.252	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	09:23:39.296	Custom indicator ZigZag happy USDJPY,H4: loaded successfully
+0	09:23:39.312	Custom indicator Stochastic USDJPY,H4: loaded successfully
+0	09:23:39.341	Custom Moving Averages USDJPY,H4: initialized
+0	09:23:39.367	Gambit USDJPY,H4: initialized
+0	09:23:39.393	Parabolic USDJPY,H4: initialized
+0	09:23:39.418	1fractal USDJPY,H4: initialized
+0	09:23:39.418	ZigZag happy USDJPY,H4: initialized
+0	09:23:39.440	Stochastic USDJPY,H4: initialized
+0	09:23:39.630	Custom indicator Custom Moving Averages USDJPY,H4: loaded successfully
+0	09:23:39.667	Custom indicator Gambit USDJPY,H4: loaded successfully
+0	09:23:39.704	Custom indicator Parabolic USDJPY,H4: loaded successfully
+0	09:23:39.738	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	09:23:39.770	Custom indicator Stochastic USDJPY,H4: loaded successfully
+0	09:23:39.803	Custom Moving Averages USDJPY,H4: initialized
+0	09:23:39.829	Gambit USDJPY,H4: initialized
+0	09:23:39.857	Parabolic USDJPY,H4: initialized
+0	09:23:39.883	1fractal USDJPY,H4: initialized
+0	09:23:39.904	Stochastic USDJPY,H4: initialized
+0	09:23:40.017	Custom indicator Custom Moving Averages USDX,H4: loaded successfully
+0	09:23:40.040	Custom indicator Gambit USDX,H4: loaded successfully
+0	09:23:40.057	Custom indicator Parabolic USDX,H4: loaded successfully
+0	09:23:40.074	Custom indicator 1fractal USDX,H4: loaded successfully
+0	09:23:40.091	Custom indicator Stochastic USDX,H4: loaded successfully
+0	09:23:40.107	Custom indicator RSI USDX,H4: loaded successfully
+0	09:23:40.133	Custom Moving Averages USDX,H4: initialized
+0	09:23:40.162	Gambit USDX,H4: initialized
+0	09:23:40.197	Parabolic USDX,H4: initialized
+0	09:23:40.235	1fractal USDX,H4: initialized
+0	09:23:40.267	Stochastic USDX,H4: initialized
+0	09:23:40.294	RSI USDX,H4: initialized
+0	09:23:40.352	Custom indicator Custom Moving Averages XAUUSD,H1: loaded successfully
+0	09:23:40.370	Custom indicator Gambit XAUUSD,H1: loaded successfully
+0	09:23:40.388	Custom indicator Parabolic XAUUSD,H1: loaded successfully
+0	09:23:40.410	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	09:23:40.433	Custom indicator Stochastic XAUUSD,H1: loaded successfully
+0	09:23:40.471	Custom Moving Averages XAUUSD,H1: initialized
+0	09:23:40.499	Gambit XAUUSD,H1: initialized
+0	09:23:40.524	Parabolic XAUUSD,H1: initialized
+0	09:23:40.549	1fractal XAUUSD,H1: initialized
+0	09:23:40.571	Stochastic XAUUSD,H1: initialized
+0	09:23:40.700	Custom indicator Custom Moving Averages EURUSD,H4: loaded successfully
+0	09:23:40.717	Custom indicator Gambit EURUSD,H4: loaded successfully
+0	09:23:40.735	Custom indicator Parabolic EURUSD,H4: loaded successfully
+0	09:23:40.753	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	09:23:40.768	Custom indicator Stochastic EURUSD,H4: loaded successfully
+0	09:23:40.785	Custom indicator RSI EURUSD,H4: loaded successfully
+0	09:23:40.813	Custom Moving Averages EURUSD,H4: initialized
+0	09:23:40.840	Gambit EURUSD,H4: initialized
+0	09:23:40.866	Parabolic EURUSD,H4: initialized
+0	09:23:40.898	1fractal EURUSD,H4: initialized
+0	09:23:40.931	Stochastic EURUSD,H4: initialized
+0	09:23:40.967	RSI EURUSD,H4: initialized
+0	09:25:45.392	Custom Moving Averages USDX,H4: uninit reason 3
+0	09:25:45.392	Gambit USDX,H4: uninit reason 3
+0	09:25:45.392	Parabolic USDX,H4: uninit reason 3
+0	09:25:45.392	1fractal USDX,H4: uninit reason 3
+0	09:25:45.392	Stochastic USDX,H4: uninit reason 3
+0	09:25:45.392	RSI USDX,H4: uninit reason 3
+0	09:25:45.480	Custom Moving Averages USDX,Daily: initialized
+0	09:25:45.480	Gambit USDX,Daily: initialized
+0	09:25:45.480	Parabolic USDX,Daily: initialized
+0	09:25:45.480	1fractal USDX,Daily: initialized
+0	09:25:45.480	Stochastic USDX,Daily: initialized
+0	09:25:45.480	RSI USDX,Daily: initialized
+0	11:55:01.908	Expert gamExpert USDX,Daily: loaded successfully
+0	11:55:06.544	Expert gamExpert USDX,Daily: removed
+0	11:56:40.051	Expert gamExpert USDX,Daily: loaded successfully
+0	11:56:43.272	gamExpert USDX,Daily inputs: Lot=0.1; 
+0	11:56:43.582	gamExpert USDX,Daily: initialized
+0	11:56:51.115	gamExpert USDX,Daily: uninit reason 3
+0	11:56:51.117	Custom Moving Averages USDX,Daily: uninit reason 3
+0	11:56:51.119	Gambit USDX,Daily: uninit reason 3
+0	11:56:51.119	Parabolic USDX,Daily: uninit reason 3
+0	11:56:51.119	1fractal USDX,Daily: uninit reason 3
+0	11:56:51.119	Stochastic USDX,Daily: uninit reason 3
+0	11:56:51.119	RSI USDX,Daily: uninit reason 3
+0	11:56:51.141	Custom Moving Averages USDX,M5: initialized
+0	11:56:51.141	Gambit USDX,M5: initialized
+0	11:56:51.142	Parabolic USDX,M5: initialized
+0	11:56:51.142	1fractal USDX,M5: initialized
+0	11:56:51.142	Stochastic USDX,M5: initialized
+0	11:56:51.142	RSI USDX,M5: initialized
+0	11:56:51.305	gamExpert USDX,M5: initialized
+0	11:56:56.342	gamExpert USDX,M5: uninit reason 3
+0	11:56:56.344	Custom Moving Averages USDX,M5: uninit reason 3
+0	11:56:56.344	Gambit USDX,M5: uninit reason 3
+0	11:56:56.344	Parabolic USDX,M5: uninit reason 3
+0	11:56:56.344	1fractal USDX,M5: uninit reason 3
+0	11:56:56.344	Stochastic USDX,M5: uninit reason 3
+0	11:56:56.344	RSI USDX,M5: uninit reason 3
+0	11:56:56.434	Custom Moving Averages USDX,M30: initialized
+0	11:56:56.434	Gambit USDX,M30: initialized
+0	11:56:56.434	Parabolic USDX,M30: initialized
+0	11:56:56.434	1fractal USDX,M30: initialized
+0	11:56:56.434	Stochastic USDX,M30: initialized
+0	11:56:56.435	RSI USDX,M30: initialized
+0	11:56:56.580	gamExpert USDX,M30: initialized
+2	11:56:57.452	gamExpert USDX,M30: open #74509087 buy 0.10 USDX at 99.980 sl: 99.926 tp: 101.010 ok
+2	11:56:59.001	gamExpert USDX,M30: open #74509089 buy 0.10 USDX at 99.975 sl: 99.926 tp: 101.010 ok
+2	11:57:01.611	gamExpert USDX,M30: open #74509090 buy 0.10 USDX at 99.975 sl: 99.926 tp: 101.010 ok
+2	11:57:02.213	gamExpert USDX,M30: open #74509094 buy 0.10 USDX at 99.975 sl: 99.926 tp: 101.010 ok
+2	11:57:04.022	gamExpert USDX,M30: open #74509096 buy 0.10 USDX at 99.970 sl: 99.926 tp: 101.010 ok
+2	11:57:06.041	gamExpert USDX,M30: open #74509103 buy 0.10 USDX at 99.970 sl: 99.926 tp: 101.010 ok
+2	11:57:10.039	gamExpert USDX,M30: open #74509110 buy 0.10 USDX at 99.965 sl: 99.926 tp: 101.010 ok
+2	11:57:10.637	gamExpert USDX,M30: open #74509111 buy 0.10 USDX at 99.965 sl: 99.926 tp: 101.010 ok
+0	11:57:11.085	Automated trading disabled
+3	11:57:13.452	gamExpert USDX,M30: trade operations not allowed by settings
+0	11:58:11.078	gamExpert USDX,M30: uninit reason 2
+0	11:58:11.155	Expert gamExpert USDX,M30: removed
+0	11:58:11.207	Expert gamExpert USDX,M30: loaded successfully
+0	11:58:11.464	gamExpert USDX,M30: initialized
+0	12:12:57.135	Compiling 'gamExpert'
+0	12:13:03.843	1fractal USDJPY,H4: uninit reason 2
+0	12:13:03.852	Custom indicator 1fractal USDJPY,H4: removed
+0	12:13:03.920	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	12:13:03.967	1fractal USDJPY,H4: initialized
+0	12:13:03.970	1fractal USDX,M30: uninit reason 2
+0	12:13:03.973	Custom indicator 1fractal USDX,M30: removed
+0	12:13:03.991	Custom indicator 1fractal USDX,M30: loaded successfully
+0	12:13:04.017	1fractal USDX,M30: initialized
+0	12:13:04.018	1fractal USDJPY,H4: uninit reason 2
+0	12:13:04.023	Custom indicator 1fractal USDJPY,H4: removed
+0	12:13:04.042	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	12:13:04.076	1fractal USDJPY,H4: initialized
+0	12:13:04.079	1fractal EURUSD,H4: uninit reason 2
+0	12:13:04.084	Custom indicator 1fractal EURUSD,H4: removed
+0	12:13:04.142	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	12:13:04.186	1fractal EURUSD,H4: initialized
+0	12:13:04.188	1fractal XAUUSD,H1: uninit reason 2
+0	12:13:04.193	Custom indicator 1fractal XAUUSD,H1: removed
+0	12:13:04.220	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	12:13:04.262	1fractal XAUUSD,H1: initialized
+0	12:16:39.526	1fractal USDJPY,H4: uninit reason 2
+0	12:16:39.535	Custom indicator 1fractal USDJPY,H4: removed
+0	12:16:39.588	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	12:16:39.668	1fractal USDJPY,H4: initialized
+0	12:16:39.671	1fractal USDX,M30: uninit reason 2
+0	12:16:39.681	Custom indicator 1fractal USDX,M30: removed
+0	12:16:39.803	Custom indicator 1fractal USDX,M30: loaded successfully
+0	12:16:39.877	1fractal USDX,M30: initialized
+0	12:16:39.878	1fractal USDJPY,H4: uninit reason 2
+0	12:16:39.886	Custom indicator 1fractal USDJPY,H4: removed
+0	12:16:39.934	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	12:16:40.001	1fractal USDJPY,H4: initialized
+0	12:16:40.003	1fractal EURUSD,H4: uninit reason 2
+0	12:16:40.010	Custom indicator 1fractal EURUSD,H4: removed
+0	12:16:40.052	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	12:16:40.108	1fractal EURUSD,H4: initialized
+0	12:16:40.110	1fractal XAUUSD,H1: uninit reason 2
+0	12:16:40.118	Custom indicator 1fractal XAUUSD,H1: removed
+0	12:16:40.160	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	12:16:40.220	1fractal XAUUSD,H1: initialized
+0	12:28:00.131	gamExpert USDX,M30: uninit reason 2
+0	12:28:00.153	Expert gamExpert USDX,M30: removed
+0	12:28:00.186	Expert gamExpert USDX,M30: loaded successfully
+0	12:28:00.364	gamExpert USDX,M30: initialized
+0	12:28:25.598	Expert gamExpert USDJPY,H4: loaded successfully
+0	12:28:27.774	gamExpert USDJPY,H4 inputs: Lot=0.1; 
+0	12:28:28.006	gamExpert USDJPY,H4: initialized
+0	12:29:06.188	gamExpert USDJPY,H4: uninit reason 2
+0	12:29:06.213	Expert gamExpert USDJPY,H4: removed
+0	12:29:06.257	Expert gamExpert USDJPY,H4: loaded successfully
+0	12:29:06.261	gamExpert USDX,M30: uninit reason 2
+0	12:29:06.298	Expert gamExpert USDX,M30: removed
+0	12:29:06.332	Expert gamExpert USDX,M30: loaded successfully
+0	12:29:06.481	gamExpert USDX,M30: initialized
+0	12:29:06.499	gamExpert USDJPY,H4: initialized
+0	12:29:18.512	gamExpert USDJPY,H4: uninit reason 1
+0	12:29:18.548	Expert gamExpert USDJPY,H4: removed
+0	12:29:33.355	Expert gamExpert USDJPY,H4: loaded successfully
+0	12:29:35.205	gamExpert USDJPY,H4 inputs: Lot=0.1; 
+0	12:29:35.334	gamExpert USDJPY,H4: initialized
+0	12:29:45.675	gamExpert USDJPY,H4: uninit reason 2
+0	12:29:45.693	Expert gamExpert USDJPY,H4: removed
+0	12:29:45.724	Expert gamExpert USDJPY,H4: loaded successfully
+0	12:29:45.725	gamExpert USDX,M30: uninit reason 2
+0	12:29:45.743	Expert gamExpert USDX,M30: removed
+0	12:29:45.774	Expert gamExpert USDX,M30: loaded successfully
+0	12:29:46.060	gamExpert USDJPY,H4: initialized
+0	12:29:46.079	gamExpert USDX,M30: initialized
+0	12:32:53.535	gamExpert USDJPY,H4: uninit reason 2
+0	12:32:53.562	Expert gamExpert USDJPY,H4: removed
+0	12:32:53.610	Expert gamExpert USDJPY,H4: loaded successfully
+0	12:32:53.612	gamExpert USDX,M30: uninit reason 2
+0	12:32:53.634	Expert gamExpert USDX,M30: removed
+0	12:32:53.678	Expert gamExpert USDX,M30: loaded successfully
+0	12:32:53.831	gamExpert USDJPY,H4: initialized
+0	12:32:53.838	gamExpert USDX,M30: initialized
+0	12:33:57.593	gamExpert USDJPY,H4 inputs: Lot=0.1; 
+0	12:33:59.898	Automated trading enabled
+0	12:34:11.713	gamExpert USDJPY,H4 inputs: Lot=0.1; 
+0	12:34:36.872	gamExpert USDJPY,H4: uninit reason 2
+0	12:34:36.902	Expert gamExpert USDJPY,H4: removed
+0	12:34:36.942	Expert gamExpert USDJPY,H4: loaded successfully
+0	12:34:36.944	gamExpert USDX,M30: uninit reason 2
+0	12:34:36.961	Expert gamExpert USDX,M30: removed
+0	12:34:36.998	Expert gamExpert USDX,M30: loaded successfully
+0	12:34:37.151	gamExpert USDX,M30: initialized
+0	12:34:37.151	gamExpert USDJPY,H4: initialized
+0	12:34:53.345	gamExpert USDJPY,H4: uninit reason 2
+0	12:34:53.364	Expert gamExpert USDJPY,H4: removed
+0	12:34:53.397	Expert gamExpert USDJPY,H4: loaded successfully
+0	12:34:53.399	gamExpert USDX,M30: uninit reason 2
+0	12:34:53.417	Expert gamExpert USDX,M30: removed
+0	12:34:53.454	Expert gamExpert USDX,M30: loaded successfully
+0	12:34:53.600	gamExpert USDJPY,H4: initialized
+0	12:34:53.603	gamExpert USDX,M30: initialized
+0	12:35:09.529	gamExpert USDJPY,H4: uninit reason 2
+0	12:35:09.554	Expert gamExpert USDJPY,H4: removed
+0	12:35:09.580	Expert gamExpert USDJPY,H4: loaded successfully
+0	12:35:09.582	gamExpert USDX,M30: uninit reason 2
+0	12:35:09.597	Expert gamExpert USDX,M30: removed
+0	12:35:09.629	Expert gamExpert USDX,M30: loaded successfully
+0	12:35:09.775	gamExpert USDJPY,H4: initialized
+0	12:35:09.780	gamExpert USDX,M30: initialized
+0	12:35:23.454	gamExpert USDJPY,H4: uninit reason 3
+0	12:35:23.456	Custom Moving Averages USDJPY,H4: uninit reason 3
+0	12:35:23.456	Gambit USDJPY,H4: uninit reason 3
+0	12:35:23.458	Parabolic USDJPY,H4: uninit reason 3
+0	12:35:23.459	1fractal USDJPY,H4: uninit reason 3
+0	12:35:23.459	Stochastic USDJPY,H4: uninit reason 3
+0	12:35:23.496	Custom Moving Averages USDJPY,H1: initialized
+0	12:35:23.500	Gambit USDJPY,H1: initialized
+0	12:35:23.512	Parabolic USDJPY,H1: initialized
+0	12:35:23.513	1fractal USDJPY,H1: initialized
+0	12:35:23.515	Stochastic USDJPY,H1: initialized
+0	12:35:23.722	gamExpert USDJPY,H1: initialized
+0	12:35:46.649	gamExpert USDJPY,H1: uninit reason 2
+0	12:35:46.679	Expert gamExpert USDJPY,H1: removed
+0	12:35:46.717	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:35:46.718	gamExpert USDX,M30: uninit reason 2
+0	12:35:46.736	Expert gamExpert USDX,M30: removed
+0	12:35:46.767	Expert gamExpert USDX,M30: loaded successfully
+0	12:35:46.875	gamExpert USDJPY,H1: initialized
+0	12:35:46.909	gamExpert USDX,M30: initialized
+0	12:40:55.063	gamExpert USDJPY,H1: uninit reason 2
+0	12:40:55.090	Expert gamExpert USDJPY,H1: removed
+0	12:40:55.152	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:40:55.155	gamExpert USDX,M30: uninit reason 2
+0	12:40:55.185	Expert gamExpert USDX,M30: removed
+0	12:40:55.236	Expert gamExpert USDX,M30: loaded successfully
+0	12:40:55.348	gamExpert USDJPY,H1: initialized
+0	12:40:55.376	gamExpert USDX,M30: initialized
+0	12:41:36.554	gamExpert USDJPY,H1: uninit reason 2
+0	12:41:36.567	Expert gamExpert USDJPY,H1: removed
+0	12:41:36.595	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:41:36.596	gamExpert USDX,M30: uninit reason 2
+0	12:41:36.610	Expert gamExpert USDX,M30: removed
+0	12:41:36.644	Expert gamExpert USDX,M30: loaded successfully
+0	12:41:36.751	gamExpert USDJPY,H1: initialized
+0	12:41:36.787	gamExpert USDX,M30: initialized
+0	12:44:42.485	1fractal USDJPY,H1: uninit reason 2
+0	12:44:42.494	Custom indicator 1fractal USDJPY,H1: removed
+0	12:44:42.541	Custom indicator 1fractal USDJPY,H1: loaded successfully
+0	12:44:42.586	1fractal USDJPY,H1: initialized
+0	12:44:42.588	1fractal USDX,M30: uninit reason 2
+0	12:44:42.592	Custom indicator 1fractal USDX,M30: removed
+0	12:44:42.621	Custom indicator 1fractal USDX,M30: loaded successfully
+0	12:44:42.660	1fractal USDX,M30: initialized
+0	12:44:42.662	1fractal USDJPY,H4: uninit reason 2
+0	12:44:42.668	Custom indicator 1fractal USDJPY,H4: removed
+0	12:44:42.695	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	12:44:42.734	1fractal USDJPY,H4: initialized
+0	12:44:42.796	1fractal EURUSD,H4: uninit reason 2
+0	12:44:42.805	Custom indicator 1fractal EURUSD,H4: removed
+0	12:44:42.853	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	12:44:42.912	1fractal EURUSD,H4: initialized
+0	12:44:42.920	1fractal XAUUSD,H1: uninit reason 2
+0	12:44:42.925	Custom indicator 1fractal XAUUSD,H1: removed
+0	12:44:42.952	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	12:44:42.985	1fractal XAUUSD,H1: initialized
+0	12:45:20.465	gamExpert USDJPY,H1: uninit reason 2
+0	12:45:20.475	Expert gamExpert USDJPY,H1: removed
+0	12:45:20.499	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:45:20.500	gamExpert USDX,M30: uninit reason 2
+0	12:45:20.515	Expert gamExpert USDX,M30: removed
+0	12:45:20.544	Expert gamExpert USDX,M30: loaded successfully
+0	12:45:20.643	gamExpert USDJPY,H1: initialized
+0	12:45:20.678	gamExpert USDX,M30: initialized
+0	12:45:35.163	gamExpert USDJPY,H1: uninit reason 2
+0	12:45:35.177	Expert gamExpert USDJPY,H1: removed
+0	12:45:35.212	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:45:35.213	gamExpert USDX,M30: uninit reason 2
+0	12:45:35.234	Expert gamExpert USDX,M30: removed
+0	12:45:35.277	Expert gamExpert USDX,M30: loaded successfully
+0	12:45:35.495	gamExpert USDJPY,H1: initialized
+0	12:45:35.503	gamExpert USDX,M30: initialized
+0	12:47:22.094	gamExpert USDJPY,H1: uninit reason 2
+0	12:47:22.120	Expert gamExpert USDJPY,H1: removed
+0	12:47:22.166	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:47:22.168	gamExpert USDX,M30: uninit reason 2
+0	12:47:22.191	Expert gamExpert USDX,M30: removed
+0	12:47:22.235	Expert gamExpert USDX,M30: loaded successfully
+0	12:47:22.362	gamExpert USDJPY,H1: initialized
+0	12:47:22.399	gamExpert USDX,M30: initialized
+0	12:48:08.428	gamExpert USDJPY,H1: uninit reason 2
+0	12:48:08.460	Expert gamExpert USDJPY,H1: removed
+0	12:48:08.512	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:48:08.514	gamExpert USDX,M30: uninit reason 2
+0	12:48:08.539	Expert gamExpert USDX,M30: removed
+0	12:48:08.590	Expert gamExpert USDX,M30: loaded successfully
+0	12:48:08.741	gamExpert USDJPY,H1: initialized
+0	12:48:08.782	gamExpert USDX,M30: initialized
+0	12:48:54.289	gamExpert USDJPY,H1: uninit reason 2
+0	12:48:54.305	Expert gamExpert USDJPY,H1: removed
+0	12:48:54.337	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:48:54.338	gamExpert USDX,M30: uninit reason 2
+0	12:48:54.355	Expert gamExpert USDX,M30: removed
+0	12:48:54.387	Expert gamExpert USDX,M30: loaded successfully
+0	12:48:54.492	gamExpert USDJPY,H1: initialized
+0	12:48:54.521	gamExpert USDX,M30: initialized
+0	12:49:29.522	1fractal USDJPY,H1: uninit reason 2
+0	12:49:29.531	Custom indicator 1fractal USDJPY,H1: removed
+0	12:49:29.582	Custom indicator 1fractal USDJPY,H1: loaded successfully
+0	12:49:29.657	1fractal USDJPY,H1: initialized
+0	12:49:29.660	1fractal USDX,M30: uninit reason 2
+0	12:49:29.668	Custom indicator 1fractal USDX,M30: removed
+0	12:49:29.717	Custom indicator 1fractal USDX,M30: loaded successfully
+0	12:49:29.790	1fractal USDX,M30: initialized
+0	12:49:29.792	1fractal USDJPY,H4: uninit reason 2
+0	12:49:29.801	Custom indicator 1fractal USDJPY,H4: removed
+0	12:49:29.841	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	12:49:29.906	1fractal USDJPY,H4: initialized
+0	12:49:29.908	1fractal EURUSD,H4: uninit reason 2
+0	12:49:29.915	Custom indicator 1fractal EURUSD,H4: removed
+0	12:49:29.955	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	12:49:30.020	1fractal EURUSD,H4: initialized
+0	12:49:30.023	1fractal XAUUSD,H1: uninit reason 2
+0	12:49:30.030	Custom indicator 1fractal XAUUSD,H1: removed
+0	12:49:30.068	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	12:49:30.126	1fractal XAUUSD,H1: initialized
+0	12:49:54.537	1fractal USDJPY,H1: uninit reason 2
+0	12:49:54.546	Custom indicator 1fractal USDJPY,H1: removed
+0	12:49:54.617	Custom indicator 1fractal USDJPY,H1: loaded successfully
+0	12:49:54.693	1fractal USDJPY,H1: initialized
+0	12:49:54.694	1fractal USDX,M30: uninit reason 2
+0	12:49:54.699	Custom indicator 1fractal USDX,M30: removed
+0	12:49:54.722	Custom indicator 1fractal USDX,M30: loaded successfully
+0	12:49:54.762	1fractal USDX,M30: initialized
+0	12:49:54.764	1fractal USDJPY,H4: uninit reason 2
+0	12:49:54.769	Custom indicator 1fractal USDJPY,H4: removed
+0	12:49:54.796	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	12:49:54.835	1fractal USDJPY,H4: initialized
+0	12:49:54.837	1fractal EURUSD,H4: uninit reason 2
+0	12:49:54.841	Custom indicator 1fractal EURUSD,H4: removed
+0	12:49:54.869	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	12:49:54.908	1fractal EURUSD,H4: initialized
+0	12:49:54.909	1fractal XAUUSD,H1: uninit reason 2
+0	12:49:54.914	Custom indicator 1fractal XAUUSD,H1: removed
+0	12:49:54.941	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	12:49:54.982	1fractal XAUUSD,H1: initialized
+0	12:53:24.537	gamExpert USDJPY,H1: uninit reason 2
+0	12:53:24.570	Expert gamExpert USDJPY,H1: removed
+0	12:53:24.630	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:53:24.632	gamExpert USDX,M30: uninit reason 2
+0	12:53:24.663	Expert gamExpert USDX,M30: removed
+0	12:53:24.721	Expert gamExpert USDX,M30: loaded successfully
+0	12:53:24.941	gamExpert USDJPY,H1: initialized
+0	12:53:25.010	gamExpert USDX,M30: initialized
+0	12:54:32.412	gamExpert USDJPY,H1: uninit reason 2
+0	12:54:32.425	Expert gamExpert USDJPY,H1: removed
+0	12:54:32.449	Expert gamExpert USDJPY,H1: loaded successfully
+0	12:54:32.450	gamExpert USDX,M30: uninit reason 2
+0	12:54:32.465	Expert gamExpert USDX,M30: removed
+0	12:54:32.493	Expert gamExpert USDX,M30: loaded successfully
+0	12:54:32.585	gamExpert USDJPY,H1: initialized
+0	12:54:32.614	gamExpert USDX,M30: initialized
+0	13:18:28.539	gamExpert USDJPY,H1: uninit reason 2
+0	13:18:28.571	Expert gamExpert USDJPY,H1: removed
+0	13:18:28.631	Expert gamExpert USDJPY,H1: loaded successfully
+0	13:18:28.633	gamExpert USDX,M30: uninit reason 2
+0	13:18:28.665	Expert gamExpert USDX,M30: removed
+0	13:18:28.721	Expert gamExpert USDX,M30: loaded successfully
+0	13:18:28.924	gamExpert USDJPY,H1: initialized
+0	13:18:28.955	gamExpert USDX,M30: initialized
+0	13:20:22.574	1fractal USDJPY,H1: uninit reason 2
+0	13:20:22.579	Custom indicator 1fractal USDJPY,H1: removed
+0	13:20:22.611	Custom indicator 1fractal USDJPY,H1: loaded successfully
+0	13:20:22.682	1fractal USDJPY,H1: initialized
+0	13:20:22.684	1fractal USDX,M30: uninit reason 2
+0	13:20:22.690	Custom indicator 1fractal USDX,M30: removed
+0	13:20:22.736	Custom indicator 1fractal USDX,M30: loaded successfully
+0	13:20:22.774	1fractal USDX,M30: initialized
+0	13:20:22.777	1fractal USDJPY,H4: uninit reason 2
+0	13:20:22.782	Custom indicator 1fractal USDJPY,H4: removed
+0	13:20:22.811	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	13:20:22.851	1fractal USDJPY,H4: initialized
+0	13:20:22.853	1fractal EURUSD,H4: uninit reason 2
+0	13:20:22.858	Custom indicator 1fractal EURUSD,H4: removed
+0	13:20:22.887	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	13:20:22.927	1fractal EURUSD,H4: initialized
+0	13:20:22.928	1fractal XAUUSD,H1: uninit reason 2
+0	13:20:22.935	Custom indicator 1fractal XAUUSD,H1: removed
+0	13:20:22.965	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	13:20:23.005	1fractal XAUUSD,H1: initialized
+0	13:20:34.804	gamExpert USDJPY,H1: uninit reason 3
+0	13:20:34.804	Custom Moving Averages USDJPY,H1: uninit reason 3
+0	13:20:34.804	Gambit USDJPY,H1: uninit reason 3
+0	13:20:34.804	Parabolic USDJPY,H1: uninit reason 3
+0	13:20:34.804	1fractal USDJPY,H1: uninit reason 3
+0	13:20:34.804	Stochastic USDJPY,H1: uninit reason 3
+0	13:20:34.866	Custom Moving Averages USDJPY,M15: initialized
+0	13:20:34.867	Gambit USDJPY,M15: initialized
+0	13:20:34.869	Parabolic USDJPY,M15: initialized
+0	13:20:34.870	1fractal USDJPY,M15: initialized
+0	13:20:34.870	Stochastic USDJPY,M15: initialized
+0	13:20:35.088	gamExpert USDJPY,M15: initialized
+0	13:22:36.062	1fractal USDJPY,M15: uninit reason 2
+0	13:22:36.127	Custom indicator 1fractal USDJPY,M15: removed
+0	13:22:36.172	Custom indicator 1fractal USDJPY,M15: loaded successfully
+0	13:22:36.220	1fractal USDJPY,M15: initialized
+0	13:22:36.221	1fractal USDX,M30: uninit reason 2
+0	13:22:36.226	Custom indicator 1fractal USDX,M30: removed
+0	13:22:36.252	Custom indicator 1fractal USDX,M30: loaded successfully
+0	13:22:36.289	1fractal USDX,M30: initialized
+0	13:22:36.290	1fractal USDJPY,H4: uninit reason 2
+0	13:22:36.295	Custom indicator 1fractal USDJPY,H4: removed
+0	13:22:36.321	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	13:22:36.358	1fractal USDJPY,H4: initialized
+0	13:22:36.359	1fractal EURUSD,H4: uninit reason 2
+0	13:22:36.364	Custom indicator 1fractal EURUSD,H4: removed
+0	13:22:36.389	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	13:22:36.427	1fractal EURUSD,H4: initialized
+0	13:22:36.429	1fractal XAUUSD,H1: uninit reason 2
+0	13:22:36.433	Custom indicator 1fractal XAUUSD,H1: removed
+0	13:22:36.461	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	13:22:36.497	1fractal XAUUSD,H1: initialized
+0	13:23:27.346	gamExpert USDJPY,M15: uninit reason 3
+0	13:23:27.349	Custom Moving Averages USDJPY,M15: uninit reason 3
+0	13:23:27.349	Gambit USDJPY,M15: uninit reason 3
+0	13:23:27.349	Parabolic USDJPY,M15: uninit reason 3
+0	13:23:27.349	1fractal USDJPY,M15: uninit reason 3
+0	13:23:27.349	Stochastic USDJPY,M15: uninit reason 3
+0	13:23:27.432	Custom Moving Averages USDJPY,M30: initialized
+0	13:23:27.433	Gambit USDJPY,M30: initialized
+0	13:23:27.433	Parabolic USDJPY,M30: initialized
+0	13:23:27.434	1fractal USDJPY,M30: initialized
+0	13:23:27.434	Stochastic USDJPY,M30: initialized
+0	13:23:27.759	gamExpert USDJPY,M30: initialized
+0	13:23:31.053	gamExpert USDJPY,M30: uninit reason 3
+0	13:23:31.055	Custom Moving Averages USDJPY,M30: uninit reason 3
+0	13:23:31.055	Gambit USDJPY,M30: uninit reason 3
+0	13:23:31.055	Parabolic USDJPY,M30: uninit reason 3
+0	13:23:31.055	1fractal USDJPY,M30: uninit reason 3
+0	13:23:31.055	Stochastic USDJPY,M30: uninit reason 3
+0	13:23:31.055	Custom Moving Averages USDJPY,H1: initialized
+0	13:23:31.055	Gambit USDJPY,H1: initialized
+0	13:23:31.056	Parabolic USDJPY,H1: initialized
+0	13:23:31.056	1fractal USDJPY,H1: initialized
+0	13:23:31.056	Stochastic USDJPY,H1: initialized
+0	13:23:31.104	gamExpert USDJPY,H1: initialized
+0	13:23:36.588	gamExpert USDJPY,H1: uninit reason 3
+0	13:23:36.591	Custom Moving Averages USDJPY,H1: uninit reason 3
+0	13:23:36.591	Gambit USDJPY,H1: uninit reason 3
+0	13:23:36.591	Parabolic USDJPY,H1: uninit reason 3
+0	13:23:36.591	1fractal USDJPY,H1: uninit reason 3
+0	13:23:36.591	Stochastic USDJPY,H1: uninit reason 3
+0	13:23:36.657	Custom Moving Averages USDJPY,H4: initialized
+0	13:23:36.657	Gambit USDJPY,H4: initialized
+0	13:23:36.657	Parabolic USDJPY,H4: initialized
+0	13:23:36.657	1fractal USDJPY,H4: initialized
+0	13:23:36.657	Stochastic USDJPY,H4: initialized
+0	13:23:36.754	gamExpert USDJPY,H4: initialized
+0	13:24:47.923	1fractal USDJPY,H4: uninit reason 2
+0	13:24:47.927	Custom indicator 1fractal USDJPY,H4: removed
+0	13:24:47.953	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	13:24:47.990	1fractal USDJPY,H4: initialized
+0	13:24:47.992	1fractal USDX,M30: uninit reason 2
+0	13:24:47.996	Custom indicator 1fractal USDX,M30: removed
+0	13:24:48.021	Custom indicator 1fractal USDX,M30: loaded successfully
+0	13:24:48.058	1fractal USDX,M30: initialized
+0	13:24:48.059	1fractal USDJPY,H4: uninit reason 2
+0	13:24:48.064	Custom indicator 1fractal USDJPY,H4: removed
+0	13:24:48.090	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	13:24:48.127	1fractal USDJPY,H4: initialized
+0	13:24:48.129	1fractal EURUSD,H4: uninit reason 2
+0	13:24:48.134	Custom indicator 1fractal EURUSD,H4: removed
+0	13:24:48.163	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	13:24:48.202	1fractal EURUSD,H4: initialized
+0	13:24:48.204	1fractal XAUUSD,H1: uninit reason 2
+0	13:24:48.209	Custom indicator 1fractal XAUUSD,H1: removed
+0	13:24:48.236	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	13:24:48.272	1fractal XAUUSD,H1: initialized
+0	13:25:33.152	Custom indicator iFractals_v2 USDJPY,H4: loaded successfully
+0	13:25:35.892	iFractals_v2 USDJPY,H4: initialized
+0	13:27:21.238	iFractals_v2 USDJPY,H4: uninit reason 2
+0	13:27:21.242	Custom indicator iFractals_v2 USDJPY,H4: removed
+0	13:27:21.268	Custom indicator iFractals_v2 USDJPY,H4: loaded successfully
+0	13:27:21.303	iFractals_v2 USDJPY,H4: initialized
+0	13:30:19.434	gamExpert USDJPY,H4: uninit reason 1
+0	13:30:19.446	Expert gamExpert USDJPY,H4: removed
+0	13:30:35.152	iFractals_v2 USDJPY,H4: uninit reason 1
+0	13:30:35.162	Custom indicator iFractals_v2 USDJPY,H4: removed
+0	13:30:53.381	Custom indicator iFractals_v2 USDJPY,H4: loaded successfully
+0	13:30:55.931	iFractals_v2 USDJPY,H4: initialized
+0	13:31:45.757	Expert gamExpert USDJPY,H4: loaded successfully
+0	13:31:49.541	gamExpert USDJPY,H4 inputs: Lot=0.1; 
+0	13:31:49.904	gamExpert USDJPY,H4: initialized
+0	13:33:10.466	gamExpert USDJPY,H4: uninit reason 2
+0	13:33:10.478	Expert gamExpert USDJPY,H4: removed
+0	13:33:10.514	Expert gamExpert USDJPY,H4: loaded successfully
+0	13:33:10.516	gamExpert USDX,M30: uninit reason 2
+0	13:33:10.533	Expert gamExpert USDX,M30: removed
+0	13:33:10.585	Expert gamExpert USDX,M30: loaded successfully
+0	13:33:10.727	gamExpert USDX,M30: initialized
+0	13:33:10.738	gamExpert USDJPY,H4: initialized
+0	13:33:53.199	gamExpert USDJPY,H4: uninit reason 2
+0	13:33:53.216	Expert gamExpert USDJPY,H4: removed
+0	13:33:53.245	Expert gamExpert USDJPY,H4: loaded successfully
+0	13:33:53.246	gamExpert USDX,M30: uninit reason 2
+0	13:33:53.261	Expert gamExpert USDX,M30: removed
+0	13:33:53.292	Expert gamExpert USDX,M30: loaded successfully
+0	13:33:53.425	gamExpert USDJPY,H4: initialized
+0	13:33:53.430	gamExpert USDX,M30: initialized
+0	13:34:18.780	gamExpert USDJPY,H4: uninit reason 2
+0	13:34:18.794	Expert gamExpert USDJPY,H4: removed
+0	13:34:18.823	Expert gamExpert USDJPY,H4: loaded successfully
+0	13:34:18.825	gamExpert USDX,M30: uninit reason 2
+0	13:34:18.839	Expert gamExpert USDX,M30: removed
+0	13:34:18.869	Expert gamExpert USDX,M30: loaded successfully
+0	13:34:19.003	gamExpert USDJPY,H4: initialized
+0	13:34:19.007	gamExpert USDX,M30: initialized
+0	13:36:25.787	1fractal USDJPY,H4: uninit reason 2
+0	13:36:25.794	Custom indicator 1fractal USDJPY,H4: removed
+0	13:36:25.837	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	13:36:25.892	1fractal USDJPY,H4: initialized
+0	13:36:25.895	1fractal USDX,M30: uninit reason 2
+0	13:36:25.901	Custom indicator 1fractal USDX,M30: removed
+0	13:36:25.937	Custom indicator 1fractal USDX,M30: loaded successfully
+0	13:36:25.976	1fractal USDX,M30: initialized
+0	13:36:25.977	1fractal USDJPY,H4: uninit reason 2
+0	13:36:25.982	Custom indicator 1fractal USDJPY,H4: removed
+0	13:36:26.008	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	13:36:26.044	1fractal USDJPY,H4: initialized
+0	13:36:26.047	1fractal EURUSD,H4: uninit reason 2
+0	13:36:26.052	Custom indicator 1fractal EURUSD,H4: removed
+0	13:36:26.079	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	13:36:26.119	1fractal EURUSD,H4: initialized
+0	13:36:26.121	1fractal XAUUSD,H1: uninit reason 2
+0	13:36:26.125	Custom indicator 1fractal XAUUSD,H1: removed
+0	13:36:26.151	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	13:36:26.189	1fractal XAUUSD,H1: initialized
+0	13:36:50.477	iFractals_v2 USDJPY,H4: uninit reason 1
+0	13:36:50.485	Custom indicator iFractals_v2 USDJPY,H4: removed
+0	13:38:17.053	gamExpert USDJPY,H4: uninit reason 2
+0	13:38:17.072	Expert gamExpert USDJPY,H4: removed
+0	13:38:17.102	Expert gamExpert USDJPY,H4: loaded successfully
+0	13:38:17.103	gamExpert USDX,M30: uninit reason 2
+0	13:38:17.121	Expert gamExpert USDX,M30: removed
+0	13:38:17.153	Expert gamExpert USDX,M30: loaded successfully
+0	13:38:17.301	gamExpert USDJPY,H4: initialized
+0	13:38:17.306	gamExpert USDX,M30: initialized
+0	13:38:44.633	gamExpert USDJPY,H4: uninit reason 3
+0	13:38:44.635	Custom Moving Averages USDJPY,H4: uninit reason 3
+0	13:38:44.635	Gambit USDJPY,H4: uninit reason 3
+0	13:38:44.635	Parabolic USDJPY,H4: uninit reason 3
+0	13:38:44.635	1fractal USDJPY,H4: uninit reason 3
+0	13:38:44.635	Stochastic USDJPY,H4: uninit reason 3
+0	13:38:44.636	Custom Moving Averages USDJPY,H1: initialized
+0	13:38:44.636	Gambit USDJPY,H1: initialized
+0	13:38:44.637	Parabolic USDJPY,H1: initialized
+0	13:38:44.637	1fractal USDJPY,H1: initialized
+0	13:38:44.638	Stochastic USDJPY,H1: initialized
+0	13:38:44.801	gamExpert USDJPY,H1: initialized
+0	13:38:47.740	gamExpert USDJPY,H1: uninit reason 3
+0	13:38:47.742	Custom Moving Averages USDJPY,H1: uninit reason 3
+0	13:38:47.742	Gambit USDJPY,H1: uninit reason 3
+0	13:38:47.742	Parabolic USDJPY,H1: uninit reason 3
+0	13:38:47.742	1fractal USDJPY,H1: uninit reason 3
+0	13:38:47.742	Stochastic USDJPY,H1: uninit reason 3
+0	13:38:47.744	Custom Moving Averages USDJPY,M30: initialized
+0	13:38:47.744	Gambit USDJPY,M30: initialized
+0	13:38:47.745	Parabolic USDJPY,M30: initialized
+0	13:38:47.745	1fractal USDJPY,M30: initialized
+0	13:38:47.745	Stochastic USDJPY,M30: initialized
+0	13:38:47.914	gamExpert USDJPY,M30: initialized
+0	13:38:53.583	gamExpert USDJPY,M30: uninit reason 3
+0	13:38:53.585	Custom Moving Averages USDJPY,M30: uninit reason 3
+0	13:38:53.585	Gambit USDJPY,M30: uninit reason 3
+0	13:38:53.585	Parabolic USDJPY,M30: uninit reason 3
+0	13:38:53.585	1fractal USDJPY,M30: uninit reason 3
+0	13:38:53.585	Stochastic USDJPY,M30: uninit reason 3
+0	13:38:53.586	Custom Moving Averages USDJPY,M15: initialized
+0	13:38:53.586	Gambit USDJPY,M15: initialized
+0	13:38:53.587	Parabolic USDJPY,M15: initialized
+0	13:38:53.587	1fractal USDJPY,M15: initialized
+0	13:38:53.587	Stochastic USDJPY,M15: initialized
+0	13:38:53.846	gamExpert USDJPY,M15: initialized
+0	13:38:58.491	gamExpert USDJPY,M15: uninit reason 3
+0	13:38:58.491	Custom Moving Averages USDJPY,M15: uninit reason 3
+0	13:38:58.491	Gambit USDJPY,M15: uninit reason 3
+0	13:38:58.491	Parabolic USDJPY,M15: uninit reason 3
+0	13:38:58.491	1fractal USDJPY,M15: uninit reason 3
+0	13:38:58.491	Stochastic USDJPY,M15: uninit reason 3
+0	13:38:58.580	Custom Moving Averages USDJPY,M5: initialized
+0	13:38:58.580	Gambit USDJPY,M5: initialized
+0	13:38:58.581	Parabolic USDJPY,M5: initialized
+0	13:38:58.581	1fractal USDJPY,M5: initialized
+0	13:38:58.581	Stochastic USDJPY,M5: initialized
+0	13:38:58.766	gamExpert USDJPY,M5: initialized
+0	15:10:47.594	gamExpert USDJPY,M5: uninit reason 2
+0	15:10:47.611	Expert gamExpert USDJPY,M5: removed
+0	15:10:47.645	Expert gamExpert USDJPY,M5: loaded successfully
+0	15:10:47.649	gamExpert USDX,M30: uninit reason 2
+0	15:10:47.673	Expert gamExpert USDX,M30: removed
+0	15:10:47.707	Expert gamExpert USDX,M30: loaded successfully
+0	15:10:47.821	gamExpert USDJPY,M5: initialized
+0	15:10:47.847	gamExpert USDX,M30: initialized
+0	15:27:12.155	gamExpert USDJPY,M5: uninit reason 2
+0	15:27:12.181	Expert gamExpert USDJPY,M5: removed
+0	15:27:12.229	Expert gamExpert USDJPY,M5: loaded successfully
+0	15:27:12.231	gamExpert USDX,M30: uninit reason 2
+0	15:27:12.255	Expert gamExpert USDX,M30: removed
+0	15:27:12.305	Expert gamExpert USDX,M30: loaded successfully
+0	15:27:12.442	gamExpert USDJPY,M5: initialized
+0	15:27:12.458	gamExpert USDX,M30: initialized
+0	15:27:29.288	gamExpert USDJPY,M5: uninit reason 3
+0	15:27:29.288	Custom Moving Averages USDJPY,M5: uninit reason 3
+0	15:27:29.288	Gambit USDJPY,M5: uninit reason 3
+0	15:27:29.288	Parabolic USDJPY,M5: uninit reason 3
+0	15:27:29.288	1fractal USDJPY,M5: uninit reason 3
+0	15:27:29.288	Stochastic USDJPY,M5: uninit reason 3
+0	15:27:29.298	Custom Moving Averages USDJPY,M15: initialized
+0	15:27:29.299	Gambit USDJPY,M15: initialized
+0	15:27:29.301	Parabolic USDJPY,M15: initialized
+0	15:27:29.302	1fractal USDJPY,M15: initialized
+0	15:27:29.302	Stochastic USDJPY,M15: initialized
+0	15:27:29.534	gamExpert USDJPY,M15: initialized
+0	15:27:37.333	gamExpert USDJPY,M15: uninit reason 3
+0	15:27:37.336	Custom Moving Averages USDJPY,M15: uninit reason 3
+0	15:27:37.336	Gambit USDJPY,M15: uninit reason 3
+0	15:27:37.336	Parabolic USDJPY,M15: uninit reason 3
+0	15:27:37.397	1fractal USDJPY,M15: uninit reason 3
+0	15:27:37.397	Stochastic USDJPY,M15: uninit reason 3
+0	15:27:37.401	Custom Moving Averages USDJPY,M30: initialized
+0	15:27:37.401	Gambit USDJPY,M30: initialized
+0	15:27:37.402	Parabolic USDJPY,M30: initialized
+0	15:27:37.402	1fractal USDJPY,M30: initialized
+0	15:27:37.402	Stochastic USDJPY,M30: initialized
+0	15:27:37.702	gamExpert USDJPY,M30: initialized
+0	15:27:40.435	gamExpert USDJPY,M30: uninit reason 3
+0	15:27:40.437	Custom Moving Averages USDJPY,M30: uninit reason 3
+0	15:27:40.437	Gambit USDJPY,M30: uninit reason 3
+0	15:27:40.437	Parabolic USDJPY,M30: uninit reason 3
+0	15:27:40.437	1fractal USDJPY,M30: uninit reason 3
+0	15:27:40.437	Stochastic USDJPY,M30: uninit reason 3
+0	15:27:40.502	Custom Moving Averages USDJPY,H1: initialized
+0	15:27:40.502	Gambit USDJPY,H1: initialized
+0	15:27:40.503	Parabolic USDJPY,H1: initialized
+0	15:27:40.503	1fractal USDJPY,H1: initialized
+0	15:27:40.503	Stochastic USDJPY,H1: initialized
+0	15:27:40.764	gamExpert USDJPY,H1: initialized
+0	15:27:43.586	gamExpert USDJPY,H1: uninit reason 3
+0	15:27:43.588	Custom Moving Averages USDJPY,H1: uninit reason 3
+0	15:27:43.588	Gambit USDJPY,H1: uninit reason 3
+0	15:27:43.588	Parabolic USDJPY,H1: uninit reason 3
+0	15:27:43.588	1fractal USDJPY,H1: uninit reason 3
+0	15:27:43.588	Stochastic USDJPY,H1: uninit reason 3
+0	15:27:43.651	Custom Moving Averages USDJPY,H4: initialized
+0	15:27:43.651	Gambit USDJPY,H4: initialized
+0	15:27:43.651	Parabolic USDJPY,H4: initialized
+0	15:27:43.651	1fractal USDJPY,H4: initialized
+0	15:27:43.652	Stochastic USDJPY,H4: initialized
+0	15:27:43.780	gamExpert USDJPY,H4: initialized
+0	15:27:59.136	gamExpert USDJPY,H4: uninit reason 3
+0	15:27:59.138	Custom Moving Averages USDJPY,H4: uninit reason 3
+0	15:27:59.138	Gambit USDJPY,H4: uninit reason 3
+0	15:27:59.138	Parabolic USDJPY,H4: uninit reason 3
+0	15:27:59.138	1fractal USDJPY,H4: uninit reason 3
+0	15:27:59.138	Stochastic USDJPY,H4: uninit reason 3
+0	15:27:59.141	Custom Moving Averages EURUSD,H4: initialized
+0	15:27:59.141	Gambit EURUSD,H4: initialized
+0	15:27:59.141	Parabolic EURUSD,H4: initialized
+0	15:27:59.141	1fractal EURUSD,H4: initialized
+0	15:27:59.141	Stochastic EURUSD,H4: initialized
+0	15:27:59.235	gamExpert EURUSD,H4: initialized
+0	15:28:10.793	gamExpert EURUSD,H4: uninit reason 3
+0	15:28:10.794	Custom Moving Averages EURUSD,H4: uninit reason 3
+0	15:28:10.794	Gambit EURUSD,H4: uninit reason 3
+0	15:28:10.794	Parabolic EURUSD,H4: uninit reason 3
+0	15:28:10.794	1fractal EURUSD,H4: uninit reason 3
+0	15:28:10.794	Stochastic EURUSD,H4: uninit reason 3
+0	15:28:10.897	Custom Moving Averages EURUSD,H1: initialized
+0	15:28:10.898	Gambit EURUSD,H1: initialized
+0	15:28:10.898	Parabolic EURUSD,H1: initialized
+0	15:28:10.898	1fractal EURUSD,H1: initialized
+0	15:28:10.899	Stochastic EURUSD,H1: initialized
+0	15:28:11.265	gamExpert EURUSD,H1: initialized
+0	15:28:14.931	gamExpert EURUSD,H1: uninit reason 3
+0	15:28:14.932	Custom Moving Averages EURUSD,H1: uninit reason 3
+0	15:28:14.932	Gambit EURUSD,H1: uninit reason 3
+0	15:28:14.932	Parabolic EURUSD,H1: uninit reason 3
+0	15:28:14.932	1fractal EURUSD,H1: uninit reason 3
+0	15:28:14.932	Stochastic EURUSD,H1: uninit reason 3
+0	15:28:14.976	Custom Moving Averages EURUSD,M30: initialized
+0	15:28:14.977	Gambit EURUSD,M30: initialized
+0	15:28:14.978	Parabolic EURUSD,M30: initialized
+0	15:28:14.978	1fractal EURUSD,M30: initialized
+0	15:28:14.979	Stochastic EURUSD,M30: initialized
+0	15:28:15.637	gamExpert EURUSD,M30: initialized
+0	15:28:21.727	gamExpert EURUSD,M30: uninit reason 3
+0	15:28:21.728	Custom Moving Averages EURUSD,M30: uninit reason 3
+0	15:28:21.728	Gambit EURUSD,M30: uninit reason 3
+0	15:28:21.728	Parabolic EURUSD,M30: uninit reason 3
+0	15:28:21.728	1fractal EURUSD,M30: uninit reason 3
+0	15:28:21.728	Stochastic EURUSD,M30: uninit reason 3
+0	15:28:21.829	Custom Moving Averages EURUSD,M15: initialized
+0	15:28:21.829	Gambit EURUSD,M15: initialized
+0	15:28:21.832	Parabolic EURUSD,M15: initialized
+0	15:28:21.832	1fractal EURUSD,M15: initialized
+0	15:28:21.834	Stochastic EURUSD,M15: initialized
+0	15:28:22.563	gamExpert EURUSD,M15: initialized
+0	15:28:26.869	gamExpert EURUSD,M15: uninit reason 3
+0	15:28:26.871	Custom Moving Averages EURUSD,M15: uninit reason 3
+0	15:28:26.871	Gambit EURUSD,M15: uninit reason 3
+0	15:28:26.871	Parabolic EURUSD,M15: uninit reason 3
+0	15:28:26.871	1fractal EURUSD,M15: uninit reason 3
+0	15:28:26.871	Stochastic EURUSD,M15: uninit reason 3
+0	15:28:26.983	Custom Moving Averages EURUSD,M5: initialized
+0	15:28:26.983	Gambit EURUSD,M5: initialized
+0	15:28:26.985	Parabolic EURUSD,M5: initialized
+0	15:28:26.986	1fractal EURUSD,M5: initialized
+0	15:28:26.987	Stochastic EURUSD,M5: initialized
+0	15:28:27.694	gamExpert EURUSD,M5: initialized
+0	15:32:20.121	gamExpert EURUSD,M5: uninit reason 2
+0	15:32:20.150	Expert gamExpert EURUSD,M5: removed
+0	15:32:20.192	Expert gamExpert EURUSD,M5: loaded successfully
+0	15:32:20.193	gamExpert USDX,M30: uninit reason 2
+0	15:32:20.210	Expert gamExpert USDX,M30: removed
+0	15:32:20.239	Expert gamExpert USDX,M30: loaded successfully
+0	15:32:20.379	gamExpert USDX,M30: initialized
+0	15:32:20.645	gamExpert EURUSD,M5: initialized
+0	15:46:12.245	gamExpert EURUSD,M5: uninit reason 3
+0	15:46:12.246	Custom Moving Averages EURUSD,M5: uninit reason 3
+0	15:46:12.246	Gambit EURUSD,M5: uninit reason 3
+0	15:46:12.246	Parabolic EURUSD,M5: uninit reason 3
+0	15:46:12.246	1fractal EURUSD,M5: uninit reason 3
+0	15:46:12.246	Stochastic EURUSD,M5: uninit reason 3
+0	15:46:12.332	Custom Moving Averages EURUSD,M15: initialized
+0	15:46:12.332	Gambit EURUSD,M15: initialized
+0	15:46:12.334	Parabolic EURUSD,M15: initialized
+0	15:46:12.335	1fractal EURUSD,M15: initialized
+0	15:46:12.336	Stochastic EURUSD,M15: initialized
+0	15:46:12.987	gamExpert EURUSD,M15: initialized
+0	15:46:56.774	gamExpert EURUSD,M15: uninit reason 3
+0	15:46:56.776	Custom Moving Averages EURUSD,M15: uninit reason 3
+0	15:46:56.776	Gambit EURUSD,M15: uninit reason 3
+0	15:46:56.776	Parabolic EURUSD,M15: uninit reason 3
+0	15:46:56.776	1fractal EURUSD,M15: uninit reason 3
+0	15:46:56.776	Stochastic EURUSD,M15: uninit reason 3
+0	15:46:56.779	Custom Moving Averages EURUSD,M5: initialized
+0	15:46:56.780	Gambit EURUSD,M5: initialized
+0	15:46:56.782	Parabolic EURUSD,M5: initialized
+0	15:46:56.783	1fractal EURUSD,M5: initialized
+0	15:46:56.784	Stochastic EURUSD,M5: initialized
+0	15:46:57.084	gamExpert EURUSD,M5: initialized
+0	15:54:15.199	gamExpert EURUSD,M5: uninit reason 2
+0	15:54:15.219	Expert gamExpert EURUSD,M5: removed
+0	15:54:15.256	Expert gamExpert EURUSD,M5: loaded successfully
+0	15:54:15.257	gamExpert USDX,M30: uninit reason 2
+0	15:54:15.275	Expert gamExpert USDX,M30: removed
+0	15:54:15.307	Expert gamExpert USDX,M30: loaded successfully
+0	15:54:15.468	gamExpert USDX,M30: initialized
+0	15:54:15.711	gamExpert EURUSD,M5: initialized
+0	15:57:35.686	gamExpert EURUSD,M5: uninit reason 2
+0	15:57:35.707	Expert gamExpert EURUSD,M5: removed
+0	15:57:35.738	Expert gamExpert EURUSD,M5: loaded successfully
+0	15:57:35.739	gamExpert USDX,M30: uninit reason 2
+0	15:57:35.757	Expert gamExpert USDX,M30: removed
+0	15:57:35.787	Expert gamExpert USDX,M30: loaded successfully
+0	15:57:35.951	gamExpert USDX,M30: initialized
+0	15:57:36.222	gamExpert EURUSD,M5: initialized
+0	15:58:22.789	gamExpert EURUSD,M5: uninit reason 5
+0	15:58:22.791	gamExpert EURUSD,M5: initialized
+0	15:58:22.859	gamExpert EURUSD,M5 inputs: Lot=0.1; 
+0	16:00:09.938	gamExpert EURUSD,M5: uninit reason 2
+0	16:00:09.971	Expert gamExpert EURUSD,M5: removed
+0	16:00:10.018	Expert gamExpert EURUSD,M5: loaded successfully
+0	16:00:10.020	gamExpert USDX,M30: uninit reason 2
+0	16:00:10.045	Expert gamExpert USDX,M30: removed
+0	16:00:10.091	Expert gamExpert USDX,M30: loaded successfully
+0	16:00:10.251	gamExpert USDX,M30: initialized
+0	16:00:10.508	gamExpert EURUSD,M5: initialized
+0	16:03:24.780	gamExpert USDX,M30: uninit reason 3
+0	16:03:24.782	Custom Moving Averages USDX,M30: uninit reason 3
+0	16:03:24.784	Gambit USDX,M30: uninit reason 3
+0	16:03:24.785	Parabolic USDX,M30: uninit reason 3
+0	16:03:24.786	1fractal USDX,M30: uninit reason 3
+0	16:03:24.786	Stochastic USDX,M30: uninit reason 3
+0	16:03:24.787	RSI USDX,M30: uninit reason 3
+0	16:03:24.792	Custom Moving Averages USDX,M5: initialized
+0	16:03:24.794	Gambit USDX,M5: initialized
+0	16:03:24.798	Parabolic USDX,M5: initialized
+0	16:03:24.798	1fractal USDX,M5: initialized
+0	16:03:24.800	Stochastic USDX,M5: initialized
+0	16:03:24.803	RSI USDX,M5: initialized
+0	16:03:25.031	gamExpert USDX,M5: initialized
+0	16:05:34.378	1fractal EURUSD,M5: uninit reason 5
+0	16:05:34.426	1fractal EURUSD,M5: initialized
+0	16:06:22.305	Script gamScript EURUSD,M5: loaded successfully
+0	16:06:22.786	gamScript EURUSD,M5: initialized
+0	16:06:23.114	gamScript EURUSD,M5: uninit reason 0
+0	16:06:23.138	Script gamScript EURUSD,M5: removed
+0	16:09:01.709	Script gamScript EURUSD,M5: loaded successfully
+0	16:09:02.225	gamScript EURUSD,M5: initialized
+2	16:09:02.571	gamScript EURUSD,M5: open #74513754 buy 1.00 EURUSD at 1.08552 sl: 1.08483 tp: 1.08601 ok
+0	16:09:02.571	gamScript EURUSD,M5: uninit reason 0
+0	16:09:02.590	Script gamScript EURUSD,M5: removed
+0	16:11:31.568	Script gamScript EURUSD,M5: loaded successfully
+0	16:11:31.972	gamScript EURUSD,M5: initialized
+2	16:11:32.199	gamScript EURUSD,M5: open #74513813 buy 1.00 EURUSD at 1.08522 sl: 1.08459 tp: 1.08587 ok
+0	16:11:32.199	gamScript EURUSD,M5: uninit reason 0
+0	16:11:32.224	Script gamScript EURUSD,M5: removed
+0	16:12:23.930	gamExpert EURUSD,M5: uninit reason 2
+0	16:12:23.949	Expert gamExpert EURUSD,M5: removed
+0	16:12:23.977	Expert gamExpert EURUSD,M5: loaded successfully
+0	16:12:23.979	gamExpert USDX,M5: uninit reason 2
+0	16:12:23.989	Expert gamExpert USDX,M5: removed
+0	16:12:24.021	Expert gamExpert USDX,M5: loaded successfully
+0	16:12:24.182	gamExpert USDX,M5: initialized
+0	16:12:24.420	gamExpert EURUSD,M5: initialized
+0	16:12:59.565	gamExpert EURUSD,M5: uninit reason 2
+0	16:12:59.585	Expert gamExpert EURUSD,M5: removed
+0	16:12:59.617	Expert gamExpert EURUSD,M5: loaded successfully
+0	16:12:59.619	gamExpert USDX,M5: uninit reason 2
+0	16:12:59.637	Expert gamExpert USDX,M5: removed
+0	16:12:59.671	Expert gamExpert USDX,M5: loaded successfully
+0	16:12:59.844	gamExpert USDX,M5: initialized
+0	16:13:00.077	gamExpert EURUSD,M5: initialized
+0	16:13:22.894	Script gamScript EURUSD,M5: loaded successfully
+0	16:13:23.283	gamScript EURUSD,M5: initialized
+2	16:13:23.569	gamScript EURUSD,M5: open #74513836 buy 1.00 EURUSD at 1.08519 sl: 1.08489 tp: 1.08587 ok
+0	16:13:23.569	gamScript EURUSD,M5: uninit reason 0
+0	16:13:23.595	Script gamScript EURUSD,M5: removed
+0	16:56:17.281	gamExpert EURUSD,M5: uninit reason 2
+0	16:56:17.303	Expert gamExpert EURUSD,M5: removed
+0	16:56:17.355	Expert gamExpert EURUSD,M5: loaded successfully
+0	16:56:17.356	gamExpert USDX,M5: uninit reason 2
+0	16:56:17.378	Expert gamExpert USDX,M5: removed
+0	16:56:17.442	Expert gamExpert USDX,M5: loaded successfully
+0	16:56:17.659	gamExpert USDX,M5: initialized
+0	16:56:17.827	gamExpert EURUSD,M5: initialized
+0	16:56:51.139	gamExpert EURUSD,M5: uninit reason 2
+0	16:56:51.154	Expert gamExpert EURUSD,M5: removed
+0	16:56:51.189	Expert gamExpert EURUSD,M5: loaded successfully
+0	16:56:51.190	gamExpert USDX,M5: uninit reason 2
+0	16:56:51.204	Expert gamExpert USDX,M5: removed
+0	16:56:51.242	Expert gamExpert USDX,M5: loaded successfully
+0	16:56:51.425	gamExpert USDX,M5: initialized
+0	16:56:51.574	gamExpert EURUSD,M5: initialized
+0	17:01:17.275	gamExpert EURUSD,M5: uninit reason 2
+0	17:01:17.290	Expert gamExpert EURUSD,M5: removed
+0	17:01:17.307	Expert gamExpert EURUSD,M5: loaded successfully
+0	17:01:17.308	gamExpert USDX,M5: uninit reason 2
+0	17:01:17.318	Expert gamExpert USDX,M5: removed
+0	17:01:17.335	Expert gamExpert USDX,M5: loaded successfully
+0	17:01:17.431	gamExpert USDX,M5: initialized
+0	17:01:17.570	gamExpert EURUSD,M5: initialized
+0	17:02:49.498	gamExpert USDX,M5: uninit reason 3
+0	17:02:49.500	Custom Moving Averages USDX,M5: uninit reason 3
+0	17:02:49.500	Gambit USDX,M5: uninit reason 3
+0	17:02:49.500	Parabolic USDX,M5: uninit reason 3
+0	17:02:49.500	1fractal USDX,M5: uninit reason 3
+0	17:02:49.500	Stochastic USDX,M5: uninit reason 3
+0	17:02:49.500	RSI USDX,M5: uninit reason 3
+0	17:02:49.564	Custom Moving Averages USDX,M15: initialized
+0	17:02:49.565	Gambit USDX,M15: initialized
+0	17:02:49.566	Parabolic USDX,M15: initialized
+0	17:02:49.566	1fractal USDX,M15: initialized
+0	17:02:49.566	Stochastic USDX,M15: initialized
+0	17:02:49.567	RSI USDX,M15: initialized
+0	17:02:49.689	gamExpert USDX,M15: initialized
+0	17:02:52.910	gamExpert USDX,M15: uninit reason 3
+0	17:02:52.912	Custom Moving Averages USDX,M15: uninit reason 3
+0	17:02:52.912	Gambit USDX,M15: uninit reason 3
+0	17:02:52.912	Parabolic USDX,M15: uninit reason 3
+0	17:02:52.912	1fractal USDX,M15: uninit reason 3
+0	17:02:52.912	Stochastic USDX,M15: uninit reason 3
+0	17:02:52.912	RSI USDX,M15: uninit reason 3
+0	17:02:52.914	Custom Moving Averages USDX,M30: initialized
+0	17:02:52.914	Gambit USDX,M30: initialized
+0	17:02:52.914	Parabolic USDX,M30: initialized
+0	17:02:52.914	1fractal USDX,M30: initialized
+0	17:02:52.914	Stochastic USDX,M30: initialized
+0	17:02:52.914	RSI USDX,M30: initialized
+0	17:02:53.048	gamExpert USDX,M30: initialized
+0	17:02:58.153	gamExpert USDX,M30: uninit reason 3
+0	17:02:58.155	Custom Moving Averages USDX,M30: uninit reason 3
+0	17:02:58.155	Gambit USDX,M30: uninit reason 3
+0	17:02:58.155	Parabolic USDX,M30: uninit reason 3
+0	17:02:58.155	1fractal USDX,M30: uninit reason 3
+0	17:02:58.155	Stochastic USDX,M30: uninit reason 3
+0	17:02:58.155	RSI USDX,M30: uninit reason 3
+0	17:02:58.167	Custom Moving Averages USDX,H1: initialized
+0	17:02:58.167	Gambit USDX,H1: initialized
+0	17:02:58.167	Parabolic USDX,H1: initialized
+0	17:02:58.167	1fractal USDX,H1: initialized
+0	17:02:58.167	Stochastic USDX,H1: initialized
+0	17:02:58.167	RSI USDX,H1: initialized
+0	17:02:58.295	gamExpert USDX,H1: initialized
+0	17:03:08.316	gamExpert USDX,H1: uninit reason 3
+0	17:03:08.318	Custom Moving Averages USDX,H1: uninit reason 3
+0	17:03:08.318	Gambit USDX,H1: uninit reason 3
+0	17:03:08.318	Parabolic USDX,H1: uninit reason 3
+0	17:03:08.318	1fractal USDX,H1: uninit reason 3
+0	17:03:08.318	Stochastic USDX,H1: uninit reason 3
+0	17:03:08.318	RSI USDX,H1: uninit reason 3
+0	17:03:08.318	Custom Moving Averages USDX,M1: initialized
+0	17:03:08.318	Gambit USDX,M1: initialized
+0	17:03:08.318	Parabolic USDX,M1: initialized
+0	17:03:08.318	1fractal USDX,M1: initialized
+0	17:03:08.318	Stochastic USDX,M1: initialized
+0	17:03:08.319	RSI USDX,M1: initialized
+0	17:03:08.455	gamExpert USDX,M1: initialized
+0	17:03:16.338	gamExpert USDX,M1: uninit reason 3
+0	17:03:16.341	Custom Moving Averages USDX,M1: uninit reason 3
+0	17:03:16.341	Gambit USDX,M1: uninit reason 3
+0	17:03:16.341	Parabolic USDX,M1: uninit reason 3
+0	17:03:16.341	1fractal USDX,M1: uninit reason 3
+0	17:03:16.341	Stochastic USDX,M1: uninit reason 3
+0	17:03:16.341	RSI USDX,M1: uninit reason 3
+0	17:03:16.341	Custom Moving Averages USDX,M5: initialized
+0	17:03:16.341	Gambit USDX,M5: initialized
+0	17:03:16.341	Parabolic USDX,M5: initialized
+0	17:03:16.341	1fractal USDX,M5: initialized
+0	17:03:16.341	Stochastic USDX,M5: initialized
+0	17:03:16.341	RSI USDX,M5: initialized
+0	17:03:16.371	gamExpert USDX,M5: initialized
+0	17:04:13.645	1fractal USDX,M5: uninit reason 2
+0	17:04:13.647	Custom indicator 1fractal USDX,M5: removed
+0	17:04:13.663	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:04:13.685	1fractal USDX,M5: initialized
+0	17:04:13.686	1fractal EURUSD,M5: uninit reason 2
+0	17:04:13.689	Custom indicator 1fractal EURUSD,M5: removed
+0	17:04:13.707	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:04:13.738	1fractal EURUSD,M5: initialized
+0	17:04:13.743	1fractal USDJPY,H4: uninit reason 2
+0	17:04:13.748	Custom indicator 1fractal USDJPY,H4: removed
+0	17:04:13.769	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:04:13.793	1fractal USDJPY,H4: initialized
+0	17:04:13.796	1fractal EURUSD,H4: uninit reason 2
+0	17:04:13.799	Custom indicator 1fractal EURUSD,H4: removed
+0	17:04:13.817	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:04:13.839	1fractal EURUSD,H4: initialized
+0	17:04:13.841	1fractal XAUUSD,H1: uninit reason 2
+0	17:04:13.844	Custom indicator 1fractal XAUUSD,H1: removed
+0	17:04:13.861	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	17:04:13.883	1fractal XAUUSD,H1: initialized
+0	17:04:14.740	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:15.043	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:15.327	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:17.054	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:17.280	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:17.525	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:18.436	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:18.993	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:20.357	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:21.047	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:22.230	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:24.778	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:25.237	gamExpert USDX,M5: Alert: Ошибка130
+0	17:04:26.373	Automated trading disabled
+0	17:04:26.496	gamExpert USDX,M5: Alert: Ошибка130
+3	17:04:28.626	gamExpert USDX,M5: trade operations not allowed by settings
+0	17:04:28.626	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:28.660	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:28.746	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:28.814	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:29.196	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:33.902	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:34.360	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:35.431	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:35.508	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:35.562	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:35.659	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:36.055	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:38.929	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:39.072	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:39.487	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:39.749	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:40.106	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:42.616	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:43.430	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:45.882	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:46.250	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:46.320	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:46.451	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:46.891	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:48.758	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:49.690	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:51.679	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:51.727	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:51.768	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:52.101	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:52.199	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:52.521	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:52.613	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:52.822	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:52.859	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:53.237	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:55.405	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:55.448	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:55.733	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:04:59.861	1fractal EURUSD,M5: uninit reason 2
+0	17:04:59.865	Custom indicator 1fractal EURUSD,M5: removed
+0	17:04:59.881	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:04:59.904	1fractal EURUSD,M5: initialized
+0	17:04:59.907	1fractal USDX,M5: uninit reason 2
+0	17:04:59.909	Custom indicator 1fractal USDX,M5: removed
+0	17:04:59.927	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:04:59.953	1fractal USDX,M5: initialized
+0	17:04:59.954	1fractal USDJPY,H4: uninit reason 2
+0	17:04:59.957	Custom indicator 1fractal USDJPY,H4: removed
+0	17:04:59.977	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:04:59.999	1fractal USDJPY,H4: initialized
+0	17:05:00.000	1fractal EURUSD,H4: uninit reason 2
+0	17:05:00.004	Custom indicator 1fractal EURUSD,H4: removed
+0	17:05:00.026	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:05:00.050	1fractal EURUSD,H4: initialized
+0	17:05:00.051	1fractal XAUUSD,H1: uninit reason 2
+0	17:05:00.054	Custom indicator 1fractal XAUUSD,H1: removed
+0	17:05:00.073	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	17:05:00.097	1fractal XAUUSD,H1: initialized
+0	17:09:14.751	1fractal EURUSD,M5: uninit reason 2
+0	17:09:14.754	Custom indicator 1fractal EURUSD,M5: removed
+0	17:09:14.771	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:09:14.795	1fractal EURUSD,M5: initialized
+0	17:09:14.799	1fractal USDX,M5: uninit reason 2
+0	17:09:14.802	Custom indicator 1fractal USDX,M5: removed
+0	17:09:14.820	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:09:14.847	1fractal USDX,M5: initialized
+0	17:09:14.848	1fractal USDJPY,H4: uninit reason 2
+0	17:09:14.851	Custom indicator 1fractal USDJPY,H4: removed
+0	17:09:14.945	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:09:14.970	1fractal USDJPY,H4: initialized
+0	17:09:14.971	1fractal EURUSD,H4: uninit reason 2
+0	17:09:14.974	Custom indicator 1fractal EURUSD,H4: removed
+0	17:09:14.990	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:09:15.016	1fractal EURUSD,H4: initialized
+0	17:09:15.017	1fractal XAUUSD,H1: uninit reason 2
+0	17:09:15.022	Custom indicator 1fractal XAUUSD,H1: removed
+0	17:09:15.049	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	17:09:15.072	1fractal XAUUSD,H1: initialized
+0	17:09:27.214	Automated trading enabled
+0	17:11:40.033	1fractal EURUSD,M5: uninit reason 2
+0	17:11:40.036	Custom indicator 1fractal EURUSD,M5: removed
+0	17:11:40.055	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:11:40.079	1fractal EURUSD,M5: initialized
+0	17:11:40.082	1fractal USDX,M5: uninit reason 2
+0	17:11:40.085	Custom indicator 1fractal USDX,M5: removed
+0	17:11:40.103	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:11:40.125	1fractal USDX,M5: initialized
+0	17:11:40.126	1fractal USDJPY,H4: uninit reason 2
+0	17:11:40.129	Custom indicator 1fractal USDJPY,H4: removed
+0	17:11:40.144	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:11:40.167	1fractal USDJPY,H4: initialized
+0	17:11:40.167	1fractal EURUSD,H4: uninit reason 2
+0	17:11:40.169	Custom indicator 1fractal EURUSD,H4: removed
+0	17:11:40.184	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:11:40.206	1fractal EURUSD,H4: initialized
+0	17:11:40.207	1fractal XAUUSD,H1: uninit reason 2
+0	17:11:40.210	Custom indicator 1fractal XAUUSD,H1: removed
+0	17:11:40.225	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	17:11:40.247	1fractal XAUUSD,H1: initialized
+0	17:12:39.169	1fractal EURUSD,M5: uninit reason 2
+0	17:12:39.172	Custom indicator 1fractal EURUSD,M5: removed
+0	17:12:39.188	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:12:39.210	1fractal EURUSD,M5: initialized
+0	17:12:39.213	1fractal USDX,M5: uninit reason 2
+0	17:12:39.216	Custom indicator 1fractal USDX,M5: removed
+0	17:12:39.234	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:12:39.257	1fractal USDX,M5: initialized
+0	17:12:39.258	1fractal USDJPY,H4: uninit reason 2
+0	17:12:39.261	Custom indicator 1fractal USDJPY,H4: removed
+0	17:12:39.277	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:12:39.297	1fractal USDJPY,H4: initialized
+0	17:12:39.298	1fractal EURUSD,H4: uninit reason 2
+0	17:12:39.301	Custom indicator 1fractal EURUSD,H4: removed
+0	17:12:39.317	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:12:39.337	1fractal EURUSD,H4: initialized
+0	17:12:39.338	1fractal XAUUSD,H1: uninit reason 2
+0	17:12:39.341	Custom indicator 1fractal XAUUSD,H1: removed
+0	17:12:39.357	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	17:12:39.376	1fractal XAUUSD,H1: initialized
+0	17:14:13.211	gamExpert EURUSD,M5: uninit reason 2
+0	17:14:13.224	Expert gamExpert EURUSD,M5: removed
+0	17:14:13.242	Expert gamExpert EURUSD,M5: loaded successfully
+0	17:14:13.243	gamExpert USDX,M5: uninit reason 2
+0	17:14:13.254	Expert gamExpert USDX,M5: removed
+0	17:14:13.272	Expert gamExpert USDX,M5: loaded successfully
+0	17:14:13.380	gamExpert USDX,M5: initialized
+0	17:14:13.513	gamExpert EURUSD,M5: initialized
+0	17:14:37.180	gamExpert EURUSD,M5: uninit reason 3
+0	17:14:37.182	Custom Moving Averages EURUSD,M5: uninit reason 3
+0	17:14:37.182	Gambit EURUSD,M5: uninit reason 3
+0	17:14:37.245	Parabolic EURUSD,M5: uninit reason 3
+0	17:14:37.246	1fractal EURUSD,M5: uninit reason 3
+0	17:14:37.246	Stochastic EURUSD,M5: uninit reason 3
+0	17:14:37.269	Custom Moving Averages EURUSD,M15: initialized
+0	17:14:37.270	Gambit EURUSD,M15: initialized
+0	17:14:37.274	Parabolic EURUSD,M15: initialized
+0	17:14:37.275	1fractal EURUSD,M15: initialized
+0	17:14:37.277	Stochastic EURUSD,M15: initialized
+0	17:14:37.790	gamExpert EURUSD,M15: initialized
+0	17:14:40.989	gamExpert EURUSD,M15: uninit reason 3
+0	17:14:40.991	Custom Moving Averages EURUSD,M15: uninit reason 3
+0	17:14:40.991	Gambit EURUSD,M15: uninit reason 3
+0	17:14:40.991	Parabolic EURUSD,M15: uninit reason 3
+0	17:14:40.991	1fractal EURUSD,M15: uninit reason 3
+0	17:14:40.991	Stochastic EURUSD,M15: uninit reason 3
+0	17:14:41.074	Custom Moving Averages EURUSD,M30: initialized
+0	17:14:41.074	Gambit EURUSD,M30: initialized
+0	17:14:41.075	Parabolic EURUSD,M30: initialized
+0	17:14:41.075	1fractal EURUSD,M30: initialized
+0	17:14:41.075	Stochastic EURUSD,M30: initialized
+0	17:14:41.601	gamExpert EURUSD,M30: initialized
+0	17:14:45.434	gamExpert EURUSD,M30: uninit reason 3
+0	17:14:45.435	Custom Moving Averages EURUSD,M30: uninit reason 3
+0	17:14:45.435	Gambit EURUSD,M30: uninit reason 3
+0	17:14:45.435	Parabolic EURUSD,M30: uninit reason 3
+0	17:14:45.435	1fractal EURUSD,M30: uninit reason 3
+0	17:14:45.435	Stochastic EURUSD,M30: uninit reason 3
+0	17:14:45.507	Custom Moving Averages EURUSD,H1: initialized
+0	17:14:45.507	Gambit EURUSD,H1: initialized
+0	17:14:45.509	Parabolic EURUSD,H1: initialized
+0	17:14:45.510	1fractal EURUSD,H1: initialized
+0	17:14:45.511	Stochastic EURUSD,H1: initialized
+0	17:14:45.797	gamExpert EURUSD,H1: initialized
+0	17:14:49.381	gamExpert EURUSD,H1: uninit reason 3
+0	17:14:49.383	Custom Moving Averages EURUSD,H1: uninit reason 3
+0	17:14:49.383	Gambit EURUSD,H1: uninit reason 3
+0	17:14:49.383	Parabolic EURUSD,H1: uninit reason 3
+0	17:14:49.383	1fractal EURUSD,H1: uninit reason 3
+0	17:14:49.383	Stochastic EURUSD,H1: uninit reason 3
+0	17:14:49.384	Custom Moving Averages EURUSD,M5: initialized
+0	17:14:49.384	Gambit EURUSD,M5: initialized
+0	17:14:49.385	Parabolic EURUSD,M5: initialized
+0	17:14:49.385	1fractal EURUSD,M5: initialized
+0	17:14:49.386	Stochastic EURUSD,M5: initialized
+0	17:14:49.631	gamExpert EURUSD,M5: initialized
+0	17:26:55.741	Expert gamExpert USDJPY,H4: loaded successfully
+0	17:26:59.209	gamExpert USDJPY,H4 inputs: Lot=0.1; 
+0	17:26:59.318	gamExpert USDJPY,H4: initialized
+0	17:33:16.310	Custom Moving Averages XAUUSD,H1: uninit reason 3
+0	17:33:16.310	Gambit XAUUSD,H1: uninit reason 3
+0	17:33:16.310	Parabolic XAUUSD,H1: uninit reason 3
+0	17:33:16.310	1fractal XAUUSD,H1: uninit reason 3
+0	17:33:16.310	Stochastic XAUUSD,H1: uninit reason 3
+0	17:33:16.310	Custom Moving Averages XAUUSD,H4: initialized
+0	17:33:16.371	Gambit XAUUSD,H4: initialized
+0	17:33:16.378	Parabolic XAUUSD,H4: initialized
+0	17:33:16.380	1fractal XAUUSD,H4: initialized
+0	17:33:16.381	Stochastic XAUUSD,H4: initialized
+0	17:33:35.673	Custom Moving Averages XAUUSD,H4: uninit reason 3
+0	17:33:35.673	Gambit XAUUSD,H4: uninit reason 3
+0	17:33:35.673	Parabolic XAUUSD,H4: uninit reason 3
+0	17:33:35.673	1fractal XAUUSD,H4: uninit reason 3
+0	17:33:35.673	Stochastic XAUUSD,H4: uninit reason 3
+0	17:33:35.673	Custom Moving Averages XAUUSD,Daily: initialized
+0	17:33:35.674	Gambit XAUUSD,Daily: initialized
+0	17:33:35.674	Parabolic XAUUSD,Daily: initialized
+0	17:33:35.674	1fractal XAUUSD,Daily: initialized
+0	17:33:35.674	Stochastic XAUUSD,Daily: initialized
+0	17:36:24.249	1fractal EURUSD,M5: uninit reason 2
+0	17:36:24.253	Custom indicator 1fractal EURUSD,M5: removed
+0	17:36:24.274	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:36:24.305	1fractal EURUSD,M5: initialized
+0	17:36:24.308	1fractal USDX,M5: uninit reason 2
+0	17:36:24.313	Custom indicator 1fractal USDX,M5: removed
+0	17:36:24.334	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:36:24.362	1fractal USDX,M5: initialized
+0	17:36:24.363	1fractal XAUUSD,Daily: uninit reason 2
+0	17:36:24.367	Custom indicator 1fractal XAUUSD,Daily: removed
+0	17:36:24.388	Custom indicator 1fractal XAUUSD,Daily: loaded successfully
+0	17:36:24.415	1fractal XAUUSD,Daily: initialized
+0	17:36:24.416	1fractal EURUSD,H4: uninit reason 2
+0	17:36:24.419	Custom indicator 1fractal EURUSD,H4: removed
+0	17:36:24.439	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:36:24.466	1fractal EURUSD,H4: initialized
+0	17:36:24.467	1fractal USDJPY,H4: uninit reason 2
+0	17:36:24.471	Custom indicator 1fractal USDJPY,H4: removed
+0	17:36:24.493	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:36:24.518	1fractal USDJPY,H4: initialized
+0	17:37:07.435	1fractal EURUSD,M5: uninit reason 2
+0	17:37:07.438	Custom indicator 1fractal EURUSD,M5: removed
+0	17:37:07.456	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:37:07.480	1fractal EURUSD,M5: initialized
+0	17:37:07.483	1fractal USDX,M5: uninit reason 2
+0	17:37:07.486	Custom indicator 1fractal USDX,M5: removed
+0	17:37:07.503	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:37:07.527	1fractal USDX,M5: initialized
+0	17:37:07.528	1fractal XAUUSD,Daily: uninit reason 2
+0	17:37:07.531	Custom indicator 1fractal XAUUSD,Daily: removed
+0	17:37:07.546	Custom indicator 1fractal XAUUSD,Daily: loaded successfully
+0	17:37:07.569	1fractal XAUUSD,Daily: initialized
+0	17:37:07.569	1fractal EURUSD,H4: uninit reason 2
+0	17:37:07.572	Custom indicator 1fractal EURUSD,H4: removed
+0	17:37:07.588	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:37:07.610	1fractal EURUSD,H4: initialized
+0	17:37:07.611	1fractal USDJPY,H4: uninit reason 2
+0	17:37:07.614	Custom indicator 1fractal USDJPY,H4: removed
+0	17:37:07.631	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:37:07.655	1fractal USDJPY,H4: initialized
+0	17:38:03.359	gamExpert USDJPY,H4: uninit reason 2
+0	17:38:03.368	Expert gamExpert USDJPY,H4: removed
+0	17:38:03.389	Expert gamExpert USDJPY,H4: loaded successfully
+0	17:38:03.390	gamExpert EURUSD,M5: uninit reason 2
+0	17:38:03.401	Expert gamExpert EURUSD,M5: removed
+0	17:38:03.421	Expert gamExpert EURUSD,M5: loaded successfully
+0	17:38:03.422	gamExpert USDX,M5: uninit reason 2
+0	17:38:03.434	Expert gamExpert USDX,M5: removed
+0	17:38:03.457	Expert gamExpert USDX,M5: loaded successfully
+0	17:38:03.516	gamExpert USDJPY,H4: initialized
+0	17:38:03.568	gamExpert USDX,M5: initialized
+0	17:38:03.705	gamExpert EURUSD,M5: initialized
+0	17:38:16.438	1fractal EURUSD,M5: uninit reason 2
+0	17:38:16.441	Custom indicator 1fractal EURUSD,M5: removed
+0	17:38:16.457	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:38:16.481	1fractal EURUSD,M5: initialized
+0	17:38:16.483	1fractal USDX,M5: uninit reason 2
+0	17:38:16.487	Custom indicator 1fractal USDX,M5: removed
+0	17:38:16.504	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:38:16.527	1fractal USDX,M5: initialized
+0	17:38:16.528	1fractal XAUUSD,Daily: uninit reason 2
+0	17:38:16.531	Custom indicator 1fractal XAUUSD,Daily: removed
+0	17:38:16.548	Custom indicator 1fractal XAUUSD,Daily: loaded successfully
+0	17:38:16.572	1fractal XAUUSD,Daily: initialized
+0	17:38:16.573	1fractal EURUSD,H4: uninit reason 2
+0	17:38:16.577	Custom indicator 1fractal EURUSD,H4: removed
+0	17:38:16.602	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:38:16.633	1fractal EURUSD,H4: initialized
+0	17:38:16.633	1fractal USDJPY,H4: uninit reason 2
+0	17:38:16.636	Custom indicator 1fractal USDJPY,H4: removed
+0	17:38:16.654	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:38:16.677	1fractal USDJPY,H4: initialized
+2	17:38:17.405	gamExpert USDX,M5: open #74515747 sell 0.10 USDX at 100.096 sl: 100.131 tp: 99.875 ok
+2	17:38:18.927	gamExpert EURUSD,M5: open #74515748 sell 0.10 EURUSD at 1.08360 sl: 1.08388 tp: 1.08329 ok
+0	17:38:21.125	gamExpert USDJPY,H4: Alert: Ошибка130
+2	17:38:22.794	gamExpert EURUSD,M5: open #74515752 sell 0.10 EURUSD at 1.08366 sl: 1.08388 tp: 1.08329 ok
+0	17:38:22.794	gamExpert USDJPY,H4: Alert: Ошибка130
+0	17:38:23.141	gamExpert USDJPY,H4: Alert: Ошибка130
+2	17:38:23.436	gamExpert USDX,M5: open #74515754 sell 0.10 USDX at 100.091 sl: 100.131 tp: 99.875 ok
+2	17:38:24.044	gamExpert USDX,M5: open #74515755 sell 0.10 USDX at 100.091 sl: 100.131 tp: 99.875 ok
+2	17:38:24.229	gamExpert EURUSD,M5: open #74515756 sell 0.10 EURUSD at 1.08365 sl: 1.08388 tp: 1.08329 ok
+2	17:38:25.292	gamExpert EURUSD,M5: open #74515758 sell 0.10 EURUSD at 1.08367 sl: 1.08388 tp: 1.08329 ok
+2	17:38:25.453	gamExpert USDX,M5: open #74515759 sell 0.10 USDX at 100.096 sl: 100.131 tp: 99.875 ok
+2	17:38:26.452	gamExpert USDX,M5: open #74515760 sell 0.10 USDX at 100.096 sl: 100.131 tp: 99.875 ok
+2	17:38:28.401	gamExpert EURUSD,M5: open #74515761 sell 0.10 EURUSD at 1.08366 sl: 1.08388 tp: 1.08329 ok
+2	17:38:29.414	gamExpert EURUSD,M5: open #74515762 sell 0.10 EURUSD at 1.08369 sl: 1.08388 tp: 1.08329 ok
+0	17:38:29.479	gamExpert USDJPY,H4: Alert: Ошибка130
+2	17:38:29.479	gamExpert USDX,M5: open #74515763 sell 0.10 USDX at 100.091 sl: 100.131 tp: 99.875 ok
+2	17:38:29.643	gamExpert EURUSD,M5: open #74515764 sell 0.10 EURUSD at 1.08369 sl: 1.08388 tp: 1.08329 ok
+0	17:38:29.756	Automated trading disabled
+3	17:38:30.623	gamExpert EURUSD,M5: trade operations not allowed by settings
+0	17:38:30.623	gamExpert EURUSD,M5: Alert: Ошибка4109
+3	17:38:31.074	gamExpert USDX,M5: trade operations not allowed by settings
+0	17:38:31.074	gamExpert USDX,M5: Alert: Ошибка4109
+3	17:38:31.308	gamExpert USDJPY,H4: trade operations not allowed by settings
+0	17:38:31.308	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:31.494	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:31.510	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:33.022	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:33.277	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:34.623	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:36.895	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:36.921	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:37.042	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:37.270	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:37.300	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:37.393	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:37.410	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:37.671	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:38.094	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:38.387	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:40.100	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:40.107	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:40.183	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:40.242	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:40.988	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:41.088	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:41.692	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:41.722	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:41.858	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:41.947	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:43.402	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:43.451	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:43.554	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:43.677	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:43.737	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:43.832	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:43.937	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:43.937	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:44.109	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:44.204	gamExpert EURUSD,M5: Alert: Ошибка4109
+0	17:38:44.261	gamExpert USDJPY,H4: Alert: Ошибка4109
+0	17:38:44.340	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:44.972	gamExpert USDX,M5: Alert: Ошибка4109
+0	17:38:45.377	1fractal EURUSD,M5: uninit reason 2
+0	17:38:45.381	Custom indicator 1fractal EURUSD,M5: removed
+0	17:38:45.396	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	17:38:45.421	1fractal EURUSD,M5: initialized
+0	17:38:45.424	1fractal USDX,M5: uninit reason 2
+0	17:38:45.427	Custom indicator 1fractal USDX,M5: removed
+0	17:38:45.445	Custom indicator 1fractal USDX,M5: loaded successfully
+0	17:38:45.467	1fractal USDX,M5: initialized
+0	17:38:45.468	1fractal XAUUSD,Daily: uninit reason 2
+0	17:38:45.471	Custom indicator 1fractal XAUUSD,Daily: removed
+0	17:38:45.486	Custom indicator 1fractal XAUUSD,Daily: loaded successfully
+0	17:38:45.508	1fractal XAUUSD,Daily: initialized
+0	17:38:45.508	1fractal EURUSD,H4: uninit reason 2
+0	17:38:45.511	Custom indicator 1fractal EURUSD,H4: removed
+0	17:38:45.527	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	17:38:45.549	1fractal EURUSD,H4: initialized
+0	17:38:45.550	1fractal USDJPY,H4: uninit reason 2
+0	17:38:45.553	Custom indicator 1fractal USDJPY,H4: removed
+0	17:38:45.570	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	17:38:45.594	1fractal USDJPY,H4: initialized
+0	17:40:59.027	Automated trading enabled
+0	17:52:04.234	gamExpert USDJPY,H4: uninit reason 3
+0	17:52:04.236	Custom Moving Averages USDJPY,H4: uninit reason 3
+0	17:52:04.236	Gambit USDJPY,H4: uninit reason 3
+0	17:52:04.266	Parabolic USDJPY,H4: uninit reason 3
+0	17:52:04.266	1fractal USDJPY,H4: uninit reason 3
+0	17:52:04.266	ZigZag happy USDJPY,H4: uninit reason 3
+0	17:52:04.266	Stochastic USDJPY,H4: uninit reason 3
+0	17:52:04.272	Custom Moving Averages USDJPY,M5: initialized
+0	17:52:04.277	Gambit USDJPY,M5: initialized
+0	17:52:04.289	Parabolic USDJPY,M5: initialized
+0	17:52:04.290	1fractal USDJPY,M5: initialized
+0	17:52:04.292	ZigZag happy USDJPY,M5: initialized
+0	17:52:04.294	Stochastic USDJPY,M5: initialized
+0	17:52:07.502	gamExpert USDJPY,M5: initialized
+0	18:20:43.916	gamExpert USDJPY,M5: uninit reason 2
+0	18:20:43.922	Expert gamExpert USDJPY,M5: removed
+0	18:20:43.942	Expert gamExpert USDJPY,M5: loaded successfully
+0	18:20:43.943	gamExpert EURUSD,M5: uninit reason 2
+0	18:20:43.955	Expert gamExpert EURUSD,M5: removed
+0	18:20:43.975	Expert gamExpert EURUSD,M5: loaded successfully
+0	18:20:43.976	gamExpert USDX,M5: uninit reason 2
+0	18:20:43.987	Expert gamExpert USDX,M5: removed
+0	18:20:44.009	Expert gamExpert USDX,M5: loaded successfully
+0	18:20:44.063	gamExpert USDJPY,M5: initialized
+0	18:20:44.132	gamExpert USDX,M5: initialized
+0	18:20:44.281	gamExpert EURUSD,M5: initialized
+2	18:20:53.130	gamExpert USDJPY,M5: open #74516832 buy 0.10 USDJPY at 107.257 sl: 107.226 tp: 107.374 ok
+2	18:20:53.517	gamExpert USDJPY,M5: open #74516833 buy 0.10 USDJPY at 107.255 sl: 107.226 tp: 107.374 ok
+2	18:20:58.603	gamExpert USDJPY,M5: open #74516835 buy 0.10 USDJPY at 107.256 sl: 107.226 tp: 107.374 ok
+2	18:21:01.145	gamExpert USDJPY,M5: open #74516837 buy 0.10 USDJPY at 107.258 sl: 107.226 tp: 107.374 ok
+2	18:21:07.673	gamExpert USDJPY,M5: open #74516840 buy 0.10 USDJPY at 107.258 sl: 107.226 tp: 107.374 ok
+2	18:21:07.980	gamExpert USDJPY,M5: open #74516841 buy 0.10 USDJPY at 107.258 sl: 107.226 tp: 107.374 ok
+2	18:21:09.466	gamExpert USDJPY,M5: open #74516842 buy 0.10 USDJPY at 107.260 sl: 107.226 tp: 107.374 ok
+0	18:21:09.509	Automated trading disabled
+2	18:21:09.740	gamExpert USDJPY,M5: open #74516843 buy 0.10 USDJPY at 107.260 sl: 107.226 tp: 107.374 ok
+3	18:21:13.880	gamExpert USDJPY,M5: trade operations not allowed by settings
+0	18:32:51.188	gamExpert USDJPY,M5: uninit reason 2
+0	18:32:51.200	Expert gamExpert USDJPY,M5: removed
+0	18:32:51.218	Expert gamExpert USDJPY,M5: loaded successfully
+0	18:32:51.219	gamExpert EURUSD,M5: uninit reason 2
+0	18:32:51.229	Expert gamExpert EURUSD,M5: removed
+0	18:32:51.248	Expert gamExpert EURUSD,M5: loaded successfully
+0	18:32:51.248	gamExpert USDX,M5: uninit reason 2
+0	18:32:51.259	Expert gamExpert USDX,M5: removed
+0	18:32:51.278	Expert gamExpert USDX,M5: loaded successfully
+0	18:32:51.333	gamExpert USDJPY,M5: initialized
+0	18:32:51.424	gamExpert USDX,M5: initialized
+0	18:32:51.560	gamExpert EURUSD,M5: initialized
+0	18:39:53.074	gamExpert USDJPY,M5: uninit reason 2
+0	18:39:53.084	Expert gamExpert USDJPY,M5: removed
+0	18:39:53.105	Expert gamExpert USDJPY,M5: loaded successfully
+0	18:39:53.106	gamExpert EURUSD,M5: uninit reason 2
+0	18:39:53.180	Expert gamExpert EURUSD,M5: removed
+0	18:39:53.198	Expert gamExpert EURUSD,M5: loaded successfully
+0	18:39:53.199	gamExpert USDX,M5: uninit reason 2
+0	18:39:53.211	Expert gamExpert USDX,M5: removed
+0	18:39:53.230	Expert gamExpert USDX,M5: loaded successfully
+0	18:39:53.248	gamExpert USDJPY,M5: initialized
+0	18:39:53.337	gamExpert USDX,M5: initialized
+0	18:39:53.469	gamExpert EURUSD,M5: initialized
+0	18:40:00.387	Automated trading enabled
+0	18:40:00.769	Automated trading disabled
+0	18:40:05.021	Automated trading enabled
+0	18:58:38.458	Custom indicator ZigZag happy XAUUSD,H1: loaded successfully
+0	18:58:38.489	Custom indicator ifibonacci XAUUSD,H1: loaded successfully
+0	18:58:38.505	ZigZag happy XAUUSD,H1: initialized
+0	18:58:38.598	ifibonacci XAUUSD,H1: One of Fibo ARC Methods is requires DLL, Remember to allow DLL imports if you like to use it.
+0	18:58:38.598	ifibonacci XAUUSD,H1: initialized
+0	18:58:38.770	Custom indicator Custom Moving Averages USDJPY,H4: loaded successfully
+0	18:58:38.786	Custom indicator Gambit USDJPY,H4: loaded successfully
+0	18:58:38.817	Custom indicator Parabolic USDJPY,H4: loaded successfully
+0	18:58:38.848	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	18:58:38.911	Custom indicator ZigZag happy USDJPY,H4: loaded successfully
+0	18:58:38.927	Custom indicator Stochastic USDJPY,H4: loaded successfully
+0	18:58:38.959	Expert gamExpert USDJPY,H4: loaded successfully
+0	18:58:38.959	gamExpert USDJPY,H4 inputs: Lot=0.1; 
+0	18:58:39.078	Custom Moving Averages USDJPY,H4: initialized
+0	18:58:39.109	Gambit USDJPY,H4: initialized
+0	18:58:39.156	Parabolic USDJPY,H4: initialized
+0	18:58:39.187	1fractal USDJPY,H4: initialized
+0	18:58:39.187	ZigZag happy USDJPY,H4: initialized
+0	18:58:39.218	Stochastic USDJPY,H4: initialized
+0	18:58:39.343	Custom indicator Custom Moving Averages EURUSD,M5: loaded successfully
+0	18:58:39.359	Custom indicator Gambit EURUSD,M5: loaded successfully
+0	18:58:39.390	Custom indicator Parabolic EURUSD,M5: loaded successfully
+0	18:58:39.406	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	18:58:39.437	Custom indicator Stochastic EURUSD,M5: loaded successfully
+0	18:58:39.452	Expert gamExpert EURUSD,M5: loaded successfully
+0	18:58:39.452	gamExpert EURUSD,M5 inputs: Lot=0.1; 
+0	18:58:39.515	Custom Moving Averages EURUSD,M5: initialized
+0	18:58:39.577	Gambit EURUSD,M5: initialized
+0	18:58:39.624	Parabolic EURUSD,M5: initialized
+0	18:58:39.656	1fractal EURUSD,M5: initialized
+0	18:58:39.687	Stochastic EURUSD,M5: initialized
+0	18:58:40.062	Custom indicator Custom Moving Averages USDX,Daily: loaded successfully
+0	18:58:40.093	Custom indicator Gambit USDX,Daily: loaded successfully
+0	18:58:40.109	Custom indicator Parabolic USDX,Daily: loaded successfully
+0	18:58:40.140	Custom indicator 1fractal USDX,Daily: loaded successfully
+0	18:58:40.155	Custom indicator Stochastic USDX,Daily: loaded successfully
+0	18:58:40.171	Custom indicator RSI USDX,Daily: loaded successfully
+0	18:58:40.202	Expert gamExpert USDX,Daily: loaded successfully
+0	18:58:40.202	gamExpert USDX,Daily inputs: Lot=0.1; 
+0	18:58:40.249	Custom Moving Averages USDX,Daily: initialized
+0	18:58:40.296	Gambit USDX,Daily: initialized
+0	18:58:40.327	Parabolic USDX,Daily: initialized
+0	18:58:40.374	1fractal USDX,Daily: initialized
+0	18:58:40.405	Stochastic USDX,Daily: initialized
+0	18:58:40.437	RSI USDX,Daily: initialized
+0	18:58:40.515	Custom indicator Custom Moving Averages XAUUSD,H1: loaded successfully
+0	18:58:40.530	Custom indicator Gambit XAUUSD,H1: loaded successfully
+0	18:58:40.562	Custom indicator Parabolic XAUUSD,H1: loaded successfully
+0	18:58:40.577	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	18:58:40.608	Custom indicator Stochastic XAUUSD,H1: loaded successfully
+0	18:58:40.655	Custom Moving Averages XAUUSD,H1: initialized
+0	18:58:40.687	Gambit XAUUSD,H1: initialized
+0	18:58:40.733	Parabolic XAUUSD,H1: initialized
+0	18:58:40.766	1fractal XAUUSD,H1: initialized
+0	18:58:40.797	Stochastic XAUUSD,H1: initialized
+0	18:58:40.954	Custom indicator Custom Moving Averages EURUSD,H4: loaded successfully
+0	18:58:40.970	Custom indicator Gambit EURUSD,H4: loaded successfully
+0	18:58:40.985	Custom indicator Parabolic EURUSD,H4: loaded successfully
+0	18:58:41.017	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	18:58:41.032	Custom indicator Stochastic EURUSD,H4: loaded successfully
+0	18:58:41.064	Custom indicator RSI EURUSD,H4: loaded successfully
+0	18:58:41.110	Custom Moving Averages EURUSD,H4: initialized
+0	18:58:41.157	Gambit EURUSD,H4: initialized
+0	18:58:41.204	Parabolic EURUSD,H4: initialized
+0	18:58:41.235	1fractal EURUSD,H4: initialized
+0	18:58:41.267	Stochastic EURUSD,H4: initialized
+0	18:58:41.303	RSI EURUSD,H4: initialized
+0	18:58:45.661	gamExpert USDX,Daily: initialized
+0	18:58:45.693	gamExpert USDJPY,H4: initialized
+0	18:58:45.894	gamExpert EURUSD,M5: initialized
+0	18:58:55.326	gamExpert USDJPY,H4: uninit reason 3
+0	18:58:55.327	Custom Moving Averages USDJPY,H4: uninit reason 3
+0	18:58:55.327	Gambit USDJPY,H4: uninit reason 3
+0	18:58:55.327	Parabolic USDJPY,H4: uninit reason 3
+0	18:58:55.327	1fractal USDJPY,H4: uninit reason 3
+0	18:58:55.327	ZigZag happy USDJPY,H4: uninit reason 3
+0	18:58:55.327	Stochastic USDJPY,H4: uninit reason 3
+0	18:58:55.336	Custom Moving Averages USDJPY,M5: initialized
+0	18:58:55.336	Gambit USDJPY,M5: initialized
+0	18:58:55.336	Parabolic USDJPY,M5: initialized
+0	18:58:55.336	1fractal USDJPY,M5: initialized
+0	18:58:55.337	ZigZag happy USDJPY,M5: initialized
+0	18:58:55.337	Stochastic USDJPY,M5: initialized
+0	18:58:55.565	gamExpert USDJPY,M5: initialized
+0	18:59:08.034	gamExpert USDX,Daily: uninit reason 3
+0	18:59:08.036	Custom Moving Averages USDX,Daily: uninit reason 3
+0	18:59:08.036	Gambit USDX,Daily: uninit reason 3
+0	18:59:08.036	Parabolic USDX,Daily: uninit reason 3
+0	18:59:08.036	1fractal USDX,Daily: uninit reason 3
+0	18:59:08.036	Stochastic USDX,Daily: uninit reason 3
+0	18:59:08.036	RSI USDX,Daily: uninit reason 3
+0	18:59:08.061	Custom Moving Averages USDX,M5: initialized
+0	18:59:08.061	Gambit USDX,M5: initialized
+0	18:59:08.062	Parabolic USDX,M5: initialized
+0	18:59:08.062	1fractal USDX,M5: initialized
+0	18:59:08.062	Stochastic USDX,M5: initialized
+0	18:59:08.062	RSI USDX,M5: initialized
+0	18:59:20.210	gamExpert USDX,M5: initialized
+0	19:10:32.140	Custom indicator Custom Moving Averages USDCAD,H1: loaded successfully
+0	19:10:32.157	Custom indicator Gambit USDCAD,H1: loaded successfully
+0	19:10:32.174	Custom indicator Parabolic USDCAD,H1: loaded successfully
+0	19:10:32.190	Custom indicator 1fractal USDCAD,H1: loaded successfully
+0	19:10:32.206	Custom indicator Stochastic USDCAD,H1: loaded successfully
+0	19:10:32.222	Custom indicator RSI USDCAD,H1: loaded successfully
+0	19:10:32.250	Custom Moving Averages USDCAD,H1: initialized
+0	19:10:32.277	Gambit USDCAD,H1: initialized
+0	19:10:32.302	Parabolic USDCAD,H1: initialized
+0	19:10:32.325	1fractal USDCAD,H1: initialized
+0	19:10:32.346	Stochastic USDCAD,H1: initialized
+0	19:10:32.369	RSI USDCAD,H1: initialized
+0	19:10:46.967	Expert gamExpert USDCAD,H1: loaded successfully
+0	19:10:49.987	gamExpert USDCAD,H1 inputs: Lot=0.1; 
+0	19:10:50.074	gamExpert USDCAD,H1: initialized
+0	19:25:22.159	gamExpert USDCAD,H1: uninit reason 3
+0	19:25:22.161	Custom Moving Averages USDCAD,H1: uninit reason 3
+0	19:25:22.161	Gambit USDCAD,H1: uninit reason 3
+0	19:25:22.161	Parabolic USDCAD,H1: uninit reason 3
+0	19:25:22.161	1fractal USDCAD,H1: uninit reason 3
+0	19:25:22.161	Stochastic USDCAD,H1: uninit reason 3
+0	19:25:22.161	RSI USDCAD,H1: uninit reason 3
+0	19:25:22.257	Custom Moving Averages USDCAD,M5: initialized
+0	19:25:22.257	Gambit USDCAD,M5: initialized
+0	19:25:22.257	Parabolic USDCAD,M5: initialized
+0	19:25:22.257	1fractal USDCAD,M5: initialized
+0	19:25:22.257	Stochastic USDCAD,M5: initialized
+0	19:25:22.257	RSI USDCAD,M5: initialized
+0	19:25:22.466	gamExpert USDCAD,M5: initialized
+0	19:29:57.258	gamExpert USDCAD,M5: uninit reason 3
+0	19:29:57.259	Custom Moving Averages USDCAD,M5: uninit reason 3
+0	19:29:57.259	Gambit USDCAD,M5: uninit reason 3
+0	19:29:57.259	Parabolic USDCAD,M5: uninit reason 3
+0	19:29:57.259	1fractal USDCAD,M5: uninit reason 3
+0	19:29:57.259	Stochastic USDCAD,M5: uninit reason 3
+0	19:29:57.259	RSI USDCAD,M5: uninit reason 3
+0	19:29:57.323	Custom Moving Averages USDCAD,Daily: initialized
+0	19:29:57.323	Gambit USDCAD,Daily: initialized
+0	19:29:57.323	Parabolic USDCAD,Daily: initialized
+0	19:29:57.323	1fractal USDCAD,Daily: initialized
+0	19:29:57.323	Stochastic USDCAD,Daily: initialized
+0	19:29:57.324	RSI USDCAD,Daily: initialized
+0	19:29:57.518	gamExpert USDCAD,Daily: initialized
+0	19:30:00.346	gamExpert USDCAD,Daily: uninit reason 3
+0	19:30:00.348	Custom Moving Averages USDCAD,Daily: uninit reason 3
+0	19:30:00.348	Gambit USDCAD,Daily: uninit reason 3
+0	19:30:00.348	Parabolic USDCAD,Daily: uninit reason 3
+0	19:30:00.348	1fractal USDCAD,Daily: uninit reason 3
+0	19:30:00.348	Stochastic USDCAD,Daily: uninit reason 3
+0	19:30:00.348	RSI USDCAD,Daily: uninit reason 3
+0	19:30:00.348	Custom Moving Averages USDCAD,M5: initialized
+0	19:30:00.348	Gambit USDCAD,M5: initialized
+0	19:30:00.348	Parabolic USDCAD,M5: initialized
+0	19:30:00.348	1fractal USDCAD,M5: initialized
+0	19:30:00.348	Stochastic USDCAD,M5: initialized
+0	19:30:00.348	RSI USDCAD,M5: initialized
+0	19:30:00.375	gamExpert USDCAD,M5: initialized
+0	21:39:40.874	gamExpert USDJPY,M5: uninit reason 6
+0	21:39:40.878	gamExpert USDJPY,M5: initialized
+0	21:39:40.878	gamExpert EURUSD,M5: uninit reason 6
+0	21:39:40.883	gamExpert EURUSD,M5: initialized
+0	21:39:40.884	gamExpert USDX,M5: uninit reason 6
+0	21:39:40.886	gamExpert USDCAD,M5: uninit reason 6
+0	21:39:40.887	gamExpert USDX,M5: initialized
+0	21:39:40.888	gamExpert USDCAD,M5: initialized
+0	21:42:00.574	ZigZag happy XAUUSD,H1: uninit reason 9
+0	21:42:00.574	ifibonacci XAUUSD,H1: uninit reason 9
+1	21:42:00.574	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:42:00.641	gamExpert USDJPY,M5: uninit reason 9
+0	21:42:00.646	Custom Moving Averages USDJPY,M5: uninit reason 9
+0	21:42:00.646	Gambit USDJPY,M5: uninit reason 9
+0	21:42:00.647	Parabolic USDJPY,M5: uninit reason 9
+0	21:42:00.647	1fractal USDJPY,M5: uninit reason 9
+0	21:42:00.647	ZigZag happy USDJPY,M5: uninit reason 9
+0	21:42:00.647	Stochastic USDJPY,M5: uninit reason 9
+0	21:42:00.647	gamExpert EURUSD,M5: uninit reason 9
+0	21:42:00.657	Custom Moving Averages EURUSD,M5: uninit reason 9
+0	21:42:00.657	Gambit EURUSD,M5: uninit reason 9
+0	21:42:00.658	Parabolic EURUSD,M5: uninit reason 9
+0	21:42:00.659	1fractal EURUSD,M5: uninit reason 9
+0	21:42:00.659	Stochastic EURUSD,M5: uninit reason 9
+0	21:42:00.659	gamExpert USDX,M5: uninit reason 9
+0	21:42:00.662	Custom Moving Averages USDX,M5: uninit reason 9
+0	21:42:00.662	Gambit USDX,M5: uninit reason 9
+0	21:42:00.663	Parabolic USDX,M5: uninit reason 9
+0	21:42:00.664	1fractal USDX,M5: uninit reason 9
+0	21:42:00.664	Stochastic USDX,M5: uninit reason 9
+0	21:42:00.665	RSI USDX,M5: uninit reason 9
+0	21:42:00.665	Custom Moving Averages XAUUSD,H1: uninit reason 9
+0	21:42:00.665	Gambit XAUUSD,H1: uninit reason 9
+0	21:42:00.665	Parabolic XAUUSD,H1: uninit reason 9
+0	21:42:00.665	1fractal XAUUSD,H1: uninit reason 9
+0	21:42:00.665	Stochastic XAUUSD,H1: uninit reason 9
+0	21:42:00.665	Custom Moving Averages EURUSD,H4: uninit reason 9
+0	21:42:00.665	Gambit EURUSD,H4: uninit reason 9
+0	21:42:00.665	Parabolic EURUSD,H4: uninit reason 9
+0	21:42:00.665	1fractal EURUSD,H4: uninit reason 9
+0	21:42:00.665	Stochastic EURUSD,H4: uninit reason 9
+0	21:42:00.665	RSI EURUSD,H4: uninit reason 9
+0	21:42:00.665	gamExpert USDCAD,M5: uninit reason 9
+0	21:42:00.672	Custom Moving Averages USDCAD,M5: uninit reason 9
+0	21:42:00.672	Gambit USDCAD,M5: uninit reason 9
+0	21:42:00.672	Parabolic USDCAD,M5: uninit reason 9
+0	21:42:00.673	1fractal USDCAD,M5: uninit reason 9
+0	21:42:00.673	Stochastic USDCAD,M5: uninit reason 9
+0	21:42:00.673	RSI USDCAD,M5: uninit reason 9
+0	21:42:00.845	Custom indicator ZigZag happy XAUUSD,H1: removed
+0	21:42:00.848	Custom indicator ifibonacci XAUUSD,H1: removed
+0	21:42:00.878	Expert gamExpert USDJPY,M5: removed
+0	21:42:00.884	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	21:42:00.888	Custom indicator Gambit USDJPY,M5: removed
+0	21:42:00.892	Custom indicator Parabolic USDJPY,M5: removed
+0	21:42:00.899	Custom indicator 1fractal USDJPY,M5: removed
+0	21:42:00.899	Custom indicator ZigZag happy USDJPY,M5: removed
+0	21:42:00.904	Custom indicator Stochastic USDJPY,M5: removed
+0	21:42:00.946	Expert gamExpert EURUSD,M5: removed
+0	21:42:00.951	Custom indicator Custom Moving Averages EURUSD,M5: removed
+0	21:42:00.954	Custom indicator Gambit EURUSD,M5: removed
+0	21:42:00.957	Custom indicator Parabolic EURUSD,M5: removed
+0	21:42:00.962	Custom indicator 1fractal EURUSD,M5: removed
+0	21:42:00.966	Custom indicator Stochastic EURUSD,M5: removed
+0	21:42:01.000	Expert gamExpert USDX,M5: removed
+0	21:42:01.005	Custom indicator Custom Moving Averages USDX,M5: removed
+0	21:42:01.009	Custom indicator Gambit USDX,M5: removed
+0	21:42:01.013	Custom indicator Parabolic USDX,M5: removed
+0	21:42:01.017	Custom indicator 1fractal USDX,M5: removed
+0	21:42:01.020	Custom indicator Stochastic USDX,M5: removed
+0	21:42:01.024	Custom indicator RSI USDX,M5: removed
+0	21:42:01.032	Custom indicator Custom Moving Averages XAUUSD,H1: removed
+0	21:42:01.035	Custom indicator Gambit XAUUSD,H1: removed
+0	21:42:01.039	Custom indicator Parabolic XAUUSD,H1: removed
+0	21:42:01.042	Custom indicator 1fractal XAUUSD,H1: removed
+0	21:42:01.046	Custom indicator Stochastic XAUUSD,H1: removed
+0	21:42:01.055	Custom indicator Custom Moving Averages EURUSD,H4: removed
+0	21:42:01.058	Custom indicator Gambit EURUSD,H4: removed
+0	21:42:01.063	Custom indicator Parabolic EURUSD,H4: removed
+0	21:42:01.067	Custom indicator 1fractal EURUSD,H4: removed
+0	21:42:01.070	Custom indicator Stochastic EURUSD,H4: removed
+0	21:42:01.073	Custom indicator RSI EURUSD,H4: removed
+0	21:42:01.092	Expert gamExpert USDCAD,M5: removed
+0	21:42:01.098	Custom indicator Custom Moving Averages USDCAD,M5: removed
+0	21:42:01.101	Custom indicator Gambit USDCAD,M5: removed
+0	21:42:01.105	Custom indicator Parabolic USDCAD,M5: removed
+0	21:42:01.109	Custom indicator 1fractal USDCAD,M5: removed
+0	21:42:01.114	Custom indicator Stochastic USDCAD,M5: removed
+0	21:42:01.118	Custom indicator RSI USDCAD,M5: removed
+0	21:42:20.160	Custom indicator ZigZag happy XAUUSD,H1: loaded successfully
+0	21:42:20.184	Custom indicator ifibonacci XAUUSD,H1: loaded successfully
+0	21:42:20.187	ZigZag happy XAUUSD,H1: initialized
+0	21:42:20.236	ifibonacci XAUUSD,H1: One of Fibo ARC Methods is requires DLL, Remember to allow DLL imports if you like to use it.
+0	21:42:20.236	ifibonacci XAUUSD,H1: initialized
+0	21:42:20.333	Custom indicator Custom Moving Averages USDJPY,M5: loaded successfully
+0	21:42:20.352	Custom indicator Gambit USDJPY,M5: loaded successfully
+0	21:42:20.368	Custom indicator Parabolic USDJPY,M5: loaded successfully
+0	21:42:20.384	Custom indicator 1fractal USDJPY,M5: loaded successfully
+0	21:42:20.426	Custom indicator ZigZag happy USDJPY,M5: loaded successfully
+0	21:42:20.441	Custom indicator Stochastic USDJPY,M5: loaded successfully
+0	21:42:20.458	Expert gamExpert USDJPY,M5: loaded successfully
+0	21:42:20.458	gamExpert USDJPY,M5 inputs: Lot=0.1; 
+0	21:42:20.485	Custom Moving Averages USDJPY,M5: initialized
+0	21:42:20.511	Gambit USDJPY,M5: initialized
+0	21:42:20.536	Parabolic USDJPY,M5: initialized
+0	21:42:20.558	1fractal USDJPY,M5: initialized
+0	21:42:20.558	ZigZag happy USDJPY,M5: initialized
+0	21:42:20.578	Stochastic USDJPY,M5: initialized
+0	21:42:20.647	Custom indicator Custom Moving Averages EURUSD,M5: loaded successfully
+0	21:42:20.663	Custom indicator Gambit EURUSD,M5: loaded successfully
+0	21:42:20.680	Custom indicator Parabolic EURUSD,M5: loaded successfully
+0	21:42:20.695	Custom indicator 1fractal EURUSD,M5: loaded successfully
+0	21:42:20.711	Custom indicator Stochastic EURUSD,M5: loaded successfully
+0	21:42:20.727	Expert gamExpert EURUSD,M5: loaded successfully
+0	21:42:20.727	gamExpert EURUSD,M5 inputs: Lot=0.1; 
+0	21:42:20.759	Custom Moving Averages EURUSD,M5: initialized
+0	21:42:20.785	Gambit EURUSD,M5: initialized
+0	21:42:20.810	Parabolic EURUSD,M5: initialized
+0	21:42:20.831	1fractal EURUSD,M5: initialized
+0	21:42:20.852	Stochastic EURUSD,M5: initialized
+0	21:42:21.128	Custom indicator Custom Moving Averages USDX,M5: loaded successfully
+0	21:42:21.144	Custom indicator Gambit USDX,M5: loaded successfully
+0	21:42:21.161	Custom indicator Parabolic USDX,M5: loaded successfully
+0	21:42:21.176	Custom indicator 1fractal USDX,M5: loaded successfully
+0	21:42:21.192	Custom indicator Stochastic USDX,M5: loaded successfully
+0	21:42:21.208	Custom indicator RSI USDX,M5: loaded successfully
+0	21:42:21.224	Expert gamExpert USDX,M5: loaded successfully
+0	21:42:21.224	gamExpert USDX,M5 inputs: Lot=0.1; 
+0	21:42:21.251	Custom Moving Averages USDX,M5: initialized
+0	21:42:21.277	Gambit USDX,M5: initialized
+0	21:42:21.302	Parabolic USDX,M5: initialized
+0	21:42:21.323	1fractal USDX,M5: initialized
+0	21:42:21.343	Stochastic USDX,M5: initialized
+0	21:42:21.376	RSI USDX,M5: initialized
+0	21:42:21.447	Custom indicator Custom Moving Averages XAUUSD,H1: loaded successfully
+0	21:42:21.462	Custom indicator Gambit XAUUSD,H1: loaded successfully
+0	21:42:21.478	Custom indicator Parabolic XAUUSD,H1: loaded successfully
+0	21:42:21.494	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	21:42:21.509	Custom indicator Stochastic XAUUSD,H1: loaded successfully
+0	21:42:21.535	Custom Moving Averages XAUUSD,H1: initialized
+0	21:42:21.561	Gambit XAUUSD,H1: initialized
+0	21:42:21.585	Parabolic XAUUSD,H1: initialized
+0	21:42:21.607	1fractal XAUUSD,H1: initialized
+0	21:42:21.627	Stochastic XAUUSD,H1: initialized
+0	21:42:21.725	Custom indicator Custom Moving Averages EURUSD,H4: loaded successfully
+0	21:42:21.741	Custom indicator Gambit EURUSD,H4: loaded successfully
+0	21:42:21.757	Custom indicator Parabolic EURUSD,H4: loaded successfully
+0	21:42:21.773	Custom indicator 1fractal EURUSD,H4: loaded successfully
+0	21:42:21.788	Custom indicator Stochastic EURUSD,H4: loaded successfully
+0	21:42:21.807	Custom indicator RSI EURUSD,H4: loaded successfully
+0	21:42:21.833	Custom Moving Averages EURUSD,H4: initialized
+0	21:42:21.860	Gambit EURUSD,H4: initialized
+0	21:42:21.884	Parabolic EURUSD,H4: initialized
+0	21:42:21.905	1fractal EURUSD,H4: initialized
+0	21:42:21.926	Stochastic EURUSD,H4: initialized
+0	21:42:21.948	RSI EURUSD,H4: initialized
+0	21:42:22.051	Custom indicator Custom Moving Averages USDCAD,M5: loaded successfully
+0	21:42:22.067	Custom indicator Gambit USDCAD,M5: loaded successfully
+0	21:42:22.084	Custom indicator Parabolic USDCAD,M5: loaded successfully
+0	21:42:22.099	Custom indicator 1fractal USDCAD,M5: loaded successfully
+0	21:42:22.114	Custom indicator Stochastic USDCAD,M5: loaded successfully
+0	21:42:22.130	Custom indicator RSI USDCAD,M5: loaded successfully
+0	21:42:22.146	Expert gamExpert USDCAD,M5: loaded successfully
+0	21:42:22.146	gamExpert USDCAD,M5 inputs: Lot=0.1; 
+0	21:42:22.174	Custom Moving Averages USDCAD,M5: initialized
+0	21:42:22.199	Gambit USDCAD,M5: initialized
+0	21:42:22.224	Parabolic USDCAD,M5: initialized
+0	21:42:22.246	1fractal USDCAD,M5: initialized
+0	21:42:22.266	Stochastic USDCAD,M5: initialized
+0	21:42:22.288	RSI USDCAD,M5: initialized
+0	21:45:25.679	gamExpert USDX,M5: initialized
+0	21:45:25.702	gamExpert USDCAD,M5: initialized
+0	21:45:25.736	gamExpert USDJPY,M5: initialized
+0	21:45:25.816	gamExpert EURUSD,M5: initialized
+0	21:46:21.640	gamExpert USDJPY,M5: uninit reason 6
+0	21:46:21.642	gamExpert USDJPY,M5: initialized
+0	21:46:21.642	gamExpert EURUSD,M5: uninit reason 6
+0	21:46:21.644	gamExpert EURUSD,M5: initialized
+0	21:46:21.645	gamExpert USDX,M5: uninit reason 6
+0	21:46:21.647	gamExpert USDX,M5: initialized
+0	21:46:21.647	gamExpert USDCAD,M5: uninit reason 6
+0	21:46:21.649	gamExpert USDCAD,M5: initialized
+0	21:47:37.789	ZigZag happy XAUUSD,H1: uninit reason 9
+0	21:47:37.789	ifibonacci XAUUSD,H1: uninit reason 9
+1	21:47:37.789	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:47:37.798	gamExpert USDJPY,M5: uninit reason 9
+0	21:47:37.815	Custom Moving Averages USDJPY,M5: uninit reason 9
+0	21:47:37.815	Gambit USDJPY,M5: uninit reason 9
+0	21:47:37.815	Parabolic USDJPY,M5: uninit reason 9
+0	21:47:37.815	1fractal USDJPY,M5: uninit reason 9
+0	21:47:37.815	ZigZag happy USDJPY,M5: uninit reason 9
+0	21:47:37.815	Stochastic USDJPY,M5: uninit reason 9
+0	21:47:37.815	gamExpert EURUSD,M5: uninit reason 9
+0	21:47:37.825	Custom Moving Averages EURUSD,M5: uninit reason 9
+0	21:47:37.825	Gambit EURUSD,M5: uninit reason 9
+0	21:47:37.825	Parabolic EURUSD,M5: uninit reason 9
+0	21:47:37.825	1fractal EURUSD,M5: uninit reason 9
+0	21:47:37.825	Stochastic EURUSD,M5: uninit reason 9
+0	21:47:37.825	gamExpert USDX,M5: uninit reason 9
+0	21:47:37.831	Custom Moving Averages USDX,M5: uninit reason 9
+0	21:47:37.831	Gambit USDX,M5: uninit reason 9
+0	21:47:37.831	Parabolic USDX,M5: uninit reason 9
+0	21:47:37.831	1fractal USDX,M5: uninit reason 9
+0	21:47:37.831	Stochastic USDX,M5: uninit reason 9
+0	21:47:37.831	RSI USDX,M5: uninit reason 9
+0	21:47:37.831	Custom Moving Averages XAUUSD,H1: uninit reason 9
+0	21:47:37.831	Gambit XAUUSD,H1: uninit reason 9
+0	21:47:37.831	Parabolic XAUUSD,H1: uninit reason 9
+0	21:47:37.831	1fractal XAUUSD,H1: uninit reason 9
+0	21:47:37.831	Stochastic XAUUSD,H1: uninit reason 9
+0	21:47:37.831	Custom Moving Averages EURUSD,H4: uninit reason 9
+0	21:47:37.831	Gambit EURUSD,H4: uninit reason 9
+0	21:47:37.831	Parabolic EURUSD,H4: uninit reason 9
+0	21:47:37.831	1fractal EURUSD,H4: uninit reason 9
+0	21:47:37.831	Stochastic EURUSD,H4: uninit reason 9
+0	21:47:37.831	RSI EURUSD,H4: uninit reason 9
+0	21:47:37.831	gamExpert USDCAD,M5: uninit reason 9
+0	21:47:37.838	Custom Moving Averages USDCAD,M5: uninit reason 9
+0	21:47:37.838	Gambit USDCAD,M5: uninit reason 9
+0	21:47:37.838	Parabolic USDCAD,M5: uninit reason 9
+0	21:47:37.838	1fractal USDCAD,M5: uninit reason 9
+0	21:47:37.838	Stochastic USDCAD,M5: uninit reason 9
+0	21:47:37.838	RSI USDCAD,M5: uninit reason 9
+0	21:47:37.952	Custom indicator ZigZag happy XAUUSD,H1: removed
+0	21:47:37.957	Custom indicator ifibonacci XAUUSD,H1: removed
+0	21:47:37.962	Expert gamExpert USDJPY,M5: removed
+0	21:47:37.968	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	21:47:37.971	Custom indicator Gambit USDJPY,M5: removed
+0	21:47:37.975	Custom indicator Parabolic USDJPY,M5: removed
+0	21:47:37.977	Custom indicator 1fractal USDJPY,M5: removed
+0	21:47:37.978	Custom indicator ZigZag happy USDJPY,M5: removed
+0	21:47:37.981	Custom indicator Stochastic USDJPY,M5: removed
+0	21:47:37.987	Expert gamExpert EURUSD,M5: removed
+0	21:47:37.991	Custom indicator Custom Moving Averages EURUSD,M5: removed
+0	21:47:37.995	Custom indicator Gambit EURUSD,M5: removed
+0	21:47:37.998	Custom indicator Parabolic EURUSD,M5: removed
+0	21:47:38.001	Custom indicator 1fractal EURUSD,M5: removed
+0	21:47:38.004	Custom indicator Stochastic EURUSD,M5: removed
+0	21:47:38.017	Expert gamExpert USDX,M5: removed
+0	21:47:38.022	Custom indicator Custom Moving Averages USDX,M5: removed
+0	21:47:38.025	Custom indicator Gambit USDX,M5: removed
+0	21:47:38.028	Custom indicator Parabolic USDX,M5: removed
+0	21:47:38.031	Custom indicator 1fractal USDX,M5: removed
+0	21:47:38.034	Custom indicator Stochastic USDX,M5: removed
+0	21:47:38.036	Custom indicator RSI USDX,M5: removed
+0	21:47:38.042	Custom indicator Custom Moving Averages XAUUSD,H1: removed
+0	21:47:38.045	Custom indicator Gambit XAUUSD,H1: removed
+0	21:47:38.047	Custom indicator Parabolic XAUUSD,H1: removed
+0	21:47:38.050	Custom indicator 1fractal XAUUSD,H1: removed
+0	21:47:38.053	Custom indicator Stochastic XAUUSD,H1: removed
+0	21:47:38.059	Custom indicator Custom Moving Averages EURUSD,H4: removed
+0	21:47:38.062	Custom indicator Gambit EURUSD,H4: removed
+0	21:47:38.065	Custom indicator Parabolic EURUSD,H4: removed
+0	21:47:38.068	Custom indicator 1fractal EURUSD,H4: removed
+0	21:47:38.071	Custom indicator Stochastic EURUSD,H4: removed
+0	21:47:38.074	Custom indicator RSI EURUSD,H4: removed
+0	21:47:38.081	Expert gamExpert USDCAD,M5: removed
+0	21:47:38.085	Custom indicator Custom Moving Averages USDCAD,M5: removed
+0	21:47:38.088	Custom indicator Gambit USDCAD,M5: removed
+0	21:47:38.091	Custom indicator Parabolic USDCAD,M5: removed
+0	21:47:38.094	Custom indicator 1fractal USDCAD,M5: removed
+0	21:47:38.098	Custom indicator Stochastic USDCAD,M5: removed
+0	21:47:38.101	Custom indicator RSI USDCAD,M5: removed

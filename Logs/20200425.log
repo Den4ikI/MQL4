@@ -1,0 +1,1126 @@
+0	10:18:00.202	Custom Moving Averages EURUSD,H4: uninit reason 3
+0	10:18:00.215	Gambit EURUSD,H4: uninit reason 3
+0	10:18:00.216	Parabolic EURUSD,H4: uninit reason 3
+0	10:18:00.216	1fractal EURUSD,H4: uninit reason 3
+0	10:18:00.217	Stochastic EURUSD,H4: uninit reason 3
+0	10:18:00.239	Custom Moving Averages LTCUSD,H4: initialized
+0	10:18:00.241	Gambit LTCUSD,H4: initialized
+0	10:18:00.245	Parabolic LTCUSD,H4: initialized
+0	10:18:00.246	1fractal LTCUSD,H4: initialized
+0	10:18:00.248	Stochastic LTCUSD,H4: initialized
+0	10:19:06.553	1fractal LTCUSD,H4: uninit reason 5
+0	10:19:06.591	1fractal LTCUSD,H4: initialized
+0	10:19:21.857	1fractal LTCUSD,H4: uninit reason 5
+0	10:19:21.897	1fractal LTCUSD,H4: initialized
+0	10:19:46.633	1fractal LTCUSD,H4: uninit reason 5
+0	10:19:46.671	1fractal LTCUSD,H4: initialized
+0	12:19:49.046	Custom indicator RSI AUDUSD,H4: loaded successfully
+0	12:19:51.893	RSI AUDUSD,H4: initialized
+0	12:20:25.724	RSI AUDUSD,H4: uninit reason 5
+0	12:20:25.840	RSI AUDUSD,H4: initialized
+0	12:21:10.358	RSI AUDUSD,H4: uninit reason 1
+0	12:21:10.365	Custom indicator RSI AUDUSD,H4: removed
+0	12:21:18.482	Custom indicator RSI AUDUSD,H4: loaded successfully
+0	12:21:20.817	RSI AUDUSD,H4: initialized
+0	12:23:10.183	Custom Moving Averages AUDUSD,H4: uninit reason 3
+0	12:23:10.184	Gambit AUDUSD,H4: uninit reason 3
+0	12:23:10.185	Parabolic AUDUSD,H4: uninit reason 3
+0	12:23:10.185	1fractal AUDUSD,H4: uninit reason 3
+0	12:23:10.187	ZigZag happy AUDUSD,H4: uninit reason 3
+0	12:23:10.187	Stochastic AUDUSD,H4: uninit reason 3
+0	12:23:10.188	RSI AUDUSD,H4: uninit reason 3
+0	12:23:10.227	Custom Moving Averages AUDUSD,M5: initialized
+0	12:23:10.227	Gambit AUDUSD,M5: initialized
+0	12:23:10.230	Parabolic AUDUSD,M5: initialized
+0	12:23:10.230	1fractal AUDUSD,M5: initialized
+0	12:23:10.231	ZigZag happy AUDUSD,M5: initialized
+0	12:23:10.232	Stochastic AUDUSD,M5: initialized
+0	12:23:10.232	RSI AUDUSD,M5: initialized
+0	12:23:19.912	Custom Moving Averages AUDUSD,M5: uninit reason 3
+0	12:23:19.912	Gambit AUDUSD,M5: uninit reason 3
+0	12:23:19.912	Parabolic AUDUSD,M5: uninit reason 3
+0	12:23:19.912	1fractal AUDUSD,M5: uninit reason 3
+0	12:23:19.912	ZigZag happy AUDUSD,M5: uninit reason 3
+0	12:23:19.912	Stochastic AUDUSD,M5: uninit reason 3
+0	12:23:19.912	RSI AUDUSD,M5: uninit reason 3
+0	12:23:19.934	Custom Moving Averages AUDUSD,H1: initialized
+0	12:23:19.934	Gambit AUDUSD,H1: initialized
+0	12:23:19.934	Parabolic AUDUSD,H1: initialized
+0	12:23:19.934	1fractal AUDUSD,H1: initialized
+0	12:23:19.934	ZigZag happy AUDUSD,H1: initialized
+0	12:23:19.934	Stochastic AUDUSD,H1: initialized
+0	12:23:19.935	RSI AUDUSD,H1: initialized
+0	12:23:22.260	Custom Moving Averages AUDUSD,H1: uninit reason 3
+0	12:23:22.260	Gambit AUDUSD,H1: uninit reason 3
+0	12:23:22.260	Parabolic AUDUSD,H1: uninit reason 3
+0	12:23:22.260	1fractal AUDUSD,H1: uninit reason 3
+0	12:23:22.260	ZigZag happy AUDUSD,H1: uninit reason 3
+0	12:23:22.260	Stochastic AUDUSD,H1: uninit reason 3
+0	12:23:22.260	RSI AUDUSD,H1: uninit reason 3
+0	12:23:22.262	Custom Moving Averages AUDUSD,H4: initialized
+0	12:23:22.262	Gambit AUDUSD,H4: initialized
+0	12:23:22.262	Parabolic AUDUSD,H4: initialized
+0	12:23:22.262	1fractal AUDUSD,H4: initialized
+0	12:23:22.262	ZigZag happy AUDUSD,H4: initialized
+0	12:23:22.262	Stochastic AUDUSD,H4: initialized
+0	12:23:22.263	RSI AUDUSD,H4: initialized
+0	12:23:24.154	Custom Moving Averages AUDUSD,H4: uninit reason 3
+0	12:23:24.154	Gambit AUDUSD,H4: uninit reason 3
+0	12:23:24.154	Parabolic AUDUSD,H4: uninit reason 3
+0	12:23:24.154	1fractal AUDUSD,H4: uninit reason 3
+0	12:23:24.154	ZigZag happy AUDUSD,H4: uninit reason 3
+0	12:23:24.154	Stochastic AUDUSD,H4: uninit reason 3
+0	12:23:24.154	RSI AUDUSD,H4: uninit reason 3
+0	12:23:24.241	Custom Moving Averages AUDUSD,Daily: initialized
+0	12:23:24.241	Gambit AUDUSD,Daily: initialized
+0	12:23:24.242	Parabolic AUDUSD,Daily: initialized
+0	12:23:24.242	1fractal AUDUSD,Daily: initialized
+0	12:23:24.242	ZigZag happy AUDUSD,Daily: initialized
+0	12:23:24.242	Stochastic AUDUSD,Daily: initialized
+0	12:23:24.242	RSI AUDUSD,Daily: initialized
+0	12:23:25.699	Custom Moving Averages AUDUSD,Daily: uninit reason 3
+0	12:23:25.699	Gambit AUDUSD,Daily: uninit reason 3
+0	12:23:25.699	Parabolic AUDUSD,Daily: uninit reason 3
+0	12:23:25.699	1fractal AUDUSD,Daily: uninit reason 3
+0	12:23:25.699	ZigZag happy AUDUSD,Daily: uninit reason 3
+0	12:23:25.699	Stochastic AUDUSD,Daily: uninit reason 3
+0	12:23:25.699	RSI AUDUSD,Daily: uninit reason 3
+0	12:23:25.699	Custom Moving Averages AUDUSD,M5: initialized
+0	12:23:25.699	Gambit AUDUSD,M5: initialized
+0	12:23:25.699	Parabolic AUDUSD,M5: initialized
+0	12:23:25.699	1fractal AUDUSD,M5: initialized
+0	12:23:25.700	ZigZag happy AUDUSD,M5: initialized
+0	12:23:25.700	Stochastic AUDUSD,M5: initialized
+0	12:23:25.700	RSI AUDUSD,M5: initialized
+0	12:23:29.420	Custom Moving Averages AUDUSD,M5: uninit reason 3
+0	12:23:29.420	Gambit AUDUSD,M5: uninit reason 3
+0	12:23:29.420	Parabolic AUDUSD,M5: uninit reason 3
+0	12:23:29.420	1fractal AUDUSD,M5: uninit reason 3
+0	12:23:29.420	ZigZag happy AUDUSD,M5: uninit reason 3
+0	12:23:29.420	Stochastic AUDUSD,M5: uninit reason 3
+0	12:23:29.420	RSI AUDUSD,M5: uninit reason 3
+0	12:23:29.420	Custom Moving Averages AUDUSD,H1: initialized
+0	12:23:29.420	Gambit AUDUSD,H1: initialized
+0	12:23:29.421	Parabolic AUDUSD,H1: initialized
+0	12:23:29.421	1fractal AUDUSD,H1: initialized
+0	12:23:29.421	ZigZag happy AUDUSD,H1: initialized
+0	12:23:29.421	Stochastic AUDUSD,H1: initialized
+0	12:23:29.421	RSI AUDUSD,H1: initialized
+0	12:23:40.985	ZigZag happy AUDUSD,H1: uninit reason 1
+0	12:23:41.048	Custom indicator ZigZag happy AUDUSD,H1: removed
+0	12:23:53.460	Custom Moving Averages AUDUSD,H1: uninit reason 7
+0	12:23:53.460	Gambit AUDUSD,H1: uninit reason 7
+0	12:23:53.460	Parabolic AUDUSD,H1: uninit reason 7
+0	12:23:53.460	1fractal AUDUSD,H1: uninit reason 7
+0	12:23:53.460	Stochastic AUDUSD,H1: uninit reason 7
+0	12:23:53.460	RSI AUDUSD,H1: uninit reason 7
+0	12:23:53.469	Custom indicator Custom Moving Averages AUDUSD,H1: removed
+0	12:23:53.475	Custom indicator Gambit AUDUSD,H1: removed
+0	12:23:53.481	Custom indicator Parabolic AUDUSD,H1: removed
+0	12:23:53.486	Custom indicator 1fractal AUDUSD,H1: removed
+0	12:23:53.490	Custom indicator Stochastic AUDUSD,H1: removed
+0	12:23:53.493	Custom indicator RSI AUDUSD,H1: removed
+0	12:23:53.532	Custom indicator Custom Moving Averages AUDUSD,H1: loaded successfully
+0	12:23:53.557	Custom indicator Gambit AUDUSD,H1: loaded successfully
+0	12:23:53.588	Custom indicator Parabolic AUDUSD,H1: loaded successfully
+0	12:23:53.614	Custom indicator 1fractal AUDUSD,H1: loaded successfully
+0	12:23:53.678	Custom indicator ZigZag happy AUDUSD,H1: loaded successfully
+0	12:23:53.707	Custom indicator Stochastic AUDUSD,H1: loaded successfully
+0	12:23:53.739	Custom Moving Averages AUDUSD,H1: initialized
+0	12:23:53.767	Gambit AUDUSD,H1: initialized
+0	12:23:53.792	Parabolic AUDUSD,H1: initialized
+0	12:23:53.814	1fractal AUDUSD,H1: initialized
+0	12:23:53.815	ZigZag happy AUDUSD,H1: initialized
+0	12:23:53.836	Stochastic AUDUSD,H1: initialized
+0	12:24:16.737	ZigZag happy AUDUSD,H1: uninit reason 1
+0	12:24:16.737	Custom indicator ZigZag happy AUDUSD,H1: removed
+0	12:25:00.111	Custom indicator RSI AUDUSD,H1: loaded successfully
+0	12:25:18.670	RSI AUDUSD,H1: initialized
+0	12:26:04.990	Custom Moving Averages AUDUSD,H1: uninit reason 3
+0	12:26:04.990	Gambit AUDUSD,H1: uninit reason 3
+0	12:26:04.990	Parabolic AUDUSD,H1: uninit reason 3
+0	12:26:04.990	1fractal AUDUSD,H1: uninit reason 3
+0	12:26:04.990	Stochastic AUDUSD,H1: uninit reason 3
+0	12:26:04.990	RSI AUDUSD,H1: uninit reason 3
+0	12:26:04.990	Custom Moving Averages AUDUSD,H4: initialized
+0	12:26:04.990	Gambit AUDUSD,H4: initialized
+0	12:26:04.990	Parabolic AUDUSD,H4: initialized
+0	12:26:04.990	1fractal AUDUSD,H4: initialized
+0	12:26:04.991	Stochastic AUDUSD,H4: initialized
+0	12:26:04.991	RSI AUDUSD,H4: initialized
+0	12:28:31.798	Custom Moving Averages AUDUSD,H4: uninit reason 3
+0	12:28:31.798	Gambit AUDUSD,H4: uninit reason 3
+0	12:28:31.798	Parabolic AUDUSD,H4: uninit reason 3
+0	12:28:31.798	1fractal AUDUSD,H4: uninit reason 3
+0	12:28:31.798	Stochastic AUDUSD,H4: uninit reason 3
+0	12:28:31.798	RSI AUDUSD,H4: uninit reason 3
+0	12:28:31.800	Custom Moving Averages LTCUSD,H4: initialized
+0	12:28:31.800	Gambit LTCUSD,H4: initialized
+0	12:28:31.801	Parabolic LTCUSD,H4: initialized
+0	12:28:31.801	1fractal LTCUSD,H4: initialized
+0	12:28:31.801	Stochastic LTCUSD,H4: initialized
+0	12:28:31.801	RSI LTCUSD,H4: initialized
+0	12:29:21.362	Custom Moving Averages LTCUSD,H4: uninit reason 3
+0	12:29:21.363	Gambit LTCUSD,H4: uninit reason 3
+0	12:29:21.363	Parabolic LTCUSD,H4: uninit reason 3
+0	12:29:21.363	1fractal LTCUSD,H4: uninit reason 3
+0	12:29:21.363	Stochastic LTCUSD,H4: uninit reason 3
+0	12:29:21.363	RSI LTCUSD,H4: uninit reason 3
+0	12:29:21.448	Custom Moving Averages BTCUSD,H4: initialized
+0	12:29:21.448	Gambit BTCUSD,H4: initialized
+0	12:29:21.448	Parabolic BTCUSD,H4: initialized
+0	12:29:21.448	1fractal BTCUSD,H4: initialized
+0	12:29:21.448	Stochastic BTCUSD,H4: initialized
+0	12:29:21.448	RSI BTCUSD,H4: initialized
+0	12:29:38.237	Script gamScript BTCUSD,H4: loaded successfully
+0	12:29:38.312	gamScript BTCUSD,H4: initialized
+0	12:29:38.316	gamScript BTCUSD,H4: uninit reason 0
+0	12:29:38.322	Script gamScript BTCUSD,H4: removed
+0	13:15:10.128	Custom indicator Custom Moving Averages BTCUSD,H4: loaded successfully
+0	13:15:17.264	Custom Moving Averages BTCUSD,H4: initialized
+0	13:16:25.376	Custom Moving Averages BTCUSD,H4: uninit reason 3
+0	13:16:25.376	Gambit BTCUSD,H4: uninit reason 3
+0	13:16:25.377	Parabolic BTCUSD,H4: uninit reason 3
+0	13:16:25.378	1fractal BTCUSD,H4: uninit reason 3
+0	13:16:25.381	Custom Moving Averages BTCUSD,H4: uninit reason 3
+0	13:16:25.381	Stochastic BTCUSD,H4: uninit reason 3
+0	13:16:25.381	RSI BTCUSD,H4: uninit reason 3
+0	13:16:25.399	Custom Moving Averages BTCUSD,Daily: initialized
+0	13:16:25.401	Gambit BTCUSD,Daily: initialized
+0	13:16:25.404	Parabolic BTCUSD,Daily: initialized
+0	13:16:25.404	1fractal BTCUSD,Daily: initialized
+0	13:16:25.405	Custom Moving Averages BTCUSD,Daily: initialized
+0	13:16:25.405	Stochastic BTCUSD,Daily: initialized
+0	13:16:25.408	RSI BTCUSD,Daily: initialized
+0	13:18:04.003	Custom Moving Averages BTCUSD,Daily: uninit reason 3
+0	13:18:04.003	Gambit BTCUSD,Daily: uninit reason 3
+0	13:18:04.003	Parabolic BTCUSD,Daily: uninit reason 3
+0	13:18:04.003	1fractal BTCUSD,Daily: uninit reason 3
+0	13:18:04.003	Custom Moving Averages BTCUSD,Daily: uninit reason 3
+0	13:18:04.003	Stochastic BTCUSD,Daily: uninit reason 3
+0	13:18:04.003	RSI BTCUSD,Daily: uninit reason 3
+0	13:18:04.066	Custom Moving Averages BTCUSD,Weekly: initialized
+0	13:18:04.066	Gambit BTCUSD,Weekly: initialized
+0	13:18:04.066	Parabolic BTCUSD,Weekly: initialized
+0	13:18:04.066	1fractal BTCUSD,Weekly: initialized
+0	13:18:04.066	Custom Moving Averages BTCUSD,Weekly: initialized
+0	13:18:04.067	Stochastic BTCUSD,Weekly: initialized
+0	13:18:04.067	RSI BTCUSD,Weekly: initialized
+0	13:18:52.755	Custom Moving Averages BTCUSD,Weekly: uninit reason 3
+0	13:18:52.755	Gambit BTCUSD,Weekly: uninit reason 3
+0	13:18:52.755	Parabolic BTCUSD,Weekly: uninit reason 3
+0	13:18:52.755	1fractal BTCUSD,Weekly: uninit reason 3
+0	13:18:52.755	Custom Moving Averages BTCUSD,Weekly: uninit reason 3
+0	13:18:52.755	Stochastic BTCUSD,Weekly: uninit reason 3
+0	13:18:52.755	RSI BTCUSD,Weekly: uninit reason 3
+0	13:18:52.769	Custom Moving Averages BTCUSD,M5: initialized
+0	13:18:52.769	Gambit BTCUSD,M5: initialized
+0	13:18:52.769	Parabolic BTCUSD,M5: initialized
+0	13:18:52.769	1fractal BTCUSD,M5: initialized
+0	13:18:52.769	Custom Moving Averages BTCUSD,M5: initialized
+0	13:18:52.769	Stochastic BTCUSD,M5: initialized
+0	13:18:52.770	RSI BTCUSD,M5: initialized
+0	13:22:57.074	Custom Moving Averages BTCUSD,M5: uninit reason 3
+0	13:22:57.074	Gambit BTCUSD,M5: uninit reason 3
+0	13:22:57.074	Parabolic BTCUSD,M5: uninit reason 3
+0	13:22:57.074	1fractal BTCUSD,M5: uninit reason 3
+0	13:22:57.074	Custom Moving Averages BTCUSD,M5: uninit reason 3
+0	13:22:57.074	Stochastic BTCUSD,M5: uninit reason 3
+0	13:22:57.074	RSI BTCUSD,M5: uninit reason 3
+0	13:22:57.075	Custom Moving Averages BTCUSD,H4: initialized
+0	13:22:57.075	Gambit BTCUSD,H4: initialized
+0	13:22:57.076	Parabolic BTCUSD,H4: initialized
+0	13:22:57.076	1fractal BTCUSD,H4: initialized
+0	13:22:57.076	Custom Moving Averages BTCUSD,H4: initialized
+0	13:22:57.076	Stochastic BTCUSD,H4: initialized
+0	13:22:57.076	RSI BTCUSD,H4: initialized
+0	13:23:05.946	Script gamScript BTCUSD,H4: loaded successfully
+0	13:23:06.025	gamScript BTCUSD,H4: initialized
+2	13:23:06.551	gamScript BTCUSD,H4: open #74499533 buy 1.00 BTCUSD at 7551.500 sl: 7449.990 tp: 7793.043 ok
+0	13:23:06.551	gamScript BTCUSD,H4: uninit reason 0
+0	13:23:06.557	Script gamScript BTCUSD,H4: removed
+0	14:20:03.393	Script gamScript LTCUSD,H4: loaded successfully
+0	14:20:03.476	gamScript LTCUSD,H4: initialized
+2	14:20:04.684	gamScript LTCUSD,H4: open #74499559 buy 1.00 LTCUSD at 45.01000 sl: 43.90990 tp: 45.82428 ok
+0	14:20:04.684	gamScript LTCUSD,H4: uninit reason 0
+0	14:20:04.692	Script gamScript LTCUSD,H4: removed
+0	14:21:32.657	Script gamScript ETHUSD,H1: loaded successfully
+0	14:21:32.796	gamScript ETHUSD,H1: initialized
+2	14:21:33.696	gamScript ETHUSD,H1: open #74499562 buy 1.00 ETHUSD at 195.738 sl: 191.993 tp: 196.146 ok
+0	14:21:33.696	gamScript ETHUSD,H1: uninit reason 0
+0	14:21:33.713	Script gamScript ETHUSD,H1: removed
+0	14:21:54.909	Custom indicator Custom Moving Averages ETHUSD,H1: loaded successfully
+0	14:21:54.926	Custom indicator Gambit ETHUSD,H1: loaded successfully
+0	14:21:54.944	Custom indicator Parabolic ETHUSD,H1: loaded successfully
+0	14:21:54.962	Custom indicator 1fractal ETHUSD,H1: loaded successfully
+0	14:21:54.979	Custom indicator Stochastic ETHUSD,H1: loaded successfully
+0	14:21:54.995	Custom indicator RSI ETHUSD,H1: loaded successfully
+0	14:21:55.023	Custom Moving Averages ETHUSD,H1: initialized
+0	14:21:55.052	Gambit ETHUSD,H1: initialized
+0	14:21:55.082	Parabolic ETHUSD,H1: initialized
+0	14:21:55.106	1fractal ETHUSD,H1: initialized
+0	14:21:55.129	Stochastic ETHUSD,H1: initialized
+0	14:21:55.152	RSI ETHUSD,H1: initialized
+0	14:23:07.848	Custom Moving Averages ETHUSD,H1: uninit reason 3
+0	14:23:07.848	Gambit ETHUSD,H1: uninit reason 3
+0	14:23:07.848	Parabolic ETHUSD,H1: uninit reason 3
+0	14:23:07.848	1fractal ETHUSD,H1: uninit reason 3
+0	14:23:07.848	Stochastic ETHUSD,H1: uninit reason 3
+0	14:23:07.848	RSI ETHUSD,H1: uninit reason 3
+0	14:23:07.848	Custom Moving Averages ETHUSD,M5: initialized
+0	14:23:07.848	Gambit ETHUSD,M5: initialized
+0	14:23:07.848	Parabolic ETHUSD,M5: initialized
+0	14:23:07.848	1fractal ETHUSD,M5: initialized
+0	14:23:07.848	Stochastic ETHUSD,M5: initialized
+0	14:23:07.848	RSI ETHUSD,M5: initialized
+0	14:24:24.782	Custom Moving Averages ETHUSD,M5: uninit reason 3
+0	14:24:24.782	Gambit ETHUSD,M5: uninit reason 3
+0	14:24:24.782	Parabolic ETHUSD,M5: uninit reason 3
+0	14:24:24.782	1fractal ETHUSD,M5: uninit reason 3
+0	14:24:24.782	Stochastic ETHUSD,M5: uninit reason 3
+0	14:24:24.782	RSI ETHUSD,M5: uninit reason 3
+0	14:24:24.782	Custom Moving Averages ETHUSD,M15: initialized
+0	14:24:24.782	Gambit ETHUSD,M15: initialized
+0	14:24:24.782	Parabolic ETHUSD,M15: initialized
+0	14:24:24.782	1fractal ETHUSD,M15: initialized
+0	14:24:24.782	Stochastic ETHUSD,M15: initialized
+0	14:24:24.782	RSI ETHUSD,M15: initialized
+0	14:24:27.902	Custom Moving Averages ETHUSD,M15: uninit reason 3
+0	14:24:27.902	Gambit ETHUSD,M15: uninit reason 3
+0	14:24:27.902	Parabolic ETHUSD,M15: uninit reason 3
+0	14:24:27.902	1fractal ETHUSD,M15: uninit reason 3
+0	14:24:27.902	Stochastic ETHUSD,M15: uninit reason 3
+0	14:24:27.902	RSI ETHUSD,M15: uninit reason 3
+0	14:24:27.903	Custom Moving Averages ETHUSD,M30: initialized
+0	14:24:27.903	Gambit ETHUSD,M30: initialized
+0	14:24:27.903	Parabolic ETHUSD,M30: initialized
+0	14:24:27.903	1fractal ETHUSD,M30: initialized
+0	14:24:27.903	Stochastic ETHUSD,M30: initialized
+0	14:24:27.903	RSI ETHUSD,M30: initialized
+0	14:24:57.856	Script gamScript ETHUSD,M30: loaded successfully
+0	14:24:57.937	gamScript ETHUSD,M30: initialized
+2	14:24:58.549	gamScript ETHUSD,M30: open #74499574 buy 1.00 ETHUSD at 196.618 sl: 192.656 tp: 197.420 ok
+0	14:24:58.549	gamScript ETHUSD,M30: uninit reason 0
+0	14:24:58.557	Script gamScript ETHUSD,M30: removed
+0	14:27:04.282	Script gamScript LTCUSD,H4: loaded successfully
+0	14:27:04.428	gamScript LTCUSD,H4: initialized
+2	14:27:05.034	gamScript LTCUSD,H4: open #74499581 buy 1.00 LTCUSD at 44.89000 sl: 43.90990 tp: 45.79912 ok
+0	14:27:05.035	gamScript LTCUSD,H4: uninit reason 0
+0	14:27:05.042	Script gamScript LTCUSD,H4: removed
+0	14:44:43.494	ifibonacci USDJPY,Daily: uninit reason 1
+1	14:44:43.497	ifibonacci USDJPY,Daily: array out of range in 'ifibonacci.mq4' (205,28)
+0	14:44:43.530	Custom indicator ifibonacci USDJPY,Daily: removed
+0	14:45:54.816	1fractal USDX,Daily: uninit reason 1
+0	14:45:54.823	Custom indicator 1fractal USDX,Daily: removed
+0	14:46:35.380	Custom indicator 1fractal USDX,Daily: loaded successfully
+0	14:46:37.986	1fractal USDX,Daily: initialized
+0	14:51:03.984	1fractal USDX,Daily: uninit reason 2
+0	14:51:03.988	Custom indicator 1fractal USDX,Daily: removed
+0	14:51:04.004	Custom indicator 1fractal USDX,Daily: loaded successfully
+0	14:51:04.029	1fractal USDX,Daily: initialized
+0	14:51:04.030	1fractal USDJPY,Daily: uninit reason 2
+0	14:51:04.033	Custom indicator 1fractal USDJPY,Daily: removed
+0	14:51:04.050	Custom indicator 1fractal USDJPY,Daily: loaded successfully
+0	14:51:04.074	1fractal USDJPY,Daily: initialized
+0	14:51:04.075	1fractal BTCUSD,H4: uninit reason 2
+0	14:51:04.078	Custom indicator 1fractal BTCUSD,H4: removed
+0	14:51:04.094	Custom indicator 1fractal BTCUSD,H4: loaded successfully
+0	14:51:04.120	1fractal BTCUSD,H4: initialized
+0	14:51:04.121	1fractal USDJPY,H4: uninit reason 2
+0	14:51:04.125	Custom indicator 1fractal USDJPY,H4: removed
+0	14:51:04.141	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	14:51:04.165	1fractal USDJPY,H4: initialized
+0	14:51:04.168	1fractal LTCUSD,H4: uninit reason 2
+0	14:51:04.171	Custom indicator 1fractal LTCUSD,H4: removed
+0	14:51:04.187	Custom indicator 1fractal LTCUSD,H4: loaded successfully
+0	14:51:04.226	1fractal LTCUSD,H4: initialized
+0	14:51:04.230	1fractal ETHUSD,M30: uninit reason 2
+0	14:51:04.233	Custom indicator 1fractal ETHUSD,M30: removed
+0	14:51:04.248	Custom indicator 1fractal ETHUSD,M30: loaded successfully
+0	14:51:04.274	1fractal ETHUSD,M30: initialized
+0	14:51:04.274	1fractal XAUUSD,H1: uninit reason 2
+0	14:51:04.277	Custom indicator 1fractal XAUUSD,H1: removed
+0	14:51:04.293	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	14:51:04.318	1fractal XAUUSD,H1: initialized
+0	14:52:38.802	Custom Moving Averages USDX,Daily: uninit reason 3
+0	14:52:38.862	Gambit USDX,Daily: uninit reason 3
+0	14:52:38.862	Parabolic USDX,Daily: uninit reason 3
+0	14:52:38.862	1fractal USDX,Daily: uninit reason 3
+0	14:52:38.863	Stochastic USDX,Daily: uninit reason 3
+0	14:52:38.886	Custom Moving Averages USDX,H4: initialized
+0	14:52:38.886	Gambit USDX,H4: initialized
+0	14:52:38.887	Parabolic USDX,H4: initialized
+0	14:52:38.887	1fractal USDX,H4: initialized
+0	14:52:38.887	Stochastic USDX,H4: initialized
+0	14:53:29.804	Custom Moving Averages USDX,H4: uninit reason 7
+0	14:53:29.804	Gambit USDX,H4: uninit reason 7
+0	14:53:29.804	Parabolic USDX,H4: uninit reason 7
+0	14:53:29.804	1fractal USDX,H4: uninit reason 7
+0	14:53:29.804	Stochastic USDX,H4: uninit reason 7
+0	14:53:29.869	Custom indicator Custom Moving Averages USDX,H4: removed
+0	14:53:29.872	Custom indicator Gambit USDX,H4: removed
+0	14:53:29.875	Custom indicator Parabolic USDX,H4: removed
+0	14:53:29.879	Custom indicator 1fractal USDX,H4: removed
+0	14:53:29.882	Custom indicator Stochastic USDX,H4: removed
+0	14:53:29.899	Custom indicator Custom Moving Averages USDX,H4: loaded successfully
+0	14:53:29.916	Custom indicator Gambit USDX,H4: loaded successfully
+0	14:53:29.934	Custom indicator Parabolic USDX,H4: loaded successfully
+0	14:53:29.950	Custom indicator 1fractal USDX,H4: loaded successfully
+0	14:53:29.966	Custom indicator Stochastic USDX,H4: loaded successfully
+0	14:53:29.982	Custom indicator RSI USDX,H4: loaded successfully
+0	14:53:30.011	Custom Moving Averages USDX,H4: initialized
+0	14:53:30.038	Gambit USDX,H4: initialized
+0	14:53:30.064	Parabolic USDX,H4: initialized
+0	14:53:30.091	1fractal USDX,H4: initialized
+0	14:53:30.122	Stochastic USDX,H4: initialized
+0	14:53:30.147	RSI USDX,H4: initialized
+0	14:54:13.249	Custom Moving Averages USDX,H4: uninit reason 3
+0	14:54:13.250	Gambit USDX,H4: uninit reason 3
+0	14:54:13.250	Parabolic USDX,H4: uninit reason 3
+0	14:54:13.250	1fractal USDX,H4: uninit reason 3
+0	14:54:13.250	Stochastic USDX,H4: uninit reason 3
+0	14:54:13.250	RSI USDX,H4: uninit reason 3
+0	14:54:13.267	Custom Moving Averages USDX,M5: initialized
+0	14:54:13.267	Gambit USDX,M5: initialized
+0	14:54:13.267	Parabolic USDX,M5: initialized
+0	14:54:13.267	1fractal USDX,M5: initialized
+0	14:54:13.267	Stochastic USDX,M5: initialized
+0	14:54:13.267	RSI USDX,M5: initialized
+0	14:56:57.099	Custom Moving Averages XAUUSD,H1: uninit reason 3
+0	14:56:57.099	Gambit XAUUSD,H1: uninit reason 3
+0	14:56:57.100	Parabolic XAUUSD,H1: uninit reason 3
+0	14:56:57.100	1fractal XAUUSD,H1: uninit reason 3
+0	14:56:57.100	Stochastic XAUUSD,H1: uninit reason 3
+0	14:56:57.102	Custom Moving Averages XAUUSD,Daily: initialized
+0	14:56:57.106	Gambit XAUUSD,Daily: initialized
+0	14:56:57.112	Parabolic XAUUSD,Daily: initialized
+0	14:56:57.113	1fractal XAUUSD,Daily: initialized
+0	14:56:57.114	Stochastic XAUUSD,Daily: initialized
+0	14:57:13.386	Custom Moving Averages XAUUSD,Daily: uninit reason 3
+0	14:57:13.386	Gambit XAUUSD,Daily: uninit reason 3
+0	14:57:13.386	Parabolic XAUUSD,Daily: uninit reason 3
+0	14:57:13.386	1fractal XAUUSD,Daily: uninit reason 3
+0	14:57:13.386	Stochastic XAUUSD,Daily: uninit reason 3
+0	14:57:13.386	Custom Moving Averages XAUUSD,H4: initialized
+0	14:57:13.386	Gambit XAUUSD,H4: initialized
+0	14:57:13.387	Parabolic XAUUSD,H4: initialized
+0	14:57:13.387	1fractal XAUUSD,H4: initialized
+0	14:57:13.388	Stochastic XAUUSD,H4: initialized
+0	14:59:04.415	Custom Moving Averages USDJPY,Daily: uninit reason 3
+0	14:59:04.475	Gambit USDJPY,Daily: uninit reason 3
+0	14:59:04.476	Parabolic USDJPY,Daily: uninit reason 3
+0	14:59:04.477	1fractal USDJPY,Daily: uninit reason 3
+0	14:59:04.477	Stochastic USDJPY,Daily: uninit reason 3
+0	14:59:04.485	Custom Moving Averages USDJPY,M5: initialized
+0	14:59:04.486	Gambit USDJPY,M5: initialized
+0	14:59:04.492	Parabolic USDJPY,M5: initialized
+0	14:59:04.493	1fractal USDJPY,M5: initialized
+0	14:59:04.495	Stochastic USDJPY,M5: initialized
+0	15:02:48.014	Custom Moving Averages USDJPY,M5: uninit reason 3
+0	15:02:48.014	Gambit USDJPY,M5: uninit reason 3
+0	15:02:48.014	Parabolic USDJPY,M5: uninit reason 3
+0	15:02:48.014	1fractal USDJPY,M5: uninit reason 3
+0	15:02:48.014	Stochastic USDJPY,M5: uninit reason 3
+0	15:02:48.110	Custom Moving Averages EURUSD,M5: initialized
+0	15:02:48.111	Gambit EURUSD,M5: initialized
+0	15:02:48.111	Parabolic EURUSD,M5: initialized
+0	15:02:48.111	1fractal EURUSD,M5: initialized
+0	15:02:48.112	Stochastic EURUSD,M5: initialized
+0	15:05:07.578	Custom Moving Averages EURUSD,M5: uninit reason 3
+0	15:05:07.578	Gambit EURUSD,M5: uninit reason 3
+0	15:05:07.578	Parabolic EURUSD,M5: uninit reason 3
+0	15:05:07.578	1fractal EURUSD,M5: uninit reason 3
+0	15:05:07.579	Stochastic EURUSD,M5: uninit reason 3
+0	15:05:07.671	Custom Moving Averages EURUSD,H4: initialized
+0	15:05:07.672	Gambit EURUSD,H4: initialized
+0	15:05:07.673	Parabolic EURUSD,H4: initialized
+0	15:05:07.673	1fractal EURUSD,H4: initialized
+0	15:05:07.674	Stochastic EURUSD,H4: initialized
+0	15:05:54.000	Custom Moving Averages BTCUSD,H4: uninit reason 1
+0	15:05:54.064	Custom indicator Custom Moving Averages BTCUSD,H4: removed
+0	19:44:53.594	Custom indicator ZigZag happy XAUUSD,H1: loaded successfully
+0	19:44:53.614	Custom indicator ifibonacci XAUUSD,H1: loaded successfully
+0	19:44:53.635	ZigZag happy XAUUSD,H1: initialized
+0	19:44:53.695	ifibonacci XAUUSD,H1: One of Fibo ARC Methods is requires DLL, Remember to allow DLL imports if you like to use it.
+0	19:44:53.695	ifibonacci XAUUSD,H1: initialized
+0	19:44:53.854	Custom indicator Custom Moving Averages LTCUSD,H4: loaded successfully
+0	19:44:53.869	Custom indicator Gambit LTCUSD,H4: loaded successfully
+0	19:44:53.885	Custom indicator Parabolic LTCUSD,H4: loaded successfully
+0	19:44:53.901	Custom indicator 1fractal LTCUSD,H4: loaded successfully
+0	19:44:53.916	Custom indicator Stochastic LTCUSD,H4: loaded successfully
+0	19:44:53.952	Custom Moving Averages LTCUSD,H4: initialized
+0	19:44:53.979	Gambit LTCUSD,H4: initialized
+0	19:44:54.004	Parabolic LTCUSD,H4: initialized
+0	19:44:54.027	1fractal LTCUSD,H4: initialized
+0	19:44:54.048	Stochastic LTCUSD,H4: initialized
+0	19:44:54.100	Custom indicator Custom Moving Averages USDJPY,H4: loaded successfully
+0	19:44:54.117	Custom indicator Gambit USDJPY,H4: loaded successfully
+0	19:44:54.133	Custom indicator Parabolic USDJPY,H4: loaded successfully
+0	19:44:54.148	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	19:44:54.190	Custom indicator ZigZag happy USDJPY,H4: loaded successfully
+0	19:44:54.205	Custom indicator Stochastic USDJPY,H4: loaded successfully
+0	19:44:54.243	Custom Moving Averages USDJPY,H4: initialized
+0	19:44:54.269	Gambit USDJPY,H4: initialized
+0	19:44:54.294	Parabolic USDJPY,H4: initialized
+0	19:44:54.317	1fractal USDJPY,H4: initialized
+0	19:44:54.317	ZigZag happy USDJPY,H4: initialized
+0	19:44:54.338	Stochastic USDJPY,H4: initialized
+0	19:44:54.426	Custom indicator Custom Moving Averages BTCUSD,H4: loaded successfully
+0	19:44:54.442	Custom indicator Gambit BTCUSD,H4: loaded successfully
+0	19:44:54.459	Custom indicator Parabolic BTCUSD,H4: loaded successfully
+0	19:44:54.475	Custom indicator 1fractal BTCUSD,H4: loaded successfully
+0	19:44:54.492	Custom indicator Custom Moving Averages BTCUSD,H4: loaded successfully
+0	19:44:54.507	Custom indicator Stochastic BTCUSD,H4: loaded successfully
+0	19:44:54.523	Custom indicator RSI BTCUSD,H4: loaded successfully
+0	19:44:54.560	Custom Moving Averages BTCUSD,H4: initialized
+0	19:44:54.586	Gambit BTCUSD,H4: initialized
+0	19:44:54.610	Parabolic BTCUSD,H4: initialized
+0	19:44:54.634	1fractal BTCUSD,H4: initialized
+0	19:44:54.659	Custom Moving Averages BTCUSD,H4: initialized
+0	19:44:54.681	Stochastic BTCUSD,H4: initialized
+0	19:44:54.714	RSI BTCUSD,H4: initialized
+0	19:44:54.779	Custom indicator Custom Moving Averages USDJPY,Daily: loaded successfully
+0	19:44:54.796	Custom indicator Gambit USDJPY,Daily: loaded successfully
+0	19:44:54.812	Custom indicator Parabolic USDJPY,Daily: loaded successfully
+0	19:44:54.831	Custom indicator ifibonacci USDJPY,Daily: loaded successfully
+0	19:44:54.846	Custom indicator 1fractal USDJPY,Daily: loaded successfully
+0	19:44:54.861	Custom indicator Stochastic USDJPY,Daily: loaded successfully
+0	19:44:54.907	Custom Moving Averages USDJPY,Daily: initialized
+0	19:44:54.933	Gambit USDJPY,Daily: initialized
+0	19:44:54.958	Parabolic USDJPY,Daily: initialized
+0	19:44:55.004	ifibonacci USDJPY,Daily: initialized
+0	19:44:55.027	1fractal USDJPY,Daily: initialized
+0	19:44:55.048	Stochastic USDJPY,Daily: initialized
+0	19:44:55.234	Custom indicator Custom Moving Averages USDX,H4: loaded successfully
+0	19:44:55.251	Custom indicator Gambit USDX,H4: loaded successfully
+0	19:44:55.267	Custom indicator Parabolic USDX,H4: loaded successfully
+0	19:44:55.283	Custom indicator 1fractal USDX,H4: loaded successfully
+0	19:44:55.297	Custom indicator Stochastic USDX,H4: loaded successfully
+0	19:44:55.314	Custom indicator RSI USDX,H4: loaded successfully
+0	19:44:55.351	Custom Moving Averages USDX,H4: initialized
+0	19:44:55.377	Gambit USDX,H4: initialized
+0	19:44:55.401	Parabolic USDX,H4: initialized
+0	19:44:55.425	1fractal USDX,H4: initialized
+0	19:44:55.445	Stochastic USDX,H4: initialized
+0	19:44:55.468	RSI USDX,H4: initialized
+0	19:44:55.521	Custom indicator Custom Moving Averages XAUUSD,H1: loaded successfully
+0	19:44:55.537	Custom indicator Gambit XAUUSD,H1: loaded successfully
+0	19:44:55.554	Custom indicator Parabolic XAUUSD,H1: loaded successfully
+0	19:44:55.570	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	19:44:55.586	Custom indicator Stochastic XAUUSD,H1: loaded successfully
+0	19:44:55.612	Custom Moving Averages XAUUSD,H1: initialized
+0	19:44:55.637	Gambit XAUUSD,H1: initialized
+0	19:44:55.662	Parabolic XAUUSD,H1: initialized
+0	19:44:55.685	1fractal XAUUSD,H1: initialized
+0	19:44:55.706	Stochastic XAUUSD,H1: initialized
+0	19:44:55.818	Custom indicator Custom Moving Averages ETHUSD,H1: loaded successfully
+0	19:44:55.835	Custom indicator Gambit ETHUSD,H1: loaded successfully
+0	19:44:55.851	Custom indicator Parabolic ETHUSD,H1: loaded successfully
+0	19:44:55.866	Custom indicator 1fractal ETHUSD,H1: loaded successfully
+0	19:44:55.882	Custom indicator Stochastic ETHUSD,H1: loaded successfully
+0	19:44:55.898	Custom indicator RSI ETHUSD,H1: loaded successfully
+0	19:44:55.937	Custom Moving Averages ETHUSD,H1: initialized
+0	19:44:55.963	Gambit ETHUSD,H1: initialized
+0	19:44:55.988	Parabolic ETHUSD,H1: initialized
+0	19:44:56.011	1fractal ETHUSD,H1: initialized
+0	19:44:56.032	Stochastic ETHUSD,H1: initialized
+0	19:44:56.054	RSI ETHUSD,H1: initialized
+0	20:10:56.492	Custom Moving Averages BTCUSD,H4: uninit reason 3
+0	20:10:56.492	Gambit BTCUSD,H4: uninit reason 3
+0	20:10:56.492	Parabolic BTCUSD,H4: uninit reason 3
+0	20:10:56.492	1fractal BTCUSD,H4: uninit reason 3
+0	20:10:56.492	Custom Moving Averages BTCUSD,H4: uninit reason 3
+0	20:10:56.492	Stochastic BTCUSD,H4: uninit reason 3
+0	20:10:56.492	RSI BTCUSD,H4: uninit reason 3
+0	20:10:56.550	Custom Moving Averages BTCUSD,H1: initialized
+0	20:10:56.550	Gambit BTCUSD,H1: initialized
+0	20:10:56.550	Parabolic BTCUSD,H1: initialized
+0	20:10:56.550	1fractal BTCUSD,H1: initialized
+0	20:10:56.550	Custom Moving Averages BTCUSD,H1: initialized
+0	20:10:56.550	Stochastic BTCUSD,H1: initialized
+0	20:10:56.551	RSI BTCUSD,H1: initialized
+0	20:15:53.594	Custom Moving Averages BTCUSD,H1: uninit reason 3
+0	20:15:53.595	Gambit BTCUSD,H1: uninit reason 3
+0	20:15:53.595	Parabolic BTCUSD,H1: uninit reason 3
+0	20:15:53.595	1fractal BTCUSD,H1: uninit reason 3
+0	20:15:53.595	Custom Moving Averages BTCUSD,H1: uninit reason 3
+0	20:15:53.595	Stochastic BTCUSD,H1: uninit reason 3
+0	20:15:53.595	RSI BTCUSD,H1: uninit reason 3
+0	20:15:53.688	Custom Moving Averages EURUSD,H1: initialized
+0	20:15:53.688	Gambit EURUSD,H1: initialized
+0	20:15:53.688	Parabolic EURUSD,H1: initialized
+0	20:15:53.688	1fractal EURUSD,H1: initialized
+0	20:15:53.688	Custom Moving Averages EURUSD,H1: initialized
+0	20:15:53.688	Stochastic EURUSD,H1: initialized
+0	20:15:53.688	RSI EURUSD,H1: initialized
+0	20:15:59.178	Expert FullFade_v2.6 EURUSD,H1: loaded successfully
+0	20:16:16.445	FullFade_v2.6 EURUSD,H1 inputs: Lots=0.1; BPeriod=20; RSIPeriod=14; RSIBuy=30; RSISell=70; UseRSI=false; OneCandleTrade=true; Take=110; Stop=40; 
+0	20:16:16.497	FullFade_v2.6 EURUSD,H1: initialized
+0	21:03:58.293	Custom Moving Averages LTCUSD,H4: uninit reason 4
+0	21:03:58.293	Gambit LTCUSD,H4: uninit reason 4
+0	21:03:58.293	Parabolic LTCUSD,H4: uninit reason 4
+0	21:03:58.293	1fractal LTCUSD,H4: uninit reason 4
+0	21:03:58.293	Stochastic LTCUSD,H4: uninit reason 4
+0	21:03:58.299	Custom indicator Custom Moving Averages LTCUSD,H4: removed
+0	21:03:58.302	Custom indicator Gambit LTCUSD,H4: removed
+0	21:03:58.305	Custom indicator Parabolic LTCUSD,H4: removed
+0	21:03:58.308	Custom indicator 1fractal LTCUSD,H4: removed
+0	21:03:58.312	Custom indicator Stochastic LTCUSD,H4: removed
+0	21:04:02.520	Custom Moving Averages EURUSD,H1: uninit reason 4
+0	21:04:02.520	Gambit EURUSD,H1: uninit reason 4
+0	21:04:02.520	Parabolic EURUSD,H1: uninit reason 4
+0	21:04:02.520	1fractal EURUSD,H1: uninit reason 4
+0	21:04:02.520	Custom Moving Averages EURUSD,H1: uninit reason 4
+0	21:04:02.520	Stochastic EURUSD,H1: uninit reason 4
+0	21:04:02.520	RSI EURUSD,H1: uninit reason 4
+0	21:04:02.520	FullFade_v2.6 EURUSD,H1: uninit reason 4
+0	21:04:02.525	Expert FullFade_v2.6 EURUSD,H1: removed
+0	21:04:02.532	Custom indicator Custom Moving Averages EURUSD,H1: removed
+0	21:04:02.535	Custom indicator Gambit EURUSD,H1: removed
+0	21:04:02.538	Custom indicator Parabolic EURUSD,H1: removed
+0	21:04:02.541	Custom indicator 1fractal EURUSD,H1: removed
+0	21:04:02.545	Custom indicator Custom Moving Averages EURUSD,H1: removed
+0	21:04:02.549	Custom indicator Stochastic EURUSD,H1: removed
+0	21:04:02.552	Custom indicator RSI EURUSD,H1: removed
+0	21:04:24.453	ZigZag happy XAUUSD,H1: uninit reason 9
+0	21:04:24.453	ifibonacci XAUUSD,H1: uninit reason 9
+1	21:04:24.453	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:04:24.458	Custom Moving Averages USDJPY,H4: uninit reason 9
+0	21:04:24.458	Gambit USDJPY,H4: uninit reason 9
+0	21:04:24.458	Parabolic USDJPY,H4: uninit reason 9
+0	21:04:24.458	1fractal USDJPY,H4: uninit reason 9
+0	21:04:24.458	ZigZag happy USDJPY,H4: uninit reason 9
+0	21:04:24.458	Stochastic USDJPY,H4: uninit reason 9
+0	21:04:24.459	Custom Moving Averages USDJPY,Daily: uninit reason 9
+0	21:04:24.459	Gambit USDJPY,Daily: uninit reason 9
+0	21:04:24.459	Parabolic USDJPY,Daily: uninit reason 9
+0	21:04:24.460	ifibonacci USDJPY,Daily: uninit reason 9
+1	21:04:24.460	ifibonacci USDJPY,Daily: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:04:24.465	1fractal USDJPY,Daily: uninit reason 9
+0	21:04:24.465	Stochastic USDJPY,Daily: uninit reason 9
+0	21:04:24.465	Custom Moving Averages USDX,H4: uninit reason 9
+0	21:04:24.465	Gambit USDX,H4: uninit reason 9
+0	21:04:24.465	Parabolic USDX,H4: uninit reason 9
+0	21:04:24.465	1fractal USDX,H4: uninit reason 9
+0	21:04:24.465	Stochastic USDX,H4: uninit reason 9
+0	21:04:24.465	RSI USDX,H4: uninit reason 9
+0	21:04:24.465	Custom Moving Averages XAUUSD,H1: uninit reason 9
+0	21:04:24.466	Gambit XAUUSD,H1: uninit reason 9
+0	21:04:24.466	Parabolic XAUUSD,H1: uninit reason 9
+0	21:04:24.466	1fractal XAUUSD,H1: uninit reason 9
+0	21:04:24.466	Stochastic XAUUSD,H1: uninit reason 9
+0	21:04:24.466	Custom Moving Averages ETHUSD,H1: uninit reason 9
+0	21:04:24.466	Gambit ETHUSD,H1: uninit reason 9
+0	21:04:24.466	Parabolic ETHUSD,H1: uninit reason 9
+0	21:04:24.466	1fractal ETHUSD,H1: uninit reason 9
+0	21:04:24.467	Stochastic ETHUSD,H1: uninit reason 9
+0	21:04:24.467	RSI ETHUSD,H1: uninit reason 9
+0	21:04:24.605	Custom indicator ZigZag happy XAUUSD,H1: removed
+0	21:04:24.610	Custom indicator ifibonacci XAUUSD,H1: removed
+0	21:04:24.618	Custom indicator Custom Moving Averages USDJPY,H4: removed
+0	21:04:24.623	Custom indicator Gambit USDJPY,H4: removed
+0	21:04:24.627	Custom indicator Parabolic USDJPY,H4: removed
+0	21:04:24.631	Custom indicator 1fractal USDJPY,H4: removed
+0	21:04:24.631	Custom indicator ZigZag happy USDJPY,H4: removed
+0	21:04:24.635	Custom indicator Stochastic USDJPY,H4: removed
+0	21:04:24.643	Custom indicator Custom Moving Averages USDJPY,Daily: removed
+0	21:04:24.646	Custom indicator Gambit USDJPY,Daily: removed
+0	21:04:24.650	Custom indicator Parabolic USDJPY,Daily: removed
+0	21:04:24.652	Custom indicator ifibonacci USDJPY,Daily: removed
+0	21:04:24.655	Custom indicator 1fractal USDJPY,Daily: removed
+0	21:04:24.658	Custom indicator Stochastic USDJPY,Daily: removed
+0	21:04:24.664	Custom indicator Custom Moving Averages USDX,H4: removed
+0	21:04:24.667	Custom indicator Gambit USDX,H4: removed
+0	21:04:24.670	Custom indicator Parabolic USDX,H4: removed
+0	21:04:24.673	Custom indicator 1fractal USDX,H4: removed
+0	21:04:24.676	Custom indicator Stochastic USDX,H4: removed
+0	21:04:24.679	Custom indicator RSI USDX,H4: removed
+0	21:04:24.693	Custom indicator Custom Moving Averages XAUUSD,H1: removed
+0	21:04:24.696	Custom indicator Gambit XAUUSD,H1: removed
+0	21:04:24.699	Custom indicator Parabolic XAUUSD,H1: removed
+0	21:04:24.702	Custom indicator 1fractal XAUUSD,H1: removed
+0	21:04:24.704	Custom indicator Stochastic XAUUSD,H1: removed
+0	21:04:24.713	Custom indicator Custom Moving Averages ETHUSD,H1: removed
+0	21:04:24.716	Custom indicator Gambit ETHUSD,H1: removed
+0	21:04:24.719	Custom indicator Parabolic ETHUSD,H1: removed
+0	21:04:24.722	Custom indicator 1fractal ETHUSD,H1: removed
+0	21:04:24.725	Custom indicator Stochastic ETHUSD,H1: removed
+0	21:04:24.728	Custom indicator RSI ETHUSD,H1: removed
+0	21:04:42.727	Custom indicator ZigZag happy XAUUSD,H1: loaded successfully
+0	21:04:42.747	Custom indicator ifibonacci XAUUSD,H1: loaded successfully
+0	21:04:42.751	ZigZag happy XAUUSD,H1: initialized
+0	21:04:42.800	ifibonacci XAUUSD,H1: One of Fibo ARC Methods is requires DLL, Remember to allow DLL imports if you like to use it.
+0	21:04:42.800	ifibonacci XAUUSD,H1: initialized
+0	21:04:42.893	Custom indicator Custom Moving Averages USDJPY,H4: loaded successfully
+0	21:04:42.909	Custom indicator Gambit USDJPY,H4: loaded successfully
+0	21:04:42.927	Custom indicator Parabolic USDJPY,H4: loaded successfully
+0	21:04:42.945	Custom indicator 1fractal USDJPY,H4: loaded successfully
+0	21:04:42.996	Custom indicator ZigZag happy USDJPY,H4: loaded successfully
+0	21:04:43.016	Custom indicator Stochastic USDJPY,H4: loaded successfully
+0	21:04:43.052	Custom Moving Averages USDJPY,H4: initialized
+0	21:04:43.086	Gambit USDJPY,H4: initialized
+0	21:04:43.118	Parabolic USDJPY,H4: initialized
+0	21:04:43.141	1fractal USDJPY,H4: initialized
+0	21:04:43.141	ZigZag happy USDJPY,H4: initialized
+0	21:04:43.164	Stochastic USDJPY,H4: initialized
+0	21:04:43.245	Custom indicator Custom Moving Averages USDJPY,Daily: loaded successfully
+0	21:04:43.261	Custom indicator Gambit USDJPY,Daily: loaded successfully
+0	21:04:43.277	Custom indicator Parabolic USDJPY,Daily: loaded successfully
+0	21:04:43.297	Custom indicator ifibonacci USDJPY,Daily: loaded successfully
+0	21:04:43.313	Custom indicator 1fractal USDJPY,Daily: loaded successfully
+0	21:04:43.329	Custom indicator Stochastic USDJPY,Daily: loaded successfully
+0	21:04:43.363	Custom Moving Averages USDJPY,Daily: initialized
+0	21:04:43.394	Gambit USDJPY,Daily: initialized
+0	21:04:43.419	Parabolic USDJPY,Daily: initialized
+0	21:04:43.467	ifibonacci USDJPY,Daily: initialized
+0	21:04:43.491	1fractal USDJPY,Daily: initialized
+0	21:04:43.513	Stochastic USDJPY,Daily: initialized
+0	21:04:43.597	Custom indicator Custom Moving Averages USDX,H4: loaded successfully
+0	21:04:43.614	Custom indicator Gambit USDX,H4: loaded successfully
+0	21:04:43.631	Custom indicator Parabolic USDX,H4: loaded successfully
+0	21:04:43.647	Custom indicator 1fractal USDX,H4: loaded successfully
+0	21:04:43.663	Custom indicator Stochastic USDX,H4: loaded successfully
+0	21:04:43.679	Custom indicator RSI USDX,H4: loaded successfully
+0	21:04:43.706	Custom Moving Averages USDX,H4: initialized
+0	21:04:43.732	Gambit USDX,H4: initialized
+0	21:04:43.757	Parabolic USDX,H4: initialized
+0	21:04:43.781	1fractal USDX,H4: initialized
+0	21:04:43.802	Stochastic USDX,H4: initialized
+0	21:04:43.825	RSI USDX,H4: initialized
+0	21:04:43.867	Custom indicator Custom Moving Averages XAUUSD,H1: loaded successfully
+0	21:04:43.883	Custom indicator Gambit XAUUSD,H1: loaded successfully
+0	21:04:43.900	Custom indicator Parabolic XAUUSD,H1: loaded successfully
+0	21:04:43.916	Custom indicator 1fractal XAUUSD,H1: loaded successfully
+0	21:04:43.932	Custom indicator Stochastic XAUUSD,H1: loaded successfully
+0	21:04:43.959	Custom Moving Averages XAUUSD,H1: initialized
+0	21:04:43.985	Gambit XAUUSD,H1: initialized
+0	21:04:44.011	Parabolic XAUUSD,H1: initialized
+0	21:04:44.035	1fractal XAUUSD,H1: initialized
+0	21:04:44.056	Stochastic XAUUSD,H1: initialized
+0	21:04:44.163	Custom indicator Custom Moving Averages ETHUSD,H1: loaded successfully
+0	21:04:44.179	Custom indicator Gambit ETHUSD,H1: loaded successfully
+0	21:04:44.196	Custom indicator Parabolic ETHUSD,H1: loaded successfully
+0	21:04:44.212	Custom indicator 1fractal ETHUSD,H1: loaded successfully
+0	21:04:44.228	Custom indicator Stochastic ETHUSD,H1: loaded successfully
+0	21:04:44.245	Custom indicator RSI ETHUSD,H1: loaded successfully
+0	21:04:44.272	Custom Moving Averages ETHUSD,H1: initialized
+0	21:04:44.299	Gambit ETHUSD,H1: initialized
+0	21:04:44.325	Parabolic ETHUSD,H1: initialized
+0	21:04:44.349	1fractal ETHUSD,H1: initialized
+0	21:04:44.371	Stochastic ETHUSD,H1: initialized
+0	21:04:44.401	RSI ETHUSD,H1: initialized
+0	21:04:49.625	Expert ToolKit_v2.0 XAUUSD,H1: loaded successfully
+0	21:05:46.498	Expert ToolKit_v2.0 XAUUSD,H1: removed
+0	21:06:02.155	Expert ToolKit_v2.0 ETHUSD,H1: loaded successfully
+0	21:06:05.760	ToolKit_v2.0 ETHUSD,H1 inputs: Magic=100; Lots=0.1; Symbols=EURUSD GBPUSD AUDCAD USDJPY EURGBP USDCHF NZDUSD; StopLoss=0.0; TakeProfit=0.0; ProfPlus=5737262; ProfMinus=7504122; Buy=16711680; Sell=255; DisplayInfo=true; 
+0	21:06:05.790	ToolKit_v2.0 ETHUSD,H1: Получено строк: 7. Использован разделитель ' ' с кодом 32
+0	21:06:05.790	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:06:05.790	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:06:05.790	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:06:05.790	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:06:05.791	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:06:05.791	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:06:05.791	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:06:05.791	ToolKit_v2.0 ETHUSD,H1: initialized
+0	21:06:29.590	ToolKit_v2.0 ETHUSD,H1: Получено строк: 7. Использован разделитель ' ' с кодом 32
+0	21:06:29.590	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:06:29.590	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:06:29.590	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:06:29.590	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:06:29.590	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:06:29.590	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:06:29.590	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:08:00.081	ToolKit_v2.0 ETHUSD,H1: uninit reason 5
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: result[7]=ETHUSD
+0	21:08:00.083	ToolKit_v2.0 ETHUSD,H1: initialized
+0	21:08:00.107	ToolKit_v2.0 ETHUSD,H1 inputs: Magic=100; Lots=0.1; Symbols=EURUSD GBPUSD AUDCAD USDJPY EURGBP USDCHF NZDUSD ETHUSD; StopLoss=0.0; TakeProfit=0.0; ProfPlus=5737262; ProfMinus=7504122; Buy=16711680; Sell=255; DisplayInfo=true; 
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:08:04.682	ToolKit_v2.0 ETHUSD,H1: result[7]=ETHUSD
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:08:06.629	ToolKit_v2.0 ETHUSD,H1: result[7]=ETHUSD
+0	21:09:40.221	ToolKit_v2.0 ETHUSD,H1: uninit reason 3
+0	21:09:40.223	Custom Moving Averages ETHUSD,H1: uninit reason 3
+0	21:09:40.223	Gambit ETHUSD,H1: uninit reason 3
+0	21:09:40.223	Parabolic ETHUSD,H1: uninit reason 3
+0	21:09:40.223	1fractal ETHUSD,H1: uninit reason 3
+0	21:09:40.223	Stochastic ETHUSD,H1: uninit reason 3
+0	21:09:40.223	RSI ETHUSD,H1: uninit reason 3
+0	21:09:40.223	Custom Moving Averages ETHUSD,H4: initialized
+0	21:09:40.223	Gambit ETHUSD,H4: initialized
+0	21:09:40.223	Parabolic ETHUSD,H4: initialized
+0	21:09:40.223	1fractal ETHUSD,H4: initialized
+0	21:09:40.223	Stochastic ETHUSD,H4: initialized
+0	21:09:40.224	RSI ETHUSD,H4: initialized
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: result[0]=EURUSD
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: result[1]=GBPUSD
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: result[2]=AUDCAD
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: result[3]=USDJPY
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: result[4]=EURGBP
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: result[5]=USDCHF
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: result[6]=NZDUSD
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: result[7]=ETHUSD
+0	21:09:40.469	ToolKit_v2.0 ETHUSD,H4: initialized
+0	21:09:51.519	ToolKit_v2.0 ETHUSD,H4: uninit reason 3
+0	21:09:51.521	Custom Moving Averages ETHUSD,H4: uninit reason 3
+0	21:09:51.521	Gambit ETHUSD,H4: uninit reason 3
+0	21:09:51.521	Parabolic ETHUSD,H4: uninit reason 3
+0	21:09:51.521	1fractal ETHUSD,H4: uninit reason 3
+0	21:09:51.521	Stochastic ETHUSD,H4: uninit reason 3
+0	21:09:51.521	RSI ETHUSD,H4: uninit reason 3
+0	21:09:51.521	Custom Moving Averages ETHUSD,Daily: initialized
+0	21:09:51.521	Gambit ETHUSD,Daily: initialized
+0	21:09:51.521	Parabolic ETHUSD,Daily: initialized
+0	21:09:51.521	1fractal ETHUSD,Daily: initialized
+0	21:09:51.522	Stochastic ETHUSD,Daily: initialized
+0	21:09:51.522	RSI ETHUSD,Daily: initialized
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: result[0]=EURUSD
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: result[1]=GBPUSD
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: result[2]=AUDCAD
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: result[3]=USDJPY
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: result[4]=EURGBP
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: result[5]=USDCHF
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: result[6]=NZDUSD
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: result[7]=ETHUSD
+0	21:09:51.704	ToolKit_v2.0 ETHUSD,Daily: initialized
+0	21:09:59.956	ToolKit_v2.0 ETHUSD,Daily: uninit reason 3
+0	21:09:59.958	Custom Moving Averages ETHUSD,Daily: uninit reason 3
+0	21:09:59.958	Gambit ETHUSD,Daily: uninit reason 3
+0	21:09:59.958	Parabolic ETHUSD,Daily: uninit reason 3
+0	21:09:59.958	1fractal ETHUSD,Daily: uninit reason 3
+0	21:09:59.958	Stochastic ETHUSD,Daily: uninit reason 3
+0	21:09:59.958	RSI ETHUSD,Daily: uninit reason 3
+0	21:09:59.958	Custom Moving Averages ETHUSD,H1: initialized
+0	21:09:59.958	Gambit ETHUSD,H1: initialized
+0	21:09:59.958	Parabolic ETHUSD,H1: initialized
+0	21:09:59.958	1fractal ETHUSD,H1: initialized
+0	21:09:59.958	Stochastic ETHUSD,H1: initialized
+0	21:09:59.958	RSI ETHUSD,H1: initialized
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: result[7]=ETHUSD
+0	21:09:59.976	ToolKit_v2.0 ETHUSD,H1: initialized
+2	21:10:20.063	ToolKit_v2.0 ETHUSD,H1: open #2058637 sell 0.10 ETHUSD at 193.672 ok
+2	21:10:48.110	ToolKit_v2.0 ETHUSD,H1: close #2058637 sell 0.10 ETHUSD at 193.672 at price 194.318
+2	21:11:06.952	ToolKit_v2.0 ETHUSD,H1: open #2058638 buy 0.10 ETHUSD at 194.148 ok
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:18:47.695	ToolKit_v2.0 ETHUSD,H1: result[7]=ETHUSD
+0	21:20:23.221	ToolKit_v2.0 ETHUSD,H1: uninit reason 6
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: result[7]=ETHUSD
+0	21:20:23.223	ToolKit_v2.0 ETHUSD,H1: initialized
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: result[0]=EURUSD
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: result[1]=GBPUSD
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: result[2]=AUDCAD
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: result[3]=USDJPY
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: result[4]=EURGBP
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: result[5]=USDCHF
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: result[6]=NZDUSD
+0	21:22:50.024	ToolKit_v2.0 ETHUSD,H1: result[7]=ETHUSD
+0	21:23:13.961	ToolKit_v2.0 ETHUSD,H1: uninit reason 1
+0	21:23:13.965	Expert ToolKit_v2.0 ETHUSD,H1: removed
+0	21:25:00.960	Expert FullFade_v2.6 EURUSD,H1: loaded successfully
+0	21:25:25.746	FullFade_v2.6 EURUSD,H1 inputs: Lots=0.1; BPeriod=20; RSIPeriod=14; RSIBuy=30; RSISell=70; UseRSI=false; OneCandleTrade=true; Take=110; Stop=40; 
+0	21:25:25.799	FullFade_v2.6 EURUSD,H1: initialized
+0	21:38:03.511	Expert CandleBot_v2.31 ETHUSD,H1: loaded successfully
+0	21:38:16.934	CandleBot_v2.31 ETHUSD,H1 inputs: Magic=10012; Lots=0.1; MM=false; MMRisk=0.03; UseTime=false; TimeStart=08:00; TimeEnd=15:00; StopLoss=40; TakeProfit=70; Tral=false; TralStartLevel=30; TralStop=40; DrawInfo=false; C12=----------  Candles -------------; Hammer=true; HangingMan=true; Engulfing=true; MorningStar=true; EveningStar=true; DarkCloudCover=true; Piercing=true; ShootingStar=true; InvertedHammer=true; Harami=true; Tweezer=true; BeltHoldLine=true; UpsideGapTwoCrows=true; ThreeCrows=true; MatHoldPattern=true; CounterattackLines=true; SeparatingLines=true; GravestoneDoji=true; LongLeggedDoji=true; Doji=true; TasukiGap=true; SideBySideWhite=true; ThreeMethods=true; Gap=true; ThreeWhiteSoldiers=true; AdvanceBlock=true; StalledPattern=true; ThreeLineStrike=true; OnNeckLine=true; 
+0	21:38:17.011	CandleBot_v2.31 ETHUSD,H1: initialized
+0	21:39:24.245	CandleBot_v2.31 ETHUSD,H1: uninit reason 6
+0	21:39:24.247	CandleBot_v2.31 ETHUSD,H1: initialized
+0	21:39:24.247	FullFade_v2.6 EURUSD,H1: uninit reason 6
+0	21:39:24.249	FullFade_v2.6 EURUSD,H1: initialized
+0	21:52:09.636	Custom indicator Custom Moving Averages LTCUSD,M15: loaded successfully
+0	21:52:09.665	Custom indicator Gambit LTCUSD,M15: loaded successfully
+0	21:52:09.699	Custom indicator Parabolic LTCUSD,M15: loaded successfully
+0	21:52:09.730	Custom indicator 1fractal LTCUSD,M15: loaded successfully
+0	21:52:09.764	Custom indicator Stochastic LTCUSD,M15: loaded successfully
+0	21:52:09.792	Custom indicator RSI LTCUSD,M15: loaded successfully
+0	21:52:09.820	Custom Moving Averages LTCUSD,M15: initialized
+0	21:52:09.848	Gambit LTCUSD,M15: initialized
+0	21:52:09.877	Parabolic LTCUSD,M15: initialized
+0	21:52:09.903	1fractal LTCUSD,M15: initialized
+0	21:52:09.925	Stochastic LTCUSD,M15: initialized
+0	21:52:09.955	RSI LTCUSD,M15: initialized
+0	21:52:27.110	Custom Moving Averages LTCUSD,M15: uninit reason 3
+0	21:52:27.110	Gambit LTCUSD,M15: uninit reason 3
+0	21:52:27.110	Parabolic LTCUSD,M15: uninit reason 3
+0	21:52:27.110	1fractal LTCUSD,M15: uninit reason 3
+0	21:52:27.110	Stochastic LTCUSD,M15: uninit reason 3
+0	21:52:27.110	RSI LTCUSD,M15: uninit reason 3
+0	21:52:27.111	Custom Moving Averages LTCUSD,H1: initialized
+0	21:52:27.111	Gambit LTCUSD,H1: initialized
+0	21:52:27.111	Parabolic LTCUSD,H1: initialized
+0	21:52:27.111	1fractal LTCUSD,H1: initialized
+0	21:52:27.112	Stochastic LTCUSD,H1: initialized
+0	21:52:27.112	RSI LTCUSD,H1: initialized
+0	21:53:50.242	Custom Moving Averages LTCUSD,H1: uninit reason 3
+0	21:53:50.242	Gambit LTCUSD,H1: uninit reason 3
+0	21:53:50.242	Parabolic LTCUSD,H1: uninit reason 3
+0	21:53:50.242	1fractal LTCUSD,H1: uninit reason 3
+0	21:53:50.242	Stochastic LTCUSD,H1: uninit reason 3
+0	21:53:50.242	RSI LTCUSD,H1: uninit reason 3
+0	21:53:50.257	Custom Moving Averages LTCUSD,H4: initialized
+0	21:53:50.257	Gambit LTCUSD,H4: initialized
+0	21:53:50.257	Parabolic LTCUSD,H4: initialized
+0	21:53:50.258	1fractal LTCUSD,H4: initialized
+0	21:53:50.258	Stochastic LTCUSD,H4: initialized
+0	21:53:50.258	RSI LTCUSD,H4: initialized
+0	21:54:25.511	Custom Moving Averages LTCUSD,H4: uninit reason 3
+0	21:54:25.511	Gambit LTCUSD,H4: uninit reason 3
+0	21:54:25.511	Parabolic LTCUSD,H4: uninit reason 3
+0	21:54:25.511	1fractal LTCUSD,H4: uninit reason 3
+0	21:54:25.511	Stochastic LTCUSD,H4: uninit reason 3
+0	21:54:25.511	RSI LTCUSD,H4: uninit reason 3
+0	21:54:25.513	Custom Moving Averages LTCUSD,M5: initialized
+0	21:54:25.513	Gambit LTCUSD,M5: initialized
+0	21:54:25.513	Parabolic LTCUSD,M5: initialized
+0	21:54:25.513	1fractal LTCUSD,M5: initialized
+0	21:54:25.514	Stochastic LTCUSD,M5: initialized
+0	21:54:25.514	RSI LTCUSD,M5: initialized
+0	21:56:02.513	Expert ToolKit_v2.0 LTCUSD,M5: loaded successfully
+0	21:56:27.312	ToolKit_v2.0 LTCUSD,M5 inputs: Magic=100; Lots=0.1; Symbols=EURUSD GBPUSD AUDCAD USDJPY EURGBP USDCHF NZDUSD LTCUSD; StopLoss=0.0; TakeProfit=0.0; ProfPlus=5737262; ProfMinus=7504122; Buy=16711680; Sell=255; DisplayInfo=true; 
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: result[0]=EURUSD
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: result[1]=GBPUSD
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: result[2]=AUDCAD
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: result[3]=USDJPY
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: result[4]=EURGBP
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: result[5]=USDCHF
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: result[6]=NZDUSD
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: result[7]=LTCUSD
+0	21:56:27.346	ToolKit_v2.0 LTCUSD,M5: initialized
+2	22:00:02.593	CandleBot_v2.31 ETHUSD,H1: open #74499909 sell 0.10 ETHUSD at 193.469 ok
+0	22:00:04.606	CandleBot_v2.31 ETHUSD,H1: OrderModify Sell failed with error #130
+0	22:00:09.640	CandleBot_v2.31 ETHUSD,H1: OrderModify Sell failed with error #130
+0	22:00:14.676	CandleBot_v2.31 ETHUSD,H1: OrderModify Sell failed with error #130
+0	22:00:19.712	CandleBot_v2.31 ETHUSD,H1: OrderModify Sell failed with error #130
+0	22:00:24.749	CandleBot_v2.31 ETHUSD,H1: OrderModify Sell failed with error #130
+0	22:10:52.713	Custom indicator 1fractal ETHUSD,H1: loaded successfully
+0	22:10:55.562	Custom indicator 1fractal ETHUSD,H1: removed
+0	22:25:07.786	FullFade_v2.6 EURUSD,H1: uninit reason 7
+0	22:25:07.793	Expert FullFade_v2.6 EURUSD,H1: removed
+0	22:25:07.832	Custom indicator Custom Moving Averages EURUSD,H1: loaded successfully
+0	22:25:07.852	Custom indicator Gambit EURUSD,H1: loaded successfully
+0	22:25:07.884	Custom indicator Parabolic EURUSD,H1: loaded successfully
+0	22:25:07.915	Custom indicator 1fractal EURUSD,H1: loaded successfully
+0	22:25:07.942	Custom indicator Stochastic EURUSD,H1: loaded successfully
+0	22:25:07.967	Custom indicator RSI EURUSD,H1: loaded successfully
+0	22:25:07.998	Custom Moving Averages EURUSD,H1: initialized
+0	22:25:08.028	Gambit EURUSD,H1: initialized
+0	22:25:08.054	Parabolic EURUSD,H1: initialized
+0	22:25:08.081	1fractal EURUSD,H1: initialized
+0	22:25:08.104	Stochastic EURUSD,H1: initialized
+0	22:25:08.127	RSI EURUSD,H1: initialized
+0	22:26:03.177	Expert FullFade_v2.6 EURUSD,H1: loaded successfully
+0	22:26:06.638	FullFade_v2.6 EURUSD,H1 inputs: Lots=0.1; BPeriod=20; RSIPeriod=14; RSIBuy=30; RSISell=70; UseRSI=false; OneCandleTrade=true; Take=110; Stop=40; 
+0	22:26:06.702	FullFade_v2.6 EURUSD,H1: initialized
+0	22:32:11.734	Custom Moving Averages USDJPY,Daily: uninit reason 3
+0	22:32:11.734	Gambit USDJPY,Daily: uninit reason 3
+0	22:32:11.734	Parabolic USDJPY,Daily: uninit reason 3
+0	22:32:11.734	ifibonacci USDJPY,Daily: uninit reason 3
+1	22:32:11.734	ifibonacci USDJPY,Daily: array out of range in 'ifibonacci.mq4' (205,28)
+0	22:32:11.740	1fractal USDJPY,Daily: uninit reason 3
+0	22:32:11.740	Stochastic USDJPY,Daily: uninit reason 3
+0	22:32:11.862	Custom Moving Averages USDJPY,M5: initialized
+0	22:32:11.862	Gambit USDJPY,M5: initialized
+0	22:32:11.862	Parabolic USDJPY,M5: initialized
+0	22:32:11.864	ifibonacci USDJPY,M5: initialized
+0	22:32:11.864	1fractal USDJPY,M5: initialized
+0	22:32:11.864	Stochastic USDJPY,M5: initialized
+0	22:32:56.444	FullFade_v2.6 EURUSD,H1: uninit reason 3
+0	22:32:56.446	Custom Moving Averages EURUSD,H1: uninit reason 3
+0	22:32:56.446	Gambit EURUSD,H1: uninit reason 3
+0	22:32:56.446	Parabolic EURUSD,H1: uninit reason 3
+0	22:32:56.446	1fractal EURUSD,H1: uninit reason 3
+0	22:32:56.446	Stochastic EURUSD,H1: uninit reason 3
+0	22:32:56.446	RSI EURUSD,H1: uninit reason 3
+0	22:32:56.480	Custom Moving Averages EURUSD,M30: initialized
+0	22:32:56.480	Gambit EURUSD,M30: initialized
+0	22:32:56.480	Parabolic EURUSD,M30: initialized
+0	22:32:56.480	1fractal EURUSD,M30: initialized
+0	22:32:56.481	Stochastic EURUSD,M30: initialized
+0	22:32:56.481	RSI EURUSD,M30: initialized
+0	22:32:57.050	FullFade_v2.6 EURUSD,M30: initialized
+0	22:33:05.596	FullFade_v2.6 EURUSD,M30: uninit reason 3
+0	22:33:05.598	Custom Moving Averages EURUSD,M30: uninit reason 3
+0	22:33:05.598	Gambit EURUSD,M30: uninit reason 3
+0	22:33:05.598	Parabolic EURUSD,M30: uninit reason 3
+0	22:33:05.598	1fractal EURUSD,M30: uninit reason 3
+0	22:33:05.598	Stochastic EURUSD,M30: uninit reason 3
+0	22:33:05.598	RSI EURUSD,M30: uninit reason 3
+0	22:33:05.627	Custom Moving Averages EURUSD,M15: initialized
+0	22:33:05.627	Gambit EURUSD,M15: initialized
+0	22:33:05.628	Parabolic EURUSD,M15: initialized
+0	22:33:05.628	1fractal EURUSD,M15: initialized
+0	22:33:05.629	Stochastic EURUSD,M15: initialized
+0	22:33:05.630	RSI EURUSD,M15: initialized
+0	22:33:06.230	FullFade_v2.6 EURUSD,M15: initialized
+0	22:33:14.096	FullFade_v2.6 EURUSD,M15: uninit reason 3
+0	22:33:14.098	Custom Moving Averages EURUSD,M15: uninit reason 3
+0	22:33:14.098	Gambit EURUSD,M15: uninit reason 3
+0	22:33:14.098	Parabolic EURUSD,M15: uninit reason 3
+0	22:33:14.098	1fractal EURUSD,M15: uninit reason 3
+0	22:33:14.098	Stochastic EURUSD,M15: uninit reason 3
+0	22:33:14.098	RSI EURUSD,M15: uninit reason 3
+0	22:33:14.125	Custom Moving Averages EURUSD,M5: initialized
+0	22:33:14.125	Gambit EURUSD,M5: initialized
+0	22:33:14.126	Parabolic EURUSD,M5: initialized
+0	22:33:14.126	1fractal EURUSD,M5: initialized
+0	22:33:14.127	Stochastic EURUSD,M5: initialized
+0	22:33:14.127	RSI EURUSD,M5: initialized
+0	22:33:14.725	FullFade_v2.6 EURUSD,M5: initialized
+0	22:33:18.042	FullFade_v2.6 EURUSD,M5: uninit reason 3
+0	22:33:18.044	Custom Moving Averages EURUSD,M5: uninit reason 3
+0	22:33:18.044	Gambit EURUSD,M5: uninit reason 3
+0	22:33:18.044	Parabolic EURUSD,M5: uninit reason 3
+0	22:33:18.044	1fractal EURUSD,M5: uninit reason 3
+0	22:33:18.044	Stochastic EURUSD,M5: uninit reason 3
+0	22:33:18.044	RSI EURUSD,M5: uninit reason 3
+0	22:33:18.114	Custom Moving Averages EURUSD,M1: initialized
+0	22:33:18.114	Gambit EURUSD,M1: initialized
+0	22:33:18.115	Parabolic EURUSD,M1: initialized
+0	22:33:18.115	1fractal EURUSD,M1: initialized
+0	22:33:18.116	Stochastic EURUSD,M1: initialized
+0	22:33:18.116	RSI EURUSD,M1: initialized
+0	22:33:18.698	FullFade_v2.6 EURUSD,M1: initialized
+0	22:34:17.490	FullFade_v2.6 EURUSD,M1: uninit reason 3
+0	22:34:17.492	Custom Moving Averages EURUSD,M1: uninit reason 3
+0	22:34:17.492	Gambit EURUSD,M1: uninit reason 3
+0	22:34:17.492	Parabolic EURUSD,M1: uninit reason 3
+0	22:34:17.492	1fractal EURUSD,M1: uninit reason 3
+0	22:34:17.492	Stochastic EURUSD,M1: uninit reason 3
+0	22:34:17.492	RSI EURUSD,M1: uninit reason 3
+0	22:34:17.493	Custom Moving Averages EURUSD,M15: initialized
+0	22:34:17.493	Gambit EURUSD,M15: initialized
+0	22:34:17.494	Parabolic EURUSD,M15: initialized
+0	22:34:17.494	1fractal EURUSD,M15: initialized
+0	22:34:17.495	Stochastic EURUSD,M15: initialized
+0	22:34:17.496	RSI EURUSD,M15: initialized
+0	22:34:17.770	FullFade_v2.6 EURUSD,M15: initialized
+0	22:34:47.082	FullFade_v2.6 EURUSD,M15: uninit reason 3
+0	22:34:47.084	Custom Moving Averages EURUSD,M15: uninit reason 3
+0	22:34:47.084	Gambit EURUSD,M15: uninit reason 3
+0	22:34:47.084	Parabolic EURUSD,M15: uninit reason 3
+0	22:34:47.084	1fractal EURUSD,M15: uninit reason 3
+0	22:34:47.084	Stochastic EURUSD,M15: uninit reason 3
+0	22:34:47.084	RSI EURUSD,M15: uninit reason 3
+0	22:34:47.085	Custom Moving Averages EURUSD,M30: initialized
+0	22:34:47.085	Gambit EURUSD,M30: initialized
+0	22:34:47.086	Parabolic EURUSD,M30: initialized
+0	22:34:47.086	1fractal EURUSD,M30: initialized
+0	22:34:47.086	Stochastic EURUSD,M30: initialized
+0	22:34:47.087	RSI EURUSD,M30: initialized
+0	22:34:47.351	FullFade_v2.6 EURUSD,M30: initialized
+0	23:24:22.695	ToolKit_v2.0 LTCUSD,M5: uninit reason 3
+0	23:24:22.697	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	23:24:22.697	Gambit LTCUSD,M5: uninit reason 3
+0	23:24:22.697	Parabolic LTCUSD,M5: uninit reason 3
+0	23:24:22.698	1fractal LTCUSD,M5: uninit reason 3
+0	23:24:22.699	Stochastic LTCUSD,M5: uninit reason 3
+0	23:24:22.700	RSI LTCUSD,M5: uninit reason 3
+0	23:24:22.707	Custom Moving Averages LTCUSD,H1: initialized
+0	23:24:22.708	Gambit LTCUSD,H1: initialized
+0	23:24:22.713	Parabolic LTCUSD,H1: initialized
+0	23:24:22.720	1fractal LTCUSD,H1: initialized
+0	23:24:22.721	Stochastic LTCUSD,H1: initialized
+0	23:24:22.778	RSI LTCUSD,H1: initialized
+0	23:24:23.508	ToolKit_v2.0 LTCUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	23:24:23.508	ToolKit_v2.0 LTCUSD,H1: result[0]=EURUSD
+0	23:24:23.508	ToolKit_v2.0 LTCUSD,H1: result[1]=GBPUSD
+0	23:24:23.508	ToolKit_v2.0 LTCUSD,H1: result[2]=AUDCAD
+0	23:24:23.509	ToolKit_v2.0 LTCUSD,H1: result[3]=USDJPY
+0	23:24:23.509	ToolKit_v2.0 LTCUSD,H1: result[4]=EURGBP
+0	23:24:23.509	ToolKit_v2.0 LTCUSD,H1: result[5]=USDCHF
+0	23:24:23.509	ToolKit_v2.0 LTCUSD,H1: result[6]=NZDUSD
+0	23:24:23.509	ToolKit_v2.0 LTCUSD,H1: result[7]=LTCUSD
+0	23:24:23.509	ToolKit_v2.0 LTCUSD,H1: initialized
+0	23:24:39.771	ToolKit_v2.0 LTCUSD,H1: uninit reason 3
+0	23:24:39.773	Custom Moving Averages LTCUSD,H1: uninit reason 3
+0	23:24:39.773	Gambit LTCUSD,H1: uninit reason 3
+0	23:24:39.773	Parabolic LTCUSD,H1: uninit reason 3
+0	23:24:39.773	1fractal LTCUSD,H1: uninit reason 3
+0	23:24:39.774	Stochastic LTCUSD,H1: uninit reason 3
+0	23:24:39.774	RSI LTCUSD,H1: uninit reason 3
+0	23:24:39.779	Custom Moving Averages LTCUSD,M5: initialized
+0	23:24:39.779	Gambit LTCUSD,M5: initialized
+0	23:24:39.779	Parabolic LTCUSD,M5: initialized
+0	23:24:39.779	1fractal LTCUSD,M5: initialized
+0	23:24:39.779	Stochastic LTCUSD,M5: initialized
+0	23:24:39.780	RSI LTCUSD,M5: initialized
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: result[0]=EURUSD
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: result[1]=GBPUSD
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: result[2]=AUDCAD
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: result[3]=USDJPY
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: result[4]=EURGBP
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: result[5]=USDCHF
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: result[6]=NZDUSD
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: result[7]=LTCUSD
+0	23:24:39.816	ToolKit_v2.0 LTCUSD,M5: initialized
+0	23:25:29.513	ToolKit_v2.0 LTCUSD,M5: uninit reason 3
+0	23:25:29.515	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	23:25:29.515	Gambit LTCUSD,M5: uninit reason 3
+0	23:25:29.515	Parabolic LTCUSD,M5: uninit reason 3
+0	23:25:29.515	1fractal LTCUSD,M5: uninit reason 3
+0	23:25:29.515	Stochastic LTCUSD,M5: uninit reason 3
+0	23:25:29.515	RSI LTCUSD,M5: uninit reason 3
+0	23:25:29.515	Custom Moving Averages LTCUSD,H1: initialized
+0	23:25:29.515	Gambit LTCUSD,H1: initialized
+0	23:25:29.515	Parabolic LTCUSD,H1: initialized
+0	23:25:29.515	1fractal LTCUSD,H1: initialized
+0	23:25:29.515	Stochastic LTCUSD,H1: initialized
+0	23:25:29.515	RSI LTCUSD,H1: initialized
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: result[0]=EURUSD
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: result[1]=GBPUSD
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: result[2]=AUDCAD
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: result[3]=USDJPY
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: result[4]=EURGBP
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: result[5]=USDCHF
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: result[6]=NZDUSD
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: result[7]=LTCUSD
+0	23:25:29.529	ToolKit_v2.0 LTCUSD,H1: initialized

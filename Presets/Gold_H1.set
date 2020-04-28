@@ -1,0 +1,8 @@
+Name_EA=Gold Fever
+ Magic =985412
+Risk=2
+FixLot=0.01
+TrailingStop=240
+ TrailingStop2 =80
+ StopLoss =240.0
+TakeProfit=750

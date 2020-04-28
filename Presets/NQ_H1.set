@@ -1,0 +1,8 @@
+Name_EA=
+ Magic =356855
+Risk=1.0
+FixLot=0.01
+TrailingStop=1800.0
+ TrailingStop2 =1400
+ StopLoss =2100.0
+TakeProfit=1850.0
