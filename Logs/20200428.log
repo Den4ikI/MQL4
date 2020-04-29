@@ -697,3 +697,254 @@
 0	19:15:54.625	Custom indicator RSI USDCAD,M5: loaded successfully
 0	19:15:54.641	Expert gamExpert USDCAD,M5: loaded successfully
 0	19:15:54.641	gamExpert USDCAD,M5 inputs: Lot=0.1; 
+0	19:15:54.672	Custom Moving Averages USDCAD,M5: initialized
+0	19:15:54.688	Gambit USDCAD,M5: initialized
+0	19:15:54.719	Parabolic USDCAD,M5: initialized
+0	19:15:54.736	1fractal USDCAD,M5: initialized
+0	19:15:54.751	Stochastic USDCAD,M5: initialized
+0	19:15:54.783	RSI USDCAD,M5: initialized
+0	19:15:59.173	gamExpert USDJPY,H1: initialized
+0	19:15:59.204	gamExpert USDX,H1: initialized
+0	19:15:59.204	gamExpert USDCAD,M5: initialized
+0	19:15:59.298	gamExpert GBPUSD,M5: initialized
+0	19:15:59.298	gamExpert AUDUSD,M5: initialized
+0	19:15:59.470	gamExpert EURUSD,M5: initialized
+2	19:15:59.532	gamExpert USDJPY,H1: open #74540538 sell 0.10 USDJPY at 106.863 sl: 106.972 tp: 106.549 ok
+0	20:04:16.504	ifibonacci XAUUSD,H1: uninit reason 1
+1	20:04:16.504	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	20:04:16.517	Custom indicator ifibonacci XAUUSD,H1: removed
+0	20:04:24.081	Custom indicator iFractals_v2 XAUUSD,H1: loaded successfully
+0	20:04:28.851	Custom indicator iFractals_v2 XAUUSD,H1: removed
+0	20:04:31.235	Custom indicator ifibonacci XAUUSD,H1: loaded successfully
+0	20:04:33.530	ifibonacci XAUUSD,H1: initialized
+0	20:06:36.262	gamExpert USDCAD,M5: uninit reason 3
+0	20:06:36.263	Custom Moving Averages USDCAD,M5: uninit reason 3
+0	20:06:36.263	Gambit USDCAD,M5: uninit reason 3
+0	20:06:36.263	Parabolic USDCAD,M5: uninit reason 3
+0	20:06:36.263	1fractal USDCAD,M5: uninit reason 3
+0	20:06:36.263	Stochastic USDCAD,M5: uninit reason 3
+0	20:06:36.263	RSI USDCAD,M5: uninit reason 3
+0	20:06:36.344	Custom Moving Averages USDCAD,H1: initialized
+0	20:06:36.344	Gambit USDCAD,H1: initialized
+0	20:06:36.345	Parabolic USDCAD,H1: initialized
+0	20:06:36.345	1fractal USDCAD,H1: initialized
+0	20:06:36.346	Stochastic USDCAD,H1: initialized
+0	20:06:36.346	RSI USDCAD,H1: initialized
+0	20:06:36.424	gamExpert USDCAD,H1: initialized
+0	20:06:47.900	gamExpert AUDUSD,M5: uninit reason 3
+0	20:06:47.902	Custom Moving Averages AUDUSD,M5: uninit reason 3
+0	20:06:47.902	Gambit AUDUSD,M5: uninit reason 3
+0	20:06:47.902	Parabolic AUDUSD,M5: uninit reason 3
+0	20:06:47.902	1fractal AUDUSD,M5: uninit reason 3
+0	20:06:47.902	Stochastic AUDUSD,M5: uninit reason 3
+0	20:06:47.902	RSI AUDUSD,M5: uninit reason 3
+0	20:06:47.983	Custom Moving Averages AUDUSD,H1: initialized
+0	20:06:47.983	Gambit AUDUSD,H1: initialized
+0	20:06:47.984	Parabolic AUDUSD,H1: initialized
+0	20:06:47.984	1fractal AUDUSD,H1: initialized
+0	20:06:47.985	Stochastic AUDUSD,H1: initialized
+0	20:06:47.985	RSI AUDUSD,H1: initialized
+0	20:06:48.066	gamExpert AUDUSD,H1: initialized
+0	20:06:59.322	gamExpert GBPUSD,M5: uninit reason 3
+0	20:06:59.324	Custom Moving Averages GBPUSD,M5: uninit reason 3
+0	20:06:59.324	Gambit GBPUSD,M5: uninit reason 3
+0	20:06:59.324	Parabolic GBPUSD,M5: uninit reason 3
+0	20:06:59.324	1fractal GBPUSD,M5: uninit reason 3
+0	20:06:59.324	Stochastic GBPUSD,M5: uninit reason 3
+0	20:06:59.324	RSI GBPUSD,M5: uninit reason 3
+0	20:06:59.340	Custom Moving Averages GBPUSD,H1: initialized
+0	20:06:59.340	Gambit GBPUSD,H1: initialized
+0	20:06:59.341	Parabolic GBPUSD,H1: initialized
+0	20:06:59.341	1fractal GBPUSD,H1: initialized
+0	20:06:59.341	Stochastic GBPUSD,H1: initialized
+0	20:06:59.342	RSI GBPUSD,H1: initialized
+0	20:06:59.622	gamExpert GBPUSD,H1: initialized
+0	20:07:56.555	gamExpert EURUSD,M5: uninit reason 3
+0	20:07:56.556	Custom Moving Averages EURUSD,M5: uninit reason 3
+0	20:07:56.556	Gambit EURUSD,M5: uninit reason 3
+0	20:07:56.556	Parabolic EURUSD,M5: uninit reason 3
+0	20:07:56.556	1fractal EURUSD,M5: uninit reason 3
+0	20:07:56.557	Stochastic EURUSD,M5: uninit reason 3
+0	20:07:56.557	RSI EURUSD,M5: uninit reason 3
+0	20:07:56.646	Custom Moving Averages EURUSD,H1: initialized
+0	20:07:56.648	Gambit EURUSD,H1: initialized
+0	20:07:56.656	Parabolic EURUSD,H1: initialized
+0	20:07:56.657	1fractal EURUSD,H1: initialized
+0	20:07:56.658	Stochastic EURUSD,H1: initialized
+0	20:07:56.662	RSI EURUSD,H1: initialized
+0	20:07:56.942	gamExpert EURUSD,H1: initialized
+0	20:39:03.681	gamExpert USDJPY,H1: uninit reason 3
+0	20:39:03.684	Custom Moving Averages USDJPY,H1: uninit reason 3
+0	20:39:03.684	Gambit USDJPY,H1: uninit reason 3
+0	20:39:03.684	Parabolic USDJPY,H1: uninit reason 3
+0	20:39:03.684	1fractal USDJPY,H1: uninit reason 3
+0	20:39:03.684	Stochastic USDJPY,H1: uninit reason 3
+0	20:39:03.684	RSI USDJPY,H1: uninit reason 3
+0	20:39:03.771	Custom Moving Averages USDJPY,M5: initialized
+0	20:39:03.771	Gambit USDJPY,M5: initialized
+0	20:39:03.773	Parabolic USDJPY,M5: initialized
+0	20:39:03.773	1fractal USDJPY,M5: initialized
+0	20:39:03.774	Stochastic USDJPY,M5: initialized
+0	20:39:03.776	RSI USDJPY,M5: initialized
+0	20:39:03.876	gamExpert USDJPY,M5: initialized
+0	20:39:16.640	gamExpert USDJPY,M5: uninit reason 3
+0	20:39:16.642	Custom Moving Averages USDJPY,M5: uninit reason 3
+0	20:39:16.642	Gambit USDJPY,M5: uninit reason 3
+0	20:39:16.642	Parabolic USDJPY,M5: uninit reason 3
+0	20:39:16.642	1fractal USDJPY,M5: uninit reason 3
+0	20:39:16.642	Stochastic USDJPY,M5: uninit reason 3
+0	20:39:16.642	RSI USDJPY,M5: uninit reason 3
+0	20:39:16.704	Custom Moving Averages USDJPY,H1: initialized
+0	20:39:16.704	Gambit USDJPY,H1: initialized
+0	20:39:16.704	Parabolic USDJPY,H1: initialized
+0	20:39:16.704	1fractal USDJPY,H1: initialized
+0	20:39:16.704	Stochastic USDJPY,H1: initialized
+0	20:39:16.704	RSI USDJPY,H1: initialized
+0	20:39:16.724	gamExpert USDJPY,H1: initialized
+0	20:49:56.832	Expert ToolKit_v2.0 XAUUSD,H1: loaded successfully
+0	20:51:00.725	ToolKit_v2.0 XAUUSD,H1 inputs: Magic=100; Lots=0.1; Symbols=EURUSD GBPUSD AUDCAD USDJPY EURGBP USDCHF NZDUSD XAUUSD; StopLoss=0.0; TakeProfit=0.0; ProfPlus=5737262; ProfMinus=7504122; Buy=16711680; Sell=255; DisplayInfo=true; 
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: result[0]=EURUSD
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: result[1]=GBPUSD
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: result[2]=AUDCAD
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: result[3]=USDJPY
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: result[4]=EURGBP
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: result[5]=USDCHF
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: result[6]=NZDUSD
+0	20:51:00.802	ToolKit_v2.0 XAUUSD,H1: result[7]=XAUUSD
+0	20:51:00.803	ToolKit_v2.0 XAUUSD,H1: initialized
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: result[0]=EURUSD
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: result[1]=GBPUSD
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: result[2]=AUDCAD
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: result[3]=USDJPY
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: result[4]=EURGBP
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: result[5]=USDCHF
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: result[6]=NZDUSD
+0	20:54:31.491	ToolKit_v2.0 XAUUSD,H1: result[7]=XAUUSD
+0	20:57:35.081	Custom indicator ifibonacci EURUSD,H1: loaded successfully
+0	20:57:38.758	ifibonacci EURUSD,H1: initialized
+0	20:58:02.367	ifibonacci EURUSD,H1: uninit reason 1
+1	20:58:02.367	ifibonacci EURUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	20:58:02.373	Custom indicator ifibonacci EURUSD,H1: removed
+0	20:58:12.034	Custom indicator ifibonacci EURUSD,H1: loaded successfully
+0	20:59:42.212	ifibonacci EURUSD,H1: initialized
+0	21:01:48.848	Custom Moving Averages EURUSD,H1: uninit reason 7
+0	21:01:48.848	Gambit EURUSD,H1: uninit reason 7
+0	21:01:48.848	Parabolic EURUSD,H1: uninit reason 7
+0	21:01:48.848	1fractal EURUSD,H1: uninit reason 7
+0	21:01:48.848	ifibonacci EURUSD,H1: uninit reason 7
+1	21:01:48.848	ifibonacci EURUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:01:48.856	Stochastic EURUSD,H1: uninit reason 7
+0	21:01:48.856	RSI EURUSD,H1: uninit reason 7
+0	21:01:48.856	gamExpert EURUSD,H1: uninit reason 7
+0	21:01:48.865	Expert gamExpert EURUSD,H1: removed
+0	21:01:48.868	Custom indicator Custom Moving Averages EURUSD,H1: removed
+0	21:01:48.873	Custom indicator Gambit EURUSD,H1: removed
+0	21:01:48.876	Custom indicator Parabolic EURUSD,H1: removed
+0	21:01:48.879	Custom indicator 1fractal EURUSD,H1: removed
+0	21:01:48.882	Custom indicator ifibonacci EURUSD,H1: removed
+0	21:01:48.886	Custom indicator Stochastic EURUSD,H1: removed
+0	21:01:48.891	Custom indicator RSI EURUSD,H1: removed
+0	21:01:48.995	Custom indicator Custom Moving Averages EURUSD,H1: loaded successfully
+0	21:01:49.021	Custom indicator Gambit EURUSD,H1: loaded successfully
+0	21:01:49.050	Custom indicator Parabolic EURUSD,H1: loaded successfully
+0	21:01:49.078	Custom indicator 1fractal EURUSD,H1: loaded successfully
+0	21:01:49.105	Custom indicator Stochastic EURUSD,H1: loaded successfully
+0	21:01:49.130	Custom indicator RSI EURUSD,H1: loaded successfully
+0	21:01:49.165	Custom Moving Averages EURUSD,H1: initialized
+0	21:01:49.195	Gambit EURUSD,H1: initialized
+0	21:01:49.223	Parabolic EURUSD,H1: initialized
+0	21:01:49.253	1fractal EURUSD,H1: initialized
+0	21:01:49.279	Stochastic EURUSD,H1: initialized
+0	21:01:49.306	RSI EURUSD,H1: initialized
+0	21:08:38.633	Script position history USDJPY,H1: loaded successfully
+0	21:08:44.008	position history USDJPY,H1 inputs: buy=32768; sell=255; _width=3; 
+0	21:08:44.043	position history USDJPY,H1: initialized
+0	21:08:44.043	position history USDJPY,H1: uninit reason 0
+0	21:08:44.047	Script position history USDJPY,H1: removed
+2	21:10:38.813	ToolKit_v2.0 XAUUSD,H1: open #74542589 buy 0.10 XAUUSD at 1706.89 ok
+0	21:23:31.593	ifibonacci XAUUSD,H1: uninit reason 5
+1	21:23:31.593	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:23:31.624	ifibonacci XAUUSD,H1: initialized
+0	21:42:32.006	ToolKit_v2.0 XAUUSD,H1: uninit reason 3
+0	21:42:32.008	ZigZag happy XAUUSD,H1: uninit reason 3
+0	21:42:32.008	ifibonacci XAUUSD,H1: uninit reason 3
+1	21:42:32.008	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:42:32.016	ZigZag happy XAUUSD,H4: initialized
+0	21:42:32.016	ifibonacci XAUUSD,H4: initialized
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: result[0]=EURUSD
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: result[1]=GBPUSD
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: result[2]=AUDCAD
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: result[3]=USDJPY
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: result[4]=EURGBP
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: result[5]=USDCHF
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: result[6]=NZDUSD
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: result[7]=XAUUSD
+0	21:42:32.065	ToolKit_v2.0 XAUUSD,H4: initialized
+0	21:42:41.727	ToolKit_v2.0 XAUUSD,H4: uninit reason 3
+0	21:42:41.729	ZigZag happy XAUUSD,H4: uninit reason 3
+0	21:42:41.729	ifibonacci XAUUSD,H4: uninit reason 3
+1	21:42:41.729	ifibonacci XAUUSD,H4: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:42:41.738	ZigZag happy XAUUSD,H1: initialized
+0	21:42:41.738	ifibonacci XAUUSD,H1: initialized
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: result[0]=EURUSD
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: result[1]=GBPUSD
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: result[2]=AUDCAD
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: result[3]=USDJPY
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: result[4]=EURGBP
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: result[5]=USDCHF
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: result[6]=NZDUSD
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: result[7]=XAUUSD
+0	21:42:41.803	ToolKit_v2.0 XAUUSD,H1: initialized
+0	21:42:50.011	ToolKit_v2.0 XAUUSD,H1: uninit reason 3
+0	21:42:50.013	ZigZag happy XAUUSD,H1: uninit reason 3
+0	21:42:50.013	ifibonacci XAUUSD,H1: uninit reason 3
+1	21:42:50.013	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:42:50.106	ZigZag happy XAUUSD,M15: initialized
+0	21:42:50.106	ifibonacci XAUUSD,M15: initialized
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: result[0]=EURUSD
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: result[1]=GBPUSD
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: result[2]=AUDCAD
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: result[3]=USDJPY
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: result[4]=EURGBP
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: result[5]=USDCHF
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: result[6]=NZDUSD
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: result[7]=XAUUSD
+0	21:42:50.336	ToolKit_v2.0 XAUUSD,M15: initialized
+0	21:43:04.042	ToolKit_v2.0 XAUUSD,M15: uninit reason 3
+0	21:43:04.044	ZigZag happy XAUUSD,M15: uninit reason 3
+0	21:43:04.044	ifibonacci XAUUSD,M15: uninit reason 3
+1	21:43:04.044	ifibonacci XAUUSD,M15: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:43:04.137	ZigZag happy XAUUSD,M30: initialized
+0	21:43:04.138	ifibonacci XAUUSD,M30: initialized
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: result[0]=EURUSD
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: result[1]=GBPUSD
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: result[2]=AUDCAD
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: result[3]=USDJPY
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: result[4]=EURGBP
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: result[5]=USDCHF
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: result[6]=NZDUSD
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: result[7]=XAUUSD
+0	21:43:04.730	ToolKit_v2.0 XAUUSD,M30: initialized
+0	21:43:22.326	ToolKit_v2.0 XAUUSD,M30: uninit reason 3
+0	21:43:22.328	ZigZag happy XAUUSD,M30: uninit reason 3
+0	21:43:22.328	ifibonacci XAUUSD,M30: uninit reason 3
+1	21:43:22.328	ifibonacci XAUUSD,M30: array out of range in 'ifibonacci.mq4' (205,28)
+0	21:43:22.332	ZigZag happy XAUUSD,H1: initialized
+0	21:43:22.332	ifibonacci XAUUSD,H1: initialized
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: Получено строк: 8. Использован разделитель ' ' с кодом 32
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: result[0]=EURUSD
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: result[1]=GBPUSD
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: result[2]=AUDCAD
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: result[3]=USDJPY
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: result[4]=EURGBP
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: result[5]=USDCHF
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: result[6]=NZDUSD
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: result[7]=XAUUSD
+0	21:43:22.392	ToolKit_v2.0 XAUUSD,H1: initialized
+2	23:00:31.329	ToolKit_v2.0 XAUUSD,H1: open #74543788 sell 0.10 XAUUSD at 1709.38 ok
