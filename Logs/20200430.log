@@ -877,3 +877,261 @@
 0	18:00:37.729	Stochastic GBPUSD,M15: initialized
 0	18:00:37.739	RSI GBPUSD,M15: initialized
 0	18:00:38.237	gamExpert GBPUSD,M15: initialized
+0	18:33:59.821	ifibonacci AUDUSD,H1: uninit reason 3
+1	18:33:59.881	ifibonacci AUDUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	18:33:59.901	Custom Moving Averages AUDUSD,H1: uninit reason 3
+0	18:33:59.901	Custom Moving Averages AUDUSD,H1: uninit reason 3
+0	18:33:59.919	ifibonacci AUDUSD,M15: initialized
+0	18:33:59.924	Custom Moving Averages AUDUSD,M15: initialized
+0	18:33:59.929	Custom Moving Averages AUDUSD,M15: initialized
+0	18:35:50.826	Custom indicator 1fractal AUDUSD,M15: loaded successfully
+0	18:35:53.498	1fractal AUDUSD,M15: initialized
+0	18:43:00.756	gamExpert EURUSD,M15: uninit reason 2
+0	18:43:00.789	Expert gamExpert EURUSD,M15: removed
+0	18:43:00.825	Expert gamExpert EURUSD,M15: loaded successfully
+0	18:43:00.829	gamExpert GBPUSD,M15: uninit reason 2
+0	18:43:00.880	Expert gamExpert GBPUSD,M15: removed
+0	18:43:00.913	Expert gamExpert GBPUSD,M15: loaded successfully
+0	18:43:00.917	gamExpert USDJPY,M15: uninit reason 2
+0	18:43:00.929	Expert gamExpert USDJPY,M15: removed
+0	18:43:00.960	Expert gamExpert USDJPY,M15: loaded successfully
+0	18:43:00.964	gamExpert AUDUSD,M15: uninit reason 2
+0	18:43:00.991	Expert gamExpert AUDUSD,M15: removed
+0	18:43:01.027	Expert gamExpert AUDUSD,M15: loaded successfully
+0	18:43:01.031	gamExpert USDCAD,M15: uninit reason 2
+0	18:43:01.063	Expert gamExpert USDCAD,M15: removed
+0	18:43:01.094	Expert gamExpert USDCAD,M15: loaded successfully
+0	18:43:01.142	gamExpert GBPUSD,M15: initialized
+0	18:43:01.214	gamExpert USDJPY,M15: initialized
+0	18:43:01.318	gamExpert AUDUSD,M15: initialized
+0	18:43:01.322	gamExpert USDCAD,M15: initialized
+0	18:43:01.472	gamExpert EURUSD,M15: initialized
+0	18:43:39.142	gamExpert EURUSD,M15: uninit reason 2
+0	18:43:39.186	Expert gamExpert EURUSD,M15: removed
+0	18:43:39.239	Expert gamExpert EURUSD,M15: loaded successfully
+0	18:43:39.243	gamExpert GBPUSD,M15: uninit reason 2
+0	18:43:39.270	Expert gamExpert GBPUSD,M15: removed
+0	18:43:39.324	Expert gamExpert GBPUSD,M15: loaded successfully
+0	18:43:39.327	gamExpert USDJPY,M15: uninit reason 2
+0	18:43:39.356	Expert gamExpert USDJPY,M15: removed
+0	18:43:39.402	Expert gamExpert USDJPY,M15: loaded successfully
+0	18:43:39.404	gamExpert AUDUSD,M15: uninit reason 2
+0	18:43:39.422	Expert gamExpert AUDUSD,M15: removed
+0	18:43:39.456	Expert gamExpert AUDUSD,M15: loaded successfully
+0	18:43:39.458	gamExpert USDCAD,M15: uninit reason 2
+0	18:43:39.475	Expert gamExpert USDCAD,M15: removed
+0	18:43:39.507	Expert gamExpert USDCAD,M15: loaded successfully
+0	18:43:39.566	gamExpert GBPUSD,M15: initialized
+0	18:43:39.730	gamExpert USDJPY,M15: initialized
+0	18:43:39.759	gamExpert AUDUSD,M15: initialized
+0	18:43:39.819	gamExpert USDCAD,M15: initialized
+0	18:43:39.973	gamExpert EURUSD,M15: initialized
+0	18:55:18.791	gamExpert EURUSD,M15: uninit reason 2
+0	18:55:18.809	Expert gamExpert EURUSD,M15: removed
+0	18:55:18.837	Expert gamExpert EURUSD,M15: loaded successfully
+0	18:55:18.838	gamExpert GBPUSD,M15: uninit reason 2
+0	18:55:18.855	Expert gamExpert GBPUSD,M15: removed
+0	18:55:18.889	Expert gamExpert GBPUSD,M15: loaded successfully
+0	18:55:18.941	gamExpert USDJPY,M15: uninit reason 2
+0	18:55:18.974	Expert gamExpert USDJPY,M15: removed
+0	18:55:19.045	Expert gamExpert USDJPY,M15: loaded successfully
+0	18:55:19.047	gamExpert AUDUSD,M15: uninit reason 2
+0	18:55:19.106	Expert gamExpert AUDUSD,M15: removed
+0	18:55:19.141	Expert gamExpert AUDUSD,M15: loaded successfully
+0	18:55:19.142	gamExpert USDCAD,M15: uninit reason 2
+0	18:55:19.156	Expert gamExpert USDCAD,M15: removed
+0	18:55:19.183	Expert gamExpert USDCAD,M15: loaded successfully
+0	18:55:19.377	gamExpert GBPUSD,M15: initialized
+0	18:55:19.402	gamExpert USDJPY,M15: initialized
+0	18:55:19.403	gamExpert AUDUSD,M15: initialized
+0	18:55:19.438	gamExpert USDCAD,M15: initialized
+0	18:55:19.613	gamExpert EURUSD,M15: initialized
+2	18:55:19.933	gamExpert USDCAD,M15: open #2134965 buy 0.10 USDCAD at 1.39000 sl: 1.38795 tp: 1.39143 ok
+0	19:01:33.773	gamExpert EURUSD,M15: uninit reason 2
+0	19:01:33.795	Expert gamExpert EURUSD,M15: removed
+0	19:01:33.828	Expert gamExpert EURUSD,M15: loaded successfully
+0	19:01:33.829	gamExpert GBPUSD,M15: uninit reason 2
+0	19:01:33.848	Expert gamExpert GBPUSD,M15: removed
+0	19:01:33.895	Expert gamExpert GBPUSD,M15: loaded successfully
+0	19:01:33.896	gamExpert USDJPY,M15: uninit reason 2
+0	19:01:33.918	Expert gamExpert USDJPY,M15: removed
+0	19:01:33.955	Expert gamExpert USDJPY,M15: loaded successfully
+0	19:01:33.955	gamExpert AUDUSD,M15: uninit reason 2
+0	19:01:33.971	Expert gamExpert AUDUSD,M15: removed
+0	19:01:34.001	Expert gamExpert AUDUSD,M15: loaded successfully
+0	19:01:34.002	gamExpert USDCAD,M15: uninit reason 2
+0	19:01:34.018	Expert gamExpert USDCAD,M15: removed
+0	19:01:34.049	Expert gamExpert USDCAD,M15: loaded successfully
+0	19:01:34.394	gamExpert GBPUSD,M15: initialized
+0	19:01:34.463	gamExpert USDJPY,M15: initialized
+0	19:01:34.622	gamExpert AUDUSD,M15: initialized
+0	19:01:34.627	gamExpert USDCAD,M15: initialized
+0	19:01:34.855	gamExpert EURUSD,M15: initialized
+0	19:01:57.670	gamExpert USDCAD,M15: uninit reason 5
+0	19:01:57.672	gamExpert USDCAD,M15: initialized
+0	19:01:57.734	gamExpert USDCAD,M15 inputs: Lot=0.1; MagicNumber=2345; 
+0	19:02:30.798	gamExpert AUDUSD,M15: uninit reason 5
+0	19:02:30.800	gamExpert AUDUSD,M15: initialized
+0	19:02:30.830	gamExpert AUDUSD,M15 inputs: Lot=0.05; MagicNumber=33333; 
+0	19:03:01.204	gamExpert USDJPY,M15: uninit reason 5
+0	19:03:01.206	gamExpert USDJPY,M15: initialized
+0	19:03:01.246	gamExpert USDJPY,M15 inputs: Lot=0.05; MagicNumber=44444; 
+0	19:03:32.403	gamExpert GBPUSD,M15: uninit reason 5
+0	19:03:32.405	gamExpert GBPUSD,M15: initialized
+0	19:03:32.429	gamExpert GBPUSD,M15 inputs: Lot=0.05; MagicNumber=15; 
+0	19:04:01.529	gamExpert EURUSD,M15: uninit reason 5
+0	19:04:01.532	gamExpert EURUSD,M15: initialized
+0	19:04:01.566	gamExpert EURUSD,M15 inputs: Lot=0.05; MagicNumber=323232; 
+0	19:10:48.333	gamExpert EURUSD,M15: uninit reason 2
+0	19:10:48.354	Expert gamExpert EURUSD,M15: removed
+0	19:10:48.467	Expert gamExpert EURUSD,M15: loaded successfully
+0	19:10:48.469	gamExpert GBPUSD,M15: uninit reason 2
+0	19:10:48.495	Expert gamExpert GBPUSD,M15: removed
+0	19:10:48.550	Expert gamExpert GBPUSD,M15: loaded successfully
+0	19:10:48.551	gamExpert USDJPY,M15: uninit reason 2
+0	19:10:48.574	Expert gamExpert USDJPY,M15: removed
+0	19:10:48.628	Expert gamExpert USDJPY,M15: loaded successfully
+0	19:10:48.629	gamExpert AUDUSD,M15: uninit reason 2
+0	19:10:48.647	Expert gamExpert AUDUSD,M15: removed
+0	19:10:48.686	Expert gamExpert AUDUSD,M15: loaded successfully
+0	19:10:48.687	gamExpert USDCAD,M15: uninit reason 2
+0	19:10:48.705	Expert gamExpert USDCAD,M15: removed
+0	19:10:48.743	Expert gamExpert USDCAD,M15: loaded successfully
+0	19:10:48.780	gamExpert GBPUSD,M15: initialized
+0	19:10:48.883	gamExpert USDJPY,M15: initialized
+0	19:10:48.912	gamExpert AUDUSD,M15: initialized
+0	19:10:48.938	gamExpert USDCAD,M15: initialized
+0	19:10:49.086	gamExpert EURUSD,M15: initialized
+0	19:33:57.793	gamExpert EURUSD,M15: uninit reason 2
+0	19:33:57.812	Expert gamExpert EURUSD,M15: removed
+0	19:33:57.845	Expert gamExpert EURUSD,M15: loaded successfully
+0	19:33:57.847	gamExpert GBPUSD,M15: uninit reason 2
+0	19:33:57.863	Expert gamExpert GBPUSD,M15: removed
+0	19:33:57.895	Expert gamExpert GBPUSD,M15: loaded successfully
+0	19:33:57.897	gamExpert USDJPY,M15: uninit reason 2
+0	19:33:57.914	Expert gamExpert USDJPY,M15: removed
+0	19:33:57.949	Expert gamExpert USDJPY,M15: loaded successfully
+0	19:33:57.951	gamExpert AUDUSD,M15: uninit reason 2
+0	19:33:57.969	Expert gamExpert AUDUSD,M15: removed
+0	19:33:58.008	Expert gamExpert AUDUSD,M15: loaded successfully
+0	19:33:58.009	gamExpert USDCAD,M15: uninit reason 2
+0	19:33:58.026	Expert gamExpert USDCAD,M15: removed
+0	19:33:58.059	Expert gamExpert USDCAD,M15: loaded successfully
+0	19:33:58.092	gamExpert GBPUSD,M15: initialized
+0	19:33:58.231	gamExpert USDJPY,M15: initialized
+0	19:33:58.355	gamExpert AUDUSD,M15: initialized
+0	19:33:58.355	gamExpert USDCAD,M15: initialized
+0	19:33:58.532	gamExpert EURUSD,M15: initialized
+2	20:00:00.968	gamExpert EURUSD,M15: open #2137505 buy 0.05 EURUSD at 1.09374 sl: 1.09256 tp: 1.09520 ok
+0	20:10:10.202	Custom Moving Averages EURUSD,M15: uninit reason 4
+0	20:10:10.203	Gambit EURUSD,M15: uninit reason 4
+0	20:10:10.206	Parabolic EURUSD,M15: uninit reason 4
+0	20:10:10.206	1fractal EURUSD,M15: uninit reason 4
+0	20:10:10.208	Stochastic EURUSD,M15: uninit reason 4
+0	20:10:10.209	RSI EURUSD,M15: uninit reason 4
+0	20:10:10.246	Custom indicator Custom Moving Averages EURUSD,M15: removed
+0	20:10:10.261	Custom indicator Gambit EURUSD,M15: removed
+0	20:10:10.276	Custom indicator Parabolic EURUSD,M15: removed
+0	20:10:10.286	Custom indicator 1fractal EURUSD,M15: removed
+0	20:10:10.297	Custom indicator Stochastic EURUSD,M15: removed
+0	20:10:10.312	Custom indicator RSI EURUSD,M15: removed
+0	20:23:09.156	ifibonacci USDJPY,H1: uninit reason 4
+1	20:23:09.159	ifibonacci USDJPY,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	20:23:09.228	Custom Moving Averages USDJPY,H1: uninit reason 4
+0	20:23:09.229	Custom Moving Averages USDJPY,H1: uninit reason 4
+0	20:23:09.259	Custom indicator ifibonacci USDJPY,H1: removed
+0	20:23:09.274	Custom indicator Custom Moving Averages USDJPY,H1: removed
+0	20:23:09.290	Custom indicator Custom Moving Averages USDJPY,H1: removed
+0	20:24:31.323	ToolKit_v2.0 XAUUSD,H1: uninit reason 9
+0	20:24:31.333	ZigZag happy XAUUSD,H1: uninit reason 9
+0	20:24:31.334	ifibonacci XAUUSD,H1: uninit reason 9
+1	20:24:31.334	ifibonacci XAUUSD,H1: array out of range in 'ifibonacci.mq4' (205,28)
+0	20:24:31.353	gamExpert EURUSD,M15: uninit reason 9
+0	20:24:31.395	Custom Moving Averages EURUSD,M15: uninit reason 9
+0	20:24:31.396	Gambit EURUSD,M15: uninit reason 9
+0	20:24:31.397	Parabolic EURUSD,M15: uninit reason 9
+0	20:24:31.397	1fractal EURUSD,M15: uninit reason 9
+0	20:24:31.399	Stochastic EURUSD,M15: uninit reason 9
+0	20:24:31.400	RSI EURUSD,M15: uninit reason 9
+0	20:24:31.400	gamExpert GBPUSD,M15: uninit reason 9
+0	20:24:31.428	Custom Moving Averages GBPUSD,M15: uninit reason 9
+0	20:24:31.429	Gambit GBPUSD,M15: uninit reason 9
+0	20:24:31.430	Parabolic GBPUSD,M15: uninit reason 9
+0	20:24:31.432	1fractal GBPUSD,M15: uninit reason 9
+0	20:24:31.435	Stochastic GBPUSD,M15: uninit reason 9
+0	20:24:31.437	RSI GBPUSD,M15: uninit reason 9
+0	20:24:31.439	gamExpert USDJPY,M15: uninit reason 9
+0	20:24:31.462	Custom Moving Averages USDJPY,M15: uninit reason 9
+0	20:24:31.463	Gambit USDJPY,M15: uninit reason 9
+0	20:24:31.463	Parabolic USDJPY,M15: uninit reason 9
+0	20:24:31.464	1fractal USDJPY,M15: uninit reason 9
+0	20:24:31.465	Stochastic USDJPY,M15: uninit reason 9
+0	20:24:31.466	RSI USDJPY,M15: uninit reason 9
+0	20:24:31.467	gamExpert AUDUSD,M15: uninit reason 9
+0	20:24:31.492	Custom Moving Averages AUDUSD,M15: uninit reason 9
+0	20:24:31.493	Gambit AUDUSD,M15: uninit reason 9
+0	20:24:31.497	Parabolic AUDUSD,M15: uninit reason 9
+0	20:24:31.498	1fractal AUDUSD,M15: uninit reason 9
+0	20:24:31.499	Stochastic AUDUSD,M15: uninit reason 9
+0	20:24:31.500	RSI AUDUSD,M15: uninit reason 9
+0	20:24:31.500	gamExpert USDCAD,M15: uninit reason 9
+0	20:24:31.523	Custom Moving Averages USDCAD,M15: uninit reason 9
+0	20:24:31.524	Gambit USDCAD,M15: uninit reason 9
+0	20:24:31.526	Parabolic USDCAD,M15: uninit reason 9
+0	20:24:31.528	1fractal USDCAD,M15: uninit reason 9
+0	20:24:31.531	Stochastic USDCAD,M15: uninit reason 9
+0	20:24:31.531	RSI USDCAD,M15: uninit reason 9
+0	20:24:31.531	ifibonacci XAUUSD,M15: uninit reason 9
+1	20:24:31.531	ifibonacci XAUUSD,M15: array out of range in 'ifibonacci.mq4' (205,28)
+0	20:24:31.549	ZigZag happy XAUUSD,M15: uninit reason 9
+0	20:24:31.549	Stochastic XAUUSD,M15: uninit reason 9
+0	20:24:31.549	ifibonacci AUDUSD,M15: uninit reason 9
+1	20:24:31.549	ifibonacci AUDUSD,M15: array out of range in 'ifibonacci.mq4' (205,28)
+0	20:24:31.561	Custom Moving Averages AUDUSD,M15: uninit reason 9
+0	20:24:31.562	Custom Moving Averages AUDUSD,M15: uninit reason 9
+0	20:24:31.562	1fractal AUDUSD,M15: uninit reason 9
+0	20:24:31.999	Expert ToolKit_v2.0 XAUUSD,H1: removed
+0	20:24:32.013	Custom indicator ZigZag happy XAUUSD,H1: removed
+0	20:24:32.026	Custom indicator ifibonacci XAUUSD,H1: removed
+0	20:24:32.045	Expert gamExpert EURUSD,M15: removed
+0	20:24:32.057	Custom indicator Custom Moving Averages EURUSD,M15: removed
+0	20:24:32.066	Custom indicator Gambit EURUSD,M15: removed
+0	20:24:32.074	Custom indicator Parabolic EURUSD,M15: removed
+0	20:24:32.085	Custom indicator 1fractal EURUSD,M15: removed
+0	20:24:32.093	Custom indicator Stochastic EURUSD,M15: removed
+0	20:24:32.101	Custom indicator RSI EURUSD,M15: removed
+0	20:24:32.131	Expert gamExpert GBPUSD,M15: removed
+0	20:24:32.141	Custom indicator Custom Moving Averages GBPUSD,M15: removed
+0	20:24:32.151	Custom indicator Gambit GBPUSD,M15: removed
+0	20:24:32.159	Custom indicator Parabolic GBPUSD,M15: removed
+0	20:24:32.165	Custom indicator 1fractal GBPUSD,M15: removed
+0	20:24:32.171	Custom indicator Stochastic GBPUSD,M15: removed
+0	20:24:32.176	Custom indicator RSI GBPUSD,M15: removed
+0	20:24:32.186	Expert gamExpert USDJPY,M15: removed
+0	20:24:32.202	Custom indicator Custom Moving Averages USDJPY,M15: removed
+0	20:24:32.207	Custom indicator Gambit USDJPY,M15: removed
+0	20:24:32.214	Custom indicator Parabolic USDJPY,M15: removed
+0	20:24:32.221	Custom indicator 1fractal USDJPY,M15: removed
+0	20:24:32.227	Custom indicator Stochastic USDJPY,M15: removed
+0	20:24:32.231	Custom indicator RSI USDJPY,M15: removed
+0	20:24:32.241	Expert gamExpert AUDUSD,M15: removed
+0	20:24:32.249	Custom indicator Custom Moving Averages AUDUSD,M15: removed
+0	20:24:32.255	Custom indicator Gambit AUDUSD,M15: removed
+0	20:24:32.263	Custom indicator Parabolic AUDUSD,M15: removed
+0	20:24:32.269	Custom indicator 1fractal AUDUSD,M15: removed
+0	20:24:32.273	Custom indicator Stochastic AUDUSD,M15: removed
+0	20:24:32.281	Custom indicator RSI AUDUSD,M15: removed
+0	20:24:32.289	Expert gamExpert USDCAD,M15: removed
+0	20:24:32.299	Custom indicator Custom Moving Averages USDCAD,M15: removed
+0	20:24:32.306	Custom indicator Gambit USDCAD,M15: removed
+0	20:24:32.314	Custom indicator Parabolic USDCAD,M15: removed
+0	20:24:32.318	Custom indicator 1fractal USDCAD,M15: removed
+0	20:24:32.324	Custom indicator Stochastic USDCAD,M15: removed
+0	20:24:32.332	Custom indicator RSI USDCAD,M15: removed
+0	20:24:32.347	Custom indicator ifibonacci XAUUSD,M15: removed
+0	20:24:32.349	Custom indicator ZigZag happy XAUUSD,M15: removed
+0	20:24:32.357	Custom indicator Stochastic XAUUSD,M15: removed
+0	20:24:32.382	Custom indicator ifibonacci AUDUSD,M15: removed
+0	20:24:32.391	Custom indicator Custom Moving Averages AUDUSD,M15: removed
+0	20:24:32.399	Custom indicator Custom Moving Averages AUDUSD,M15: removed
+0	20:24:32.404	Custom indicator 1fractal AUDUSD,M15: removed
