@@ -50,18 +50,7 @@ int OnCalculate(const int rates_total,
   {
 //---
 //----
-   int i, frctl_zoom=30;
-//----
-   for(i=1;i<=WindowBarsPerChart();i++)   
-        {
-        if (iMA(NULL,0,10,0,0,0,i+1)>iMA(NULL,0,20,0,0,0,i+1)&&Close[i+1]>High[i]&&Low[i+1]<Low[i]) 
-         {
-          Fractal_L[i]=Low [i]-Point*frctl_zoom;
-         }
-       if (iMA(NULL,0,10,0,0,0,i+1)<iMA(NULL,0,20,0,0,0,i+1)&&Close[2]) 
-         {
-          Fractal_H[i]=High[i]+Point*frctl_zoom;
-         }
+
      }
 //----
    
